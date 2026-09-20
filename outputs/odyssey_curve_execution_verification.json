@@ -1,0 +1,258 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "method": "Ghidra SH-2A SLEIGH p-code execution via a local interpreter, compared against independently evaluated split fixed-point interpolation at every signed 16-bit input. ROM is immutable. No timing, interrupts, peripherals or physical plant modeled.",
+  "resumed_pass_elapsed_seconds": 81.02967095375061,
+  "banks": [
+    {
+      "bank": 1,
+      "input_count": 65536,
+      "output_sha256": "a814fa931c97a3df1292e0ad6b90302c78cb70759ed85d2e7bd9a7d2d170723f",
+      "instructions_executed": 13302540,
+      "axis": [
+        0,
+        128,
+        256,
+        384,
+        512,
+        640,
+        768,
+        896,
+        1024
+      ],
+      "ordinates": [
+        0,
+        2019,
+        3230,
+        3980,
+        4345,
+        4577,
+        4721,
+        4864,
+        4864
+      ],
+      "limit": 1024
+    },
+    {
+      "bank": 2,
+      "input_count": 65536,
+      "output_sha256": "a814fa931c97a3df1292e0ad6b90302c78cb70759ed85d2e7bd9a7d2d170723f",
+      "instructions_executed": 13302540,
+      "axis": [
+        0,
+        128,
+        256,
+        384,
+        512,
+        640,
+        768,
+        896,
+        1024
+      ],
+      "ordinates": [
+        0,
+        2019,
+        3230,
+        3980,
+        4345,
+        4577,
+        4721,
+        4864,
+        4864
+      ],
+      "limit": 1024
+    },
+    {
+      "bank": 3,
+      "input_count": 65536,
+      "output_sha256": "a814fa931c97a3df1292e0ad6b90302c78cb70759ed85d2e7bd9a7d2d170723f",
+      "instructions_executed": 13302540,
+      "axis": [
+        0,
+        128,
+        256,
+        384,
+        512,
+        640,
+        768,
+        896,
+        1024
+      ],
+      "ordinates": [
+        0,
+        2019,
+        3230,
+        3980,
+        4345,
+        4577,
+        4721,
+        4864,
+        4864
+      ],
+      "limit": 1024
+    },
+    {
+      "bank": 4,
+      "input_count": 65536,
+      "output_sha256": "c2171070377c13f88a56e0bd0b1f19663345074224f95cc32c7f8012de225930",
+      "instructions_executed": 12604801,
+      "axis": [
+        0,
+        222,
+        443,
+        665,
+        887,
+        1109,
+        1330,
+        1552,
+        1774
+      ],
+      "ordinates": [
+        0,
+        1715,
+        2842,
+        3277,
+        3738,
+        4173,
+        4506,
+        4570,
+        4570
+      ],
+      "limit": 1024,
+      "different_from_ideal_linear_count": 130,
+      "max_difference_from_ideal_linear": 1,
+      "fixed_point_slopes": [
+        518430780,
+        342224820,
+        131497020,
+        139356612,
+        131497020,
+        101118780,
+        19346688,
+        0
+      ]
+    },
+    {
+      "bank": 5,
+      "input_count": 65536,
+      "output_sha256": "c2171070377c13f88a56e0bd0b1f19663345074224f95cc32c7f8012de225930",
+      "instructions_executed": 12604801,
+      "axis": [
+        0,
+        222,
+        443,
+        665,
+        887,
+        1109,
+        1330,
+        1552,
+        1774
+      ],
+      "ordinates": [
+        0,
+        1715,
+        2842,
+        3277,
+        3738,
+        4173,
+        4506,
+        4570,
+        4570
+      ],
+      "limit": 1024,
+      "different_from_ideal_linear_count": 130,
+      "max_difference_from_ideal_linear": 1,
+      "fixed_point_slopes": [
+        518430780,
+        342224820,
+        131497020,
+        139356612,
+        131497020,
+        101118780,
+        19346688,
+        0
+      ]
+    },
+    {
+      "bank": 6,
+      "input_count": 65536,
+      "output_sha256": "c2171070377c13f88a56e0bd0b1f19663345074224f95cc32c7f8012de225930",
+      "instructions_executed": 12604801,
+      "axis": [
+        0,
+        222,
+        443,
+        665,
+        887,
+        1109,
+        1330,
+        1552,
+        1774
+      ],
+      "ordinates": [
+        0,
+        1715,
+        2842,
+        3277,
+        3738,
+        4173,
+        4506,
+        4570,
+        4570
+      ],
+      "limit": 1024,
+      "different_from_ideal_linear_count": 130,
+      "max_difference_from_ideal_linear": 1,
+      "fixed_point_slopes": [
+        518430780,
+        342224820,
+        131497020,
+        139356612,
+        131497020,
+        101118780,
+        19346688,
+        0
+      ]
+    },
+    {
+      "bank": 7,
+      "input_count": 65536,
+      "output_sha256": "c2171070377c13f88a56e0bd0b1f19663345074224f95cc32c7f8012de225930",
+      "instructions_executed": 12604801,
+      "axis": [
+        0,
+        222,
+        443,
+        665,
+        887,
+        1109,
+        1330,
+        1552,
+        1774
+      ],
+      "ordinates": [
+        0,
+        1715,
+        2842,
+        3277,
+        3738,
+        4173,
+        4506,
+        4570,
+        4570
+      ],
+      "limit": 1024,
+      "different_from_ideal_linear_count": 130,
+      "max_difference_from_ideal_linear": 1,
+      "fixed_point_slopes": [
+        518430780,
+        342224820,
+        131497020,
+        139356612,
+        131497020,
+        101118780,
+        19346688,
+        0
+      ]
+    }
+  ]
+}

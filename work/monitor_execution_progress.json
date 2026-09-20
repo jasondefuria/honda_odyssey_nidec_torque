@@ -1,0 +1,51 @@
+[
+  {
+    "bank": 1,
+    "input_count": 65536,
+    "instructions_executed": 18021133,
+    "mismatch_counters_nonzero": false,
+    "monitor_fault_flags": 0
+  },
+  {
+    "bank": 2,
+    "input_count": 65536,
+    "instructions_executed": 18021133,
+    "mismatch_counters_nonzero": false,
+    "monitor_fault_flags": 0
+  },
+  {
+    "bank": 3,
+    "input_count": 65536,
+    "instructions_executed": 18021133,
+    "mismatch_counters_nonzero": false,
+    "monitor_fault_flags": 0
+  },
+  {
+    "bank": 4,
+    "input_count": 65536,
+    "instructions_executed": 17323394,
+    "mismatch_counters_nonzero": false,
+    "monitor_fault_flags": 0
+  },
+  {
+    "bank": 5,
+    "input_count": 65536,
+    "instructions_executed": 17323394,
+    "mismatch_counters_nonzero": false,
+    "monitor_fault_flags": 0
+  },
+  {
+    "bank": 6,
+    "input_count": 65536,
+    "instructions_executed": 17323394,
+    "mismatch_counters_nonzero": false,
+    "monitor_fault_flags": 0
+  },
+  {
+    "bank": 7,
+    "input_count": 65536,
+    "instructions_executed": 17323394,
+    "mismatch_counters_nonzero": false,
+    "monitor_fault_flags": 0
+  }
+]

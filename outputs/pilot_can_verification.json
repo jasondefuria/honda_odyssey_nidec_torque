@@ -1,0 +1,15 @@
+{
+  "rom_table_base_inferred": "0x12000",
+  "base_evidence": "Multiple tp-relative accesses align descriptor, policy, callback and dispatcher tables; no tp initialization captured.",
+  "hardware_slot": 10,
+  "descriptor_address": "0x10140",
+  "descriptor_hex": "04000000e400000000010100",
+  "can_id": "0xe4",
+  "logical_rx_index": 1,
+  "driver_callback": "0x40FE4",
+  "payload_parser": "0x40534",
+  "policy": "0303000a",
+  "checksum_seed": 26,
+  "reference_hash": "6ef205bceb5128f48e27182fa4e128173f2f6c0995192efd57809c237b81e40f",
+  "scope": "Static routing and byte verification; no hardware execution."
+}

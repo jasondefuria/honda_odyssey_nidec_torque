@@ -1,0 +1,179 @@
+{
+  "sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "preserved_copy_identical": true,
+  "parallel_calibrations": [
+    {
+      "bank": 1,
+      "main": "0x57bac",
+      "monitor": "0x67bc2",
+      "bytes": 2,
+      "equal": true
+    },
+    {
+      "bank": 1,
+      "main": "0x57bae",
+      "monitor": "0x67bc4",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 1,
+      "main": "0x57bc0",
+      "monitor": "0x67bd6",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 2,
+      "main": "0x57eac",
+      "monitor": "0x67ec2",
+      "bytes": 2,
+      "equal": true
+    },
+    {
+      "bank": 2,
+      "main": "0x57eae",
+      "monitor": "0x67ec4",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 2,
+      "main": "0x57ec0",
+      "monitor": "0x67ed6",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 3,
+      "main": "0x581ac",
+      "monitor": "0x681c2",
+      "bytes": 2,
+      "equal": true
+    },
+    {
+      "bank": 3,
+      "main": "0x581ae",
+      "monitor": "0x681c4",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 3,
+      "main": "0x581c0",
+      "monitor": "0x681d6",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 4,
+      "main": "0x584ac",
+      "monitor": "0x684c2",
+      "bytes": 2,
+      "equal": true
+    },
+    {
+      "bank": 4,
+      "main": "0x584ae",
+      "monitor": "0x684c4",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 4,
+      "main": "0x584c0",
+      "monitor": "0x684d6",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 5,
+      "main": "0x587ac",
+      "monitor": "0x687c2",
+      "bytes": 2,
+      "equal": true
+    },
+    {
+      "bank": 5,
+      "main": "0x587ae",
+      "monitor": "0x687c4",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 5,
+      "main": "0x587c0",
+      "monitor": "0x687d6",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 6,
+      "main": "0x58aac",
+      "monitor": "0x68ac2",
+      "bytes": 2,
+      "equal": true
+    },
+    {
+      "bank": 6,
+      "main": "0x58aae",
+      "monitor": "0x68ac4",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 6,
+      "main": "0x58ac0",
+      "monitor": "0x68ad6",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 7,
+      "main": "0x58dac",
+      "monitor": "0x68dc2",
+      "bytes": 2,
+      "equal": true
+    },
+    {
+      "bank": 7,
+      "main": "0x58dae",
+      "monitor": "0x68dc4",
+      "bytes": 18,
+      "equal": true
+    },
+    {
+      "bank": 7,
+      "main": "0x58dc0",
+      "monitor": "0x68dd6",
+      "bytes": 18,
+      "equal": true
+    }
+  ],
+  "debounce_parameters": [
+    255,
+    86,
+    255
+  ],
+  "three_failure_counter_sequence": [
+    86,
+    172,
+    255
+  ],
+  "hardware_base": "0xffff8200",
+  "hardware_registers": [
+    "0xFFFF8228",
+    "0xFFFF8226",
+    "0xFFFF822A"
+  ],
+  "count_conversion_exhaustive_signed_range": [
+    -32767,
+    32767
+  ],
+  "count_range": [
+    0,
+    2030
+  ],
+  "count_conversion_monotone": true,
+  "scope": "Byte/arithmetic checks support, but do not independently prove, static dataflow."
+}

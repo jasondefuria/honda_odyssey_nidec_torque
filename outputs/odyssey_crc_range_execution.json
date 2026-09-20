@@ -1,0 +1,277 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "routine": "0x4FE8",
+  "scope": "Original routine and CRC helpers with synthetic descriptor/input RAM and a modeled successful read callback; no programming entry point or flash acceptance tested.",
+  "cases": [
+    {
+      "ranges": [],
+      "expected_crc_corrupted": false,
+      "return": 0,
+      "selected_crc": "0x0",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          64
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "instructions": 8097
+    },
+    {
+      "ranges": [],
+      "expected_crc_corrupted": true,
+      "return": 2,
+      "selected_crc": "0x0",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          64
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "instructions": 8099
+    },
+    {
+      "ranges": [
+        [
+          17,
+          101
+        ]
+      ],
+      "expected_crc_corrupted": false,
+      "return": 0,
+      "selected_crc": "0x6f57fb3d",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          17
+        ],
+        [
+          17,
+          64
+        ],
+        [
+          81,
+          37
+        ],
+        [
+          118,
+          64
+        ],
+        [
+          182,
+          64
+        ],
+        [
+          246,
+          10
+        ]
+      ],
+      "instructions": 11383
+    },
+    {
+      "ranges": [
+        [
+          17,
+          101
+        ]
+      ],
+      "expected_crc_corrupted": true,
+      "return": 2,
+      "selected_crc": "0x6f57fb3d",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          17
+        ],
+        [
+          17,
+          64
+        ],
+        [
+          81,
+          37
+        ],
+        [
+          118,
+          64
+        ],
+        [
+          182,
+          64
+        ],
+        [
+          246,
+          10
+        ]
+      ],
+      "instructions": 11385
+    },
+    {
+      "ranges": [
+        [
+          0,
+          64
+        ],
+        [
+          128,
+          99
+        ]
+      ],
+      "expected_crc_corrupted": false,
+      "return": 0,
+      "selected_crc": "0xdb09e25a",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          64
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          64
+        ],
+        [
+          192,
+          35
+        ],
+        [
+          227,
+          29
+        ]
+      ],
+      "instructions": 13248
+    },
+    {
+      "ranges": [
+        [
+          0,
+          64
+        ],
+        [
+          128,
+          99
+        ]
+      ],
+      "expected_crc_corrupted": true,
+      "return": 2,
+      "selected_crc": "0xdb09e25a",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          64
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          64
+        ],
+        [
+          192,
+          35
+        ],
+        [
+          227,
+          29
+        ]
+      ],
+      "instructions": 13250
+    },
+    {
+      "ranges": [
+        [
+          0,
+          256
+        ]
+      ],
+      "expected_crc_corrupted": false,
+      "return": 0,
+      "selected_crc": "0x29058c73",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          64
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "instructions": 15938
+    },
+    {
+      "ranges": [
+        [
+          0,
+          256
+        ]
+      ],
+      "expected_crc_corrupted": true,
+      "return": 2,
+      "selected_crc": "0x29058c73",
+      "whole_crc": "0x29058c73",
+      "read_calls": [
+        [
+          0,
+          64
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "instructions": 15940
+    }
+  ]
+}

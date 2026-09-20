@@ -1,0 +1,1287 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "scope": "Original segment 4B658..4B8C6 exclusive, supplying r1=FFF89350 and a fresh synthetic stack; original EF flag only; original 2DE7A and 7541E run without substitutions. Exhaustive over the gate byte, not all diagnostic RAM states or timing.",
+  "cases": [
+    {
+      "gate_byte": 0,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 1,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 2,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 3,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 4,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 5,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 6,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 7,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 8,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 9,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 10,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 11,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 12,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 13,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 14,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 15,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 16,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 17,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 18,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 19,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 20,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 21,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 22,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 23,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 24,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 25,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 26,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 27,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 28,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 29,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 30,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 31,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 32,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 33,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 34,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 35,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 36,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 37,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 38,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 39,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 40,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 41,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 42,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 43,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 44,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 45,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 46,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 47,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 48,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 49,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 50,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 51,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 52,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 53,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 54,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 55,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 56,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 57,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 58,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 59,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 60,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 61,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 62,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 63,
+      "processed_fault_word": 32768,
+      "can_fault": 1
+    },
+    {
+      "gate_byte": 64,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 65,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 66,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 67,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 68,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 69,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 70,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 71,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 72,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 73,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 74,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 75,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 76,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 77,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 78,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 79,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 80,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 81,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 82,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 83,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 84,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 85,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 86,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 87,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 88,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 89,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 90,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 91,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 92,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 93,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 94,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 95,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 96,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 97,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 98,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 99,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 100,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 101,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 102,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 103,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 104,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 105,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 106,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 107,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 108,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 109,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 110,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 111,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 112,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 113,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 114,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 115,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 116,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 117,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 118,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 119,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 120,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 121,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 122,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 123,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 124,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 125,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 126,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 127,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 128,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 129,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 130,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 131,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 132,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 133,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 134,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 135,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 136,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 137,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 138,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 139,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 140,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 141,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 142,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 143,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 144,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 145,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 146,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 147,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 148,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 149,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 150,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 151,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 152,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 153,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 154,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 155,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 156,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 157,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 158,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 159,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 160,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 161,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 162,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 163,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 164,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 165,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 166,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 167,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 168,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 169,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 170,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 171,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 172,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 173,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 174,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 175,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 176,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 177,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 178,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 179,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 180,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 181,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 182,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 183,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 184,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 185,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 186,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 187,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 188,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 189,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 190,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 191,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 192,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 193,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 194,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 195,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 196,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 197,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 198,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 199,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 200,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 201,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 202,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 203,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 204,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 205,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 206,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 207,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 208,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 209,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 210,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 211,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 212,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 213,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 214,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 215,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 216,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 217,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 218,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 219,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 220,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 221,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 222,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 223,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 224,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 225,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 226,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 227,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 228,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 229,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 230,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 231,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 232,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 233,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 234,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 235,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 236,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 237,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 238,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 239,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 240,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 241,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 242,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 243,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 244,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 245,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 246,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 247,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 248,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 249,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 250,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 251,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 252,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 253,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 254,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    },
+    {
+      "gate_byte": 255,
+      "processed_fault_word": 0,
+      "can_fault": 0
+    }
+  ],
+  "passed": 256
+}

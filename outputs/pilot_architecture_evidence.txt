@@ -1,0 +1,39 @@
+0002D000 prepare    { r29,lp }, 0x0
+0002D004 movea      -0x4d00, gp, r29
+0002D008 st.w       r0, 0x0[r29]
+0002D00C st.h       r0, 0x4[r29]
+0002D010 st.h       r0, 0x6[r29]
+0002D014 st.h       r0, 0x8[r29]
+0002D018 jarl       0x3eb52, lp
+0002D01E st.h       r10, 0xa[r29]
+0002D022 st.b       r0, 0xc[r29]
+0002D026 mov        0x4, r1
+0002D028 st.b       r1, 0xd[r29]
+0002D02C mov        0x8, r1
+0002D02E st.b       r1, 0xe[r29]
+0002D032 st.b       r0, 0xf[r29]
+0002D036 st.b       r0, 0x10[r29]
+0002D03A st.b       r0, 0x11[r29]
+0004FBF8 st.h       r0, -0x66fa[gp]
+0004FBFC mov        0x2, r15
+0004FBFE st.b       r15, -0x66f8[gp]
+0004FC02 br         0x4fc10
+0004FC04 cmp        0x2, r12
+0004FC06 bne        0x4fc42
+0004FC08 cmp        0x1, r10
+0004FC0A bne        0x4fc38
+0004FC0C ld.hu      -0x66fa[gp], r14
+0004FC10 ld.hu      0x1b96[tp], r12
+0004FC14 cmp        r12, r14
+0004FC16 bnc        0x4fc22
+0004FC18 add        0x1, r14
+0004FC1A zxh        r14
+0004FC1C st.h       r14, -0x66fa[gp]
+0004FC20 br         0x4fc8e
+0004FC22 mov        0x3, r12
+0004FC24 st.b       r12, -0x66f8[gp]
+0004FC28 movea      0x6d, r0, r6
+0004FC2C mov        0x1, r7
+0004FC2E jarl       0x541a6, lp
+0004FC32 ld.bu      -0x66f8[gp], r12
+0004FC36 br         0x4fc42

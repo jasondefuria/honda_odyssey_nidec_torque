@@ -1,0 +1,57 @@
+{
+  "attachment_sha256": "6ef205bceb5128f48e27182fa4e128173f2f6c0995192efd57809c237b81e40f",
+  "matches_repository_wip": true,
+  "decoding": "(((byte+1)^2)-3)&255",
+  "stock_matches_raw_dump": true,
+  "cumulative_le32_sums": {
+    "stock": {
+      "0xa000": 0,
+      "0x1d000": 0,
+      "0x4ff00": 0
+    },
+    "2x": {
+      "0xa000": 0,
+      "0x1d000": 0,
+      "0x4ff00": 0
+    }
+  },
+  "five_repeated_changed_ranges": [
+    {
+      "bank": 1,
+      "changed_curve_start": "0x1ea54",
+      "end_exclusive": "0x1ebd0",
+      "last_stock_word": 5120,
+      "last_modified_word": 10246
+    },
+    {
+      "bank": 2,
+      "changed_curve_start": "0x1f8d6",
+      "end_exclusive": "0x1fa52",
+      "last_stock_word": 5120,
+      "last_modified_word": 10246
+    },
+    {
+      "bank": 3,
+      "changed_curve_start": "0x20758",
+      "end_exclusive": "0x208d4",
+      "last_stock_word": 5120,
+      "last_modified_word": 10246
+    },
+    {
+      "bank": 4,
+      "changed_curve_start": "0x215da",
+      "end_exclusive": "0x21756",
+      "last_stock_word": 5120,
+      "last_modified_word": 10246
+    },
+    {
+      "bank": 5,
+      "changed_curve_start": "0x2245c",
+      "end_exclusive": "0x225d8",
+      "last_stock_word": 5120,
+      "last_modified_word": 10246
+    }
+  ],
+  "architecture_evidence": "V850 little-endian decoding yields coherent routines; repository also profiles this identity as V850.",
+  "supersedes": "Earlier preliminary Pilot comparison used the Civic substitution decoder; that intermediate result was invalid and has been regenerated."
+}

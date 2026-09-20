@@ -1,0 +1,408 @@
+{
+  "changed_bytes": 1894,
+  "all_changed_bytes_accounted_for_by_regions": true,
+  "banks": [
+    {
+      "ascending_address_bank": 1,
+      "variant_selector": 5,
+      "base": "0x1e5aa",
+      "table": "0x1e9d0",
+      "changed_indices": [
+        66,
+        255
+      ],
+      "samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "fields": [
+        {
+          "offset": "0xc34",
+          "address": "0x1f1de",
+          "stock": 40960,
+          "modified": 48640,
+          "role": "upper bound before /256"
+        },
+        {
+          "offset": "0xc78",
+          "address": "0x1f222",
+          "stock": 128,
+          "modified": 190,
+          "role": "proportional clamp"
+        },
+        {
+          "offset": "0xc79",
+          "address": "0x1f223",
+          "stock": 160,
+          "modified": 190,
+          "role": "combined correction clamp"
+        },
+        {
+          "offset": "0xc7a",
+          "address": "0x1f224",
+          "stock": 409,
+          "modified": 486,
+          "role": "final correction clamp"
+        },
+        {
+          "offset": "0xc81",
+          "address": "0x1f22b",
+          "stock": 20,
+          "modified": 1,
+          "role": "status acceptance lower threshold"
+        }
+      ],
+      "multi_signal_threshold_address": "0x2bdb8"
+    },
+    {
+      "ascending_address_bank": 2,
+      "variant_selector": 4,
+      "base": "0x1f42c",
+      "table": "0x1f852",
+      "changed_indices": [
+        66,
+        255
+      ],
+      "samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "fields": [
+        {
+          "offset": "0xc34",
+          "address": "0x20060",
+          "stock": 40960,
+          "modified": 48640,
+          "role": "upper bound before /256"
+        },
+        {
+          "offset": "0xc78",
+          "address": "0x200a4",
+          "stock": 128,
+          "modified": 190,
+          "role": "proportional clamp"
+        },
+        {
+          "offset": "0xc79",
+          "address": "0x200a5",
+          "stock": 160,
+          "modified": 190,
+          "role": "combined correction clamp"
+        },
+        {
+          "offset": "0xc7a",
+          "address": "0x200a6",
+          "stock": 409,
+          "modified": 486,
+          "role": "final correction clamp"
+        },
+        {
+          "offset": "0xc81",
+          "address": "0x200ad",
+          "stock": 20,
+          "modified": 1,
+          "role": "status acceptance lower threshold"
+        }
+      ],
+      "multi_signal_threshold_address": "0x2c030"
+    },
+    {
+      "ascending_address_bank": 3,
+      "variant_selector": 3,
+      "base": "0x202ae",
+      "table": "0x206d4",
+      "changed_indices": [
+        66,
+        255
+      ],
+      "samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "fields": [
+        {
+          "offset": "0xc34",
+          "address": "0x20ee2",
+          "stock": 40960,
+          "modified": 48640,
+          "role": "upper bound before /256"
+        },
+        {
+          "offset": "0xc78",
+          "address": "0x20f26",
+          "stock": 128,
+          "modified": 190,
+          "role": "proportional clamp"
+        },
+        {
+          "offset": "0xc79",
+          "address": "0x20f27",
+          "stock": 160,
+          "modified": 190,
+          "role": "combined correction clamp"
+        },
+        {
+          "offset": "0xc7a",
+          "address": "0x20f28",
+          "stock": 409,
+          "modified": 486,
+          "role": "final correction clamp"
+        },
+        {
+          "offset": "0xc81",
+          "address": "0x20f2f",
+          "stock": 20,
+          "modified": 1,
+          "role": "status acceptance lower threshold"
+        }
+      ],
+      "multi_signal_threshold_address": "0x2c2a8"
+    },
+    {
+      "ascending_address_bank": 4,
+      "variant_selector": 2,
+      "base": "0x21130",
+      "table": "0x21556",
+      "changed_indices": [
+        66,
+        255
+      ],
+      "samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "fields": [
+        {
+          "offset": "0xc34",
+          "address": "0x21d64",
+          "stock": 40960,
+          "modified": 48640,
+          "role": "upper bound before /256"
+        },
+        {
+          "offset": "0xc78",
+          "address": "0x21da8",
+          "stock": 128,
+          "modified": 190,
+          "role": "proportional clamp"
+        },
+        {
+          "offset": "0xc79",
+          "address": "0x21da9",
+          "stock": 160,
+          "modified": 190,
+          "role": "combined correction clamp"
+        },
+        {
+          "offset": "0xc7a",
+          "address": "0x21daa",
+          "stock": 409,
+          "modified": 486,
+          "role": "final correction clamp"
+        },
+        {
+          "offset": "0xc81",
+          "address": "0x21db1",
+          "stock": 20,
+          "modified": 1,
+          "role": "status acceptance lower threshold"
+        }
+      ],
+      "multi_signal_threshold_address": "0x2c520"
+    },
+    {
+      "ascending_address_bank": 5,
+      "variant_selector": 1,
+      "base": "0x21fb2",
+      "table": "0x223d8",
+      "changed_indices": [
+        66,
+        255
+      ],
+      "samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "fields": [
+        {
+          "offset": "0xc34",
+          "address": "0x22be6",
+          "stock": 40960,
+          "modified": 48640,
+          "role": "upper bound before /256"
+        },
+        {
+          "offset": "0xc78",
+          "address": "0x22c2a",
+          "stock": 128,
+          "modified": 190,
+          "role": "proportional clamp"
+        },
+        {
+          "offset": "0xc79",
+          "address": "0x22c2b",
+          "stock": 160,
+          "modified": 190,
+          "role": "combined correction clamp"
+        },
+        {
+          "offset": "0xc7a",
+          "address": "0x22c2c",
+          "stock": 409,
+          "modified": 486,
+          "role": "final correction clamp"
+        },
+        {
+          "offset": "0xc81",
+          "address": "0x22c33",
+          "stock": 20,
+          "modified": 1,
+          "role": "status acceptance lower threshold"
+        }
+      ],
+      "multi_signal_threshold_address": "0x2c798"
+    }
+  ],
+  "rounding_helper": "sign(x)*floor((abs(x)+2**(n-1))/2**n) for positive shift n",
+  "caveat": "Region coverage is complete; full behavioral and hardware tracing is not."
+}

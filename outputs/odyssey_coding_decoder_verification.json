@@ -1,0 +1,10 @@
+{
+  "original_code_cases_compared": 193,
+  "all_matched": true,
+  "source_evidence": "odyssey_coding_record_execution.json",
+  "compared_fields": [
+    "loaded_coding_hex",
+    "can_assist_enable"
+  ],
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2"
+}

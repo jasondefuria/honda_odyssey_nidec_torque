@@ -1,0 +1,171 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "scope": "Original matcher and full loader, all unique table IDs plus two unmatched IDs. Auxiliary calibration RAM is zero; this does not establish actual EEPROM coding or active bank override state.",
+  "cases": [
+    {
+      "coding_hex": "0000000000",
+      "coding_text": "\u0000\u0000\u0000\u0000\u0000",
+      "matched_record": 0,
+      "loader_return": 1,
+      "mode": 3,
+      "bank": 1,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448524130",
+      "coding_text": "THRA0",
+      "matched_record": 1,
+      "loader_return": 1,
+      "mode": 3,
+      "bank": 1,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448524330",
+      "coding_text": "THRC0",
+      "matched_record": 2,
+      "loader_return": 1,
+      "mode": 3,
+      "bank": 1,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448524131",
+      "coding_text": "THRA1",
+      "matched_record": 3,
+      "loader_return": 1,
+      "mode": 3,
+      "bank": 2,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448524132",
+      "coding_text": "THRA2",
+      "matched_record": 4,
+      "loader_return": 1,
+      "mode": 3,
+      "bank": 2,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448524133",
+      "coding_text": "THRA3",
+      "matched_record": 5,
+      "loader_return": 1,
+      "mode": 1,
+      "bank": 2,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448524134",
+      "coding_text": "THRA4",
+      "matched_record": 6,
+      "loader_return": 1,
+      "mode": 1,
+      "bank": 3,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448525830",
+      "coding_text": "THRX0",
+      "matched_record": 7,
+      "loader_return": 1,
+      "mode": 3,
+      "bank": 3,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448525930",
+      "coding_text": "THRY0",
+      "matched_record": 8,
+      "loader_return": 1,
+      "mode": 3,
+      "bank": 3,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5858585858",
+      "coding_text": "XXXXX",
+      "matched_record": -1,
+      "loader_return": 0,
+      "mode": 3,
+      "bank": 1,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "coding_hex": "5448524139",
+      "coding_text": "THRA9",
+      "matched_record": -1,
+      "loader_return": 0,
+      "mode": 3,
+      "bank": 1,
+      "feature_flags_FFF86E80_through_84": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

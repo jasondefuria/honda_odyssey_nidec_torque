@@ -1,0 +1,447 @@
+V850 LE32. tp-relative ROM base 0x12000 is inferred from consistent table alignment; gp remains symbolic.
+
+WINDOW 422D0..4236C
+0422D0 bne        0x42368
+0422D2 shr        0x8, r7
+0422D4 mov        r7, r14
+0422D6 shl        0x6, r14
+0422D8 mov        r14, ep
+0422DA mov        0xff491000, r10
+0422E0 mov        0xff489000, r12
+0422E6 add        r14, r12
+0422E8 mov        0x4, r8
+0422EA st.h       r8, 0x38[r12]
+0422EE add        r10, r14
+0422F0 ld.w       0x28[r14], r13
+0422F4 movhi      -0x8000, r0, r15
+0422F8 add        r11, ep
+0422FA and        r13, r15
+0422FC mov        0x1fffffff, r16
+042302 bne        0x42308
+042304 movea      0x7ff, r0, r16
+042308 and        r13, r16
+04230A st.w       r16, 0x0[sp]
+04230E ld.bu      0x20[ep], r16
+042312 st.b       r16, 0x4[sp]
+042316 sld.bu     0x0[ep], r14
+042318 st.b       r14, 0x5[sp]
+04231C sld.bu     0x4[ep], r11
+04231E st.b       r11, 0x6[sp]
+042322 sld.bu     0x8[ep], r9
+042324 st.b       r9, 0x7[sp]
+042328 sld.bu     0xc[ep], r6
+04232A st.b       r6, 0x8[sp]
+04232E ld.bu      0x10[ep], r15
+042332 st.b       r15, 0x9[sp]
+042336 ld.bu      0x14[ep], r13
+04233A st.b       r13, 0xa[sp]
+04233E ld.bu      0x18[ep], r10
+042342 st.b       r10, 0xb[sp]
+042346 ld.bu      0x1c[ep], r8
+04234A ld.hu      0x38[r12], r14
+04234E st.b       r8, 0xc[sp]
+042352 andi       0x2004, r14, r0
+042356 bne        0x42368
+042358 ld.w       -0x1da8[tp], r28
+04235C mov        0x42368, lp
+042362 mov        sp, r8
+042364 mov        0x0, r6
+042366 jmp        [r28]
+042368 dispose    0x4, { r28,lp }, [lp]
+
+WINDOW 4704E..470A0
+04704E prepare    { r24,r28,lp }, 0x1
+047052 mov        r6, r24
+047054 jarl       0x41f38, lp
+047058 cmp        r0, r10
+04705A bne        0x4709c
+04705C jarl       0x41fe6, lp
+047060 mov        0x0, r28
+047062 mulhi      0xc, r28, ep
+047066 movea      -0x1f38, tp, r8
+04706A add        r8, ep
+04706C sld.w      0x0[ep], r14
+04706E and        r24, r14
+047070 be         0x4707c
+047072 sld.w      0x4[ep], r8
+047074 sld.bu     0x9[ep], r15
+047076 mov        0x1, r6
+047078 sld.bu     0x8[ep], r9
+04707A br         0x47084
+04707C mov        0x0, r8
+04707E mov        0x0, r9
+047080 mov        0x0, r15
+047082 mov        0x0, r6
+047084 mov        r28, r7
+047086 st.w       r15, 0x0[sp]
+04708A jarl       0x4206c, lp
+04708E add        0x1, r28
+047090 zxb        r28
+047092 addi       -0x20, r28, r0
+047096 bc         0x4709c
+047098 cmp        r0, r10
+04709A be         0x47062
+04709C dispose    0x1, { r24,r28,lp }, [lp]
+
+WINDOW 40B50..40BE4
+040B50 mov        0x0, r11
+040B52 mov        0x5, r7
+040B54 movea      -0x7ed8, gp, r15
+040B58 movea      -0x1f84, tp, r6
+040B5C movea      0xff, r0, r9
+040B60 st.b       r9, 0x0[r15]
+040B64 addi       -0xc, r6, ep
+040B68 tst1       0x0, -0xc[r6]
+040B6C be         0x40ba2
+040B6E sld.bu     0x2[ep], r10
+040B70 sld.bu     0x3[ep], r8
+040B72 shl        0x5, r10
+040B74 add        r10, r8
+040B76 mulhi      0xc, r8, ep
+040B7A movea      -0x1f38, tp, r14
+040B7E add        r14, ep
+040B80 sld.w      0x4[ep], r12
+040B82 movea      -0x7ec0, gp, ep
+040B86 add        r11, ep
+040B88 andi       0xf, r12, r8
+040B8C andi       0xf0, r12, r13
+040B90 addi       0x8, r8, r14
+040B94 shr        0x4, r13
+040B96 add        r13, r14
+040B98 andi       0x700, r12, r12
+040B9C shr        0x8, r12
+040B9E add        r12, r14
+040BA0 sst.b      r14, 0x0[ep]
+040BA2 st.b       r9, 0x1[r15]
+040BA6 addi       -0x8, r6, ep
+040BAA tst1       0x0, -0x8[r6]
+040BAE be         0x40be2
+040BB0 sld.bu     0x2[ep], r10
+040BB2 sld.bu     0x3[ep], r8
+040BB4 shl        0x5, r10
+040BB6 add        r10, r8
+040BB8 mulhi      0xc, r8, ep
+040BBC movea      -0x1f38, tp, r14
+040BC0 add        r14, ep
+040BC2 sld.w      0x4[ep], r12
+040BC4 movea      -0x7ec0, gp, ep
+040BC8 add        r11, ep
+040BCA andi       0xf, r12, r14
+040BCE andi       0xf0, r12, r13
+040BD2 add        0x8, r14
+040BD4 shr        0x4, r13
+040BD6 add        r13, r14
+040BD8 andi       0x700, r12, r12
+040BDC shr        0x8, r12
+040BDE add        r12, r14
+040BE0 sst.b      r14, 0x1[ep]
+040BE2 st.b       r9, 0x2[r15]
+
+WINDOW 40EAA..41074
+040EAA mov        r6, r13
+040EAC zxb        r13
+040EAE mov        r7, r16
+040EB0 mov        r13, ep
+040EB2 shl        0x2, ep
+040EB4 ld.bu      0x4[r7], r7
+040EB8 add        tp, ep
+040EBA ld.bu      -0x1f90[ep], r2
+040EBE movea      -0x7ec0, gp, ep
+040EC2 add        r13, ep
+040EC4 sld.bu     0x0[ep], r14
+040EC6 mov        0x0, r9
+040EC8 cmp        r0, r7
+040ECA mov        0x1, r1
+040ECC be         0x40f4e
+040ECE mov        r7, r10
+040ED0 shr        0x3, r10
+040ED2 be         0x40f32
+040ED4 movea      0x5, r16, ep
+040ED8 mov        r10, r9
+040EDA shl        0x3, r9
+040EDC sld.bu     0x0[ep], r12
+040EDE mov        r12, r8
+040EE0 shr        0x4, r8
+040EE2 add        r8, r14
+040EE4 add        r12, r14
+040EE6 sld.bu     0x1[ep], r12
+040EE8 mov        r12, r6
+040EEA shr        0x4, r6
+040EEC add        r6, r14
+040EEE add        r12, r14
+040EF0 sld.bu     0x2[ep], r12
+040EF2 mov        r12, r15
+040EF4 shr        0x4, r15
+040EF6 add        r15, r14
+040EF8 add        r12, r14
+040EFA sld.bu     0x3[ep], r12
+040EFC mov        r12, r11
+040EFE shr        0x4, r11
+040F00 add        r11, r14
+040F02 add        r12, r14
+040F04 sld.bu     0x4[ep], r12
+040F06 mov        r12, r8
+040F08 shr        0x4, r8
+040F0A add        r8, r14
+040F0C add        r12, r14
+040F0E sld.bu     0x5[ep], r12
+040F10 mov        r12, r6
+040F12 shr        0x4, r6
+040F14 add        r6, r14
+040F16 add        r12, r14
+040F18 sld.bu     0x6[ep], r12
+040F1A mov        r12, r15
+040F1C shr        0x4, r15
+040F1E add        r15, r14
+040F20 add        r12, r14
+040F22 sld.bu     0x7[ep], r12
+040F24 add        0x8, ep
+040F26 mov        r12, r11
+040F28 shr        0x4, r11
+040F2A add        r11, r14
+040F2C add        r12, r14
+040F2E add        -0x1, r10
+040F30 bne        0x40edc
+040F32 andi       0x7, r7, r10
+040F36 be         0x40f4e
+040F38 movea      0x5, r16, ep
+040F3C add        r9, ep
+040F3E sld.bu     0x0[ep], r12
+040F40 add        0x1, ep
+040F42 mov        r12, r8
+040F44 shr        0x4, r8
+040F46 add        r8, r14
+040F48 add        r12, r14
+040F4A add        -0x1, r10
+040F4C bne        0x40f3e
+040F4E shl        0x1c, r14
+040F50 be         0x40f58
+040F52 andi       0x1, r2, r0
+040F56 bne        0x40faa
+040F58 movea      -0x7f68, gp, ep
+040F5C add        r13, ep
+040F5E sst.b      r0, 0x0[ep]
+040F60 addi       -0x1, r7, ep
+040F64 zxb        ep
+040F66 add        r16, ep
+040F68 sld.bu     0x5[ep], r15
+040F6A movea      -0x7ed8, gp, ep
+040F6E add        r13, ep
+040F70 sld.bu     0x0[ep], r9
+040F72 andi       0x30, r15, r10
+040F76 cmp        r9, r10
+040F78 mov        0x0, r6
+040F7A bne        0x40f80
+040F7C shr        0x2, r2
+040F7E bc         0x40f94
+040F80 mov        0x0, r16
+040F82 movea      -0x7f50, gp, ep
+040F86 add        r13, ep
+040F88 sst.b      r0, 0x0[ep]
+040F8A movea      -0x7f98, gp, ep
+040F8E mov        0x1, r9
+040F90 mov        0x0, r1
+040F92 br         0x40f9c
+040F94 movea      -0x7f50, gp, ep
+040F98 mov        0x1, r16
+040F9A mov        r16, r9
+040F9C add        r13, ep
+040F9E sst.b      r9, 0x0[ep]
+040FA0 movea      -0x7ed8, gp, ep
+040FA4 add        r13, ep
+040FA6 sst.b      r10, 0x0[ep]
+040FA8 br         0x40fbc
+040FAA movea      -0x7f68, gp, ep
+040FAE add        r13, ep
+040FB0 mov        0x1, r6
+040FB2 sst.b      r6, 0x0[ep]
+040FB4 movea      -0x7f50, gp, ep
+040FB8 add        r13, ep
+040FBA sld.bu     0x0[ep], r16
+040FBC movea      -0x7f38, gp, ep
+040FC0 add        r13, ep
+040FC2 sst.b      r0, 0x0[ep]
+040FC4 movea      -0x7bdc, gp, ep
+040FC8 add        r13, ep
+040FCA cmp        0x1, r6
+040FCC setfe      r11
+040FD0 sst.b      r11, 0x0[ep]
+040FD2 movea      -0x7bc4, gp, ep
+040FD6 add        r13, ep
+040FD8 cmp        0x1, r16
+040FDA mov        r1, r10
+040FDC setfe      r7
+040FE0 sst.b      r7, 0x0[ep]
+040FE2 jmp        [lp]
+040FE4 prepare    { r24,r26,lp }, 0x3
+040FE8 zxb        r6
+040FEA mov        r8, r24
+040FEC zxb        r7
+040FEE shl        0x5, r6
+040FF0 add        r6, r7
+040FF2 mulhi      0xc, r7, ep
+040FF6 ld.bu      -0x7a9e[gp], r15
+040FFA movea      -0x1f38, tp, r16
+040FFE add        r16, ep
+041000 mov        0x1, r8
+041002 cmp        r0, r15
+041004 sld.bu     0xa[ep], r26
+041006 bne        0x41012
+041008 mov        r26, r6
+04100A mov        r24, r7
+04100C jarl       0x40eaa, lp
+041010 mov        r10, r8
+041012 ld.w       0x0[r24], r6
+041016 addi       -0x800, r6, r0
+04101A bc         0x4105a
+04101C mov        r24, ep
+04101E sld.bu     0x5[ep], r14
+041020 sld.bu     0x8[ep], r7
+041022 sld.bu     0x6[ep], r12
+041024 sld.bu     0x7[ep], r10
+041026 st.b       r14, 0x0[sp]
+04102A st.b       r7, 0x3[sp]
+04102E sld.bu     0x9[ep], r16
+041030 st.b       r10, 0x2[sp]
+041034 st.b       r12, 0x1[sp]
+041038 sld.bu     0xc[ep], r10
+04103A sld.bu     0xb[ep], r12
+04103C sld.bu     0xa[ep], r14
+04103E st.b       r16, 0x4[sp]
+041042 mov        0x1, r6
+041044 st.b       r10, 0x7[sp]
+041048 mov        sp, r9
+04104A st.b       r12, 0x6[sp]
+04104E mov        r26, r7
+041050 st.b       r14, 0x5[sp]
+041054 jarl       0x41530, lp
+041058 br         0x41070
+04105A ld.bu      -0x6135[gp], r13
+04105E cmp        r0, r13
+041060 be         0x41070
+041062 addi       -0x10, r26, r8
+041066 cmp        0x5, r8
+041068 bh         0x41070
+04106A mov        r24, r6
+04106C jarl       0x5d440, lp
+041070 dispose    0x3, { r24,r26,lp }, [lp]
+
+WINDOW 412D2..41370
+0412D2 prepare    { lp }, 0x0
+0412D6 mov        0x0, r12
+0412D8 mov        0x5, r8
+0412DA movea      0x834, tp, r14
+0412DE ld.bu      -0x18[r14], r10
+0412E2 addi       -0x18, r14, ep
+0412E6 cmp        0x1, r10
+0412E8 bne        0x412f2
+0412EA sld.bu     0x2[ep], ep
+0412EC add        gp, ep
+0412EE st.b       r12, -0x7e94[ep]
+0412F2 ld.bu      -0x10[r14], r10
+0412F6 addi       -0x10, r14, ep
+0412FA cmp        0x1, r10
+0412FC bne        0x4130a
+0412FE sld.bu     0x2[ep], ep
+041300 addi       0x1, r12, r16
+041304 add        gp, ep
+041306 st.b       r16, -0x7e94[ep]
+04130A ld.bu      -0x8[r14], r10
+04130E addi       -0x8, r14, ep
+041312 cmp        0x1, r10
+041314 bne        0x41322
+041316 sld.bu     0x2[ep], ep
+041318 addi       0x2, r12, r10
+04131C add        gp, ep
+04131E st.b       r10, -0x7e94[ep]
+041322 mov        r14, ep
+041324 sld.bu     0x0[ep], r10
+041326 cmp        0x1, r10
+041328 bne        0x41336
+04132A sld.bu     0x2[ep], ep
+04132C addi       0x3, r12, r16
+041330 add        gp, ep
+041332 st.b       r16, -0x7e94[ep]
+041336 addi       0x20, r14, r14
+04133A add        0x4, r12
+04133C add        -0x1, r8
+04133E zxb        r12
+041340 bne        0x412de
+041342 mov        0x2, r8
+041344 mov        r12, r6
+041346 shl        0x3, r6
+041348 movea      0x81c, tp, r9
+04134C add        r9, r6
+04134E mov        r6, ep
+041350 sld.bu     0x0[ep], r10
+041352 cmp        0x1, r10
+041354 bne        0x4135e
+041356 sld.bu     0x2[ep], ep
+041358 add        gp, ep
+04135A st.b       r12, -0x7e94[ep]
+04135E add        0x8, r6
+041360 add        0x1, r12
+041362 add        -0x1, r8
+041364 bne        0x4134e
+041366 jarl       0x402d0, lp
+04136A jarl       0x409e2, lp
+04136E dispose    0x0, { lp }, [lp]
+
+WINDOW 41530..41568
+041530 prepare    { r28,lp }, 0x0
+041534 zxb        r8
+041536 zxb        r6
+041538 zxb        r7
+04153A cmp        0x1, r6
+04153C bne        0x41564
+04153E movea      -0x7e94, gp, ep
+041542 add        r7, ep
+041544 sld.bu     0x0[ep], ep
+041546 movea      0x81c, tp, r14
+04154A shl        0x3, ep
+04154C add        r14, ep
+04154E be         0x41564
+041550 sld.bu     0x1[ep], r14
+041552 cmp        r0, r14
+041554 bne        0x41564
+041556 sld.w      0x4[ep], r28
+041558 mov        0x41564, lp
+04155E mov        r9, r7
+041560 mov        r8, r6
+041562 jmp        [r28]
+041564 dispose    0x0, { r28,lp }, [lp]
+
+WINDOW 40534..40558
+040534 shl        0x18, r6
+040536 bne        0x40556
+040538 mov        r7, ep
+04053A sld.bu     0x0[ep], r14
+04053C sld.bu     0x1[ep], r10
+04053E shl        0x8, r14
+040540 or         r14, r10
+040542 st.h       r10, -0x7fb6[gp]
+040546 sld.bu     0x4[ep], r14
+040548 sld.bu     0x2[ep], r16
+04054A andi       0x40, r14, r12
+04054E shr        0x1, r12
+040550 or         r12, r16
+040552 st.b       r16, -0x7f9f[gp]
+040556 jmp        [lp]
+
+WINDOW 408A6..408C8
+0408A6 ld.bu      -0x7f9f[gp], r10
+0408AA ld.h       -0x7fb6[gp], r14
+0408AE st.h       r6, -0x7aac[gp]
+0408B2 st.h       r15, -0x7aaa[gp]
+0408B6 st.b       r10, -0x7a95[gp]
+0408BA shr        0x6, r10
+0408BC st.h       r14, -0x7aa8[gp]
+0408C0 bnc        0x408c8
+0408C2 mov        0x1, r11
+0408C4 st.b       r11, -0x610c[gp]
+
+WINDOW 41A84..41A90
+041A84 ld.bu      -0x7a95[gp], r10
+041A88 jmp        [lp]
+041A8A ld.h       -0x7aa8[gp], r10
+041A8E jmp        [lp]

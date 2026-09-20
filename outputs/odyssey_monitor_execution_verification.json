@@ -1,0 +1,56 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "method": "Ghidra SH-2A SLEIGH p-code execution of monitor 6ACC4 with original slope initializer 306CE; snapshots generated from independently evaluated split fixed-point main calibration curve for every signed 16-bit input. No peripherals, interrupts, timing or physical plant modeled.",
+  "resumed_pass_elapsed_seconds": 109.59979796409607,
+  "banks": [
+    {
+      "bank": 1,
+      "input_count": 65536,
+      "instructions_executed": 18021133,
+      "mismatch_counters_nonzero": false,
+      "monitor_fault_flags": 0
+    },
+    {
+      "bank": 2,
+      "input_count": 65536,
+      "instructions_executed": 18021133,
+      "mismatch_counters_nonzero": false,
+      "monitor_fault_flags": 0
+    },
+    {
+      "bank": 3,
+      "input_count": 65536,
+      "instructions_executed": 18021133,
+      "mismatch_counters_nonzero": false,
+      "monitor_fault_flags": 0
+    },
+    {
+      "bank": 4,
+      "input_count": 65536,
+      "instructions_executed": 17323394,
+      "mismatch_counters_nonzero": false,
+      "monitor_fault_flags": 0
+    },
+    {
+      "bank": 5,
+      "input_count": 65536,
+      "instructions_executed": 17323394,
+      "mismatch_counters_nonzero": false,
+      "monitor_fault_flags": 0
+    },
+    {
+      "bank": 6,
+      "input_count": 65536,
+      "instructions_executed": 17323394,
+      "mismatch_counters_nonzero": false,
+      "monitor_fault_flags": 0
+    },
+    {
+      "bank": 7,
+      "input_count": 65536,
+      "instructions_executed": 17323394,
+      "mismatch_counters_nonzero": false,
+      "monitor_fault_flags": 0
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "original_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "original_size": 524288,
+  "original_preserved": true,
+  "modified_firmware_created": false,
+  "timebox_start_utc": "2026-09-20T18:44:51Z",
+  "requested_timebox_end_utc": "2026-09-20T19:14:51Z",
+  "manifest_created_utc": "2026-09-20T19:13:28.910679+00:00",
+  "exhaustive_cases": {
+    "can": 2097152,
+    "main_curve": 458752,
+    "monitor": 458752,
+    "total": 3014656
+  },
+  "additional_directed_cases": {
+    "fault_predicate_single_bits": 176,
+    "fault_state_scenarios": 35,
+    "fault_publication_gate_bytes": 256,
+    "monitor_snapshot_corruptions": 448,
+    "crc_primitive_inputs": 4,
+    "crc_selected_range_cases": 8,
+    "crc_full_rom_range": 1,
+    "variant_loader_ids": 11,
+    "coding_record_cases": 193,
+    "can_counter_checksum_cases": 4096
+  },
+  "limits": "Offline original-ROM execution and static analysis; no ECU, bus, scheduler, interrupts, timing, physical torque measurement or complete programming acceptance validation.",
+  "evidence": [
+    {
+      "path": "odyssey_extended_analysis.md",
+      "size": 16026,
+      "sha256": "d9fd052e065aaacca6f009e8cb3f8a69e5ffa4925f17e5381b09b8158cd011ce"
+    },
+    {
+      "path": "odyssey_extended_disassembly.txt",
+      "size": 84300,
+      "sha256": "baa973f7f7145d895df41a2656f1056b2bb6dded9f331ff5ae251e13c17a9803"
+    },
+    {
+      "path": "odyssey_curve_execution_verification.json",
+      "size": 5039,
+      "sha256": "11799affa20830e81260d808d6db30c79db5946f8dad403a3e0e7b4513d73d1e"
+    },
+    {
+      "path": "odyssey_monitor_execution_verification.json",
+      "size": 1653,
+      "sha256": "1b38e2395b6d78f500a271e97e6d582fd3f5f4c352a127a8ca51196e6b888179"
+    },
+    {
+      "path": "odyssey_can_execution_verification.json",
+      "size": 10325,
+      "sha256": "4f9aeefaf9eadf0e9bff3dcd013c27eb35f318c3cb91505d409c508e41913f85"
+    },
+    {
+      "path": "odyssey_fault_state_execution.json",
+      "size": 50115,
+      "sha256": "5f246d461e21d81dcf1cc90a94cec166cf1cee40448ec7cf285abb181077e5ae"
+    },
+    {
+      "path": "odyssey_reflected_crc_verification.json",
+      "size": 1132,
+      "sha256": "24930799ad28b8cbdbce2b31a51de85c5c388ad3053033705a301d674bb4dd7a"
+    },
+    {
+      "path": "odyssey_crc_range_execution.json",
+      "size": 4287,
+      "sha256": "22ad0cadc5d748335144a3b6d9be1831539af7b91568635ff595a983a9097cde"
+    },
+    {
+      "path": "odyssey_fault_publication_execution.json",
+      "size": 23816,
+      "sha256": "b8a366ae2aab9e1b596b99b5db183ce4ecf31950f32a01aee3cb4c560a16960c"
+    },
+    {
+      "path": "odyssey_monitor_fault_injection.json",
+      "size": 338131,
+      "sha256": "df719808d8efaf67e9b04413dcb4856321a70a945032e6179d562c896d306bd8"
+    },
+    {
+      "path": "odyssey_variant_loader_execution.json",
+      "size": 3316,
+      "sha256": "8d5e994196286c188a25898464feb5d28024f7ac4be2964bc6e4fedfb1a9035e"
+    },
+    {
+      "path": "odyssey_coding_record_execution.json",
+      "size": 46167,
+      "sha256": "6fe6a3c1499cf7b75fd0e2b975c7c47aa78b8f7f2ee9a43129ca9b72adbe5028"
+    },
+    {
+      "path": "odyssey_crc_rom_range_execution.json",
+      "size": 619,
+      "sha256": "7b865ac9f4241931b32822dde7865b997b14764f8927b264873e0d7fa87c1f63"
+    },
+    {
+      "path": "odyssey_can_counter_transition_execution.json",
+      "size": 2321,
+      "sha256": "34d17c246710400f7873433d355d120d4ec1d1eaefd8ee18f10803d3f785ca5d"
+    },
+    {
+      "path": "offline_validation/README.md",
+      "size": 1477,
+      "sha256": "76ff51067ca95c34692ab0836f9ce37c00ed6d278f9783435b5561176ca42e53"
+    },
+    {
+      "path": "offline_validation/curve_oracle.py",
+      "size": 867,
+      "sha256": "b3df8ec0c8c96333bed0170476b46209518e57027f5d4e843c919e2e4fa359ee"
+    },
+    {
+      "path": "offline_validation/exhaustive_can.py",
+      "size": 3138,
+      "sha256": "43e31e2eaa668bf5c2b73ed56b69177c8449f33805ea378907a291090daab6a2"
+    },
+    {
+      "path": "offline_validation/exhaustive_curve.py",
+      "size": 2382,
+      "sha256": "8f6c5e7a9602e182add5b69eb18f42a03b0fdd5660da577ebd0bf47cdedb9a85"
+    },
+    {
+      "path": "offline_validation/exhaustive_monitor.py",
+      "size": 2031,
+      "sha256": "52a795681af59f10628937c631388e8ff89d7979a6badf97e58e1228b0ec89c3"
+    },
+    {
+      "path": "offline_validation/requirements.txt",
+      "size": 15,
+      "sha256": "bed6f40648eba3c900d34fbbb72367c5a04a18cebd709711f67c511250d5c816"
+    },
+    {
+      "path": "offline_validation/sh2a_pcode.py",
+      "size": 5508,
+      "sha256": "9f3c31d8006d986efd2b6112574d3c670265f2244007260cbb02d1d7d14d5666"
+    },
+    {
+      "path": "offline_validation/verify_can_counter_transitions.py",
+      "size": 1712,
+      "sha256": "00245ada54db79559adf75dd6cbb27041d9ed232e3948cb35d698ad1131be6e9"
+    },
+    {
+      "path": "offline_validation/verify_coding_record.py",
+      "size": 1468,
+      "sha256": "5d3e2725988f00a65b5c852eb9f1128813e7f9ae400cfdf1115e26e9f86c5f3a"
+    },
+    {
+      "path": "offline_validation/verify_crc_ranges.py",
+      "size": 1864,
+      "sha256": "1b3f88ad65f5f63064ee83b521849017a5405f135fd094af87f9631339a973be"
+    },
+    {
+      "path": "offline_validation/verify_crc_rom_range.py",
+      "size": 1653,
+      "sha256": "4c0cb0f18d016258dffaf8c743d734cfa99e9ab28a4230277b7488f80b347ac6"
+    },
+    {
+      "path": "offline_validation/verify_fault_and_crc.py",
+      "size": 3667,
+      "sha256": "d7e9e06e3e86c762e2baec9f9d6b715e9011af5bcad834b1b97109db75dab905"
+    },
+    {
+      "path": "offline_validation/verify_fault_publication.py",
+      "size": 1139,
+      "sha256": "fb187aaafde18485f2c850061887851fa5906c3530a06a51d5a980b2b43bcf07"
+    },
+    {
+      "path": "offline_validation/verify_monitor_injection.py",
+      "size": 1736,
+      "sha256": "c7e8d3d992e4b6ea1623b67d5aa8828dd8047681e9e790e69589d44295f549f6"
+    },
+    {
+      "path": "offline_validation/verify_variant_loader.py",
+      "size": 1380,
+      "sha256": "d96561b17e2f3897c7bc4e0a71ab9810f9083d482c54a1eb79a5f506e3d456b0"
+    }
+  ]
+}

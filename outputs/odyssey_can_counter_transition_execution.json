@@ -1,0 +1,103 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "scope": "Original parser segment with slot-22 payload provider, all 16 old/new counter pairs, 8 raw values, both request values, every checksum nibble; byte 2 low bits=55 and byte 3=A7. No status postprocessing or scheduler.",
+  "cases": [
+    {
+      "previous_counter": 0,
+      "new_counter": 0,
+      "repeated_counter_flag": true,
+      "cases": 256
+    },
+    {
+      "previous_counter": 0,
+      "new_counter": 1,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 0,
+      "new_counter": 2,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 0,
+      "new_counter": 3,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 1,
+      "new_counter": 0,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 1,
+      "new_counter": 1,
+      "repeated_counter_flag": true,
+      "cases": 256
+    },
+    {
+      "previous_counter": 1,
+      "new_counter": 2,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 1,
+      "new_counter": 3,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 2,
+      "new_counter": 0,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 2,
+      "new_counter": 1,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 2,
+      "new_counter": 2,
+      "repeated_counter_flag": true,
+      "cases": 256
+    },
+    {
+      "previous_counter": 2,
+      "new_counter": 3,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 3,
+      "new_counter": 0,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 3,
+      "new_counter": 1,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 3,
+      "new_counter": 2,
+      "repeated_counter_flag": false,
+      "cases": 256
+    },
+    {
+      "previous_counter": 3,
+      "new_counter": 3,
+      "repeated_counter_flag": true,
+      "cases": 256
+    }
+  ],
+  "total_cases": 4096
+}

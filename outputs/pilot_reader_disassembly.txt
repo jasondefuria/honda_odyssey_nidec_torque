@@ -1,0 +1,516 @@
+V850 LE32 disassembly. gp-relative addresses intentionally retained. Some SLEIGH relative-call displays exceed 32 bits; do not treat linear listings as a complete CFG.
+
+WINDOW 363DE..36608
+0363DE ld.h       -0x45c8[gp], r1
+0363E2 mov        r1, r2
+0363E4 sar        0x1f, r2
+0363E6 xor        r2, r1
+0363E8 sub        r2, r1
+0363EA zxh        r1
+0363EC addi       -0x100, r1, r0
+0363F0 bnc        0x363f8
+0363F2 movea      0xff, r0, r1
+0363F6 br         0x36402
+0363F8 cmp        r0, r1
+0363FA bnc        0x36400
+0363FC mov        0x0, r1
+0363FE br         0x36402
+036400 zxb        r1
+036402 ld.w       -0x4584[gp], r2
+036406 shl        0x1, r1
+036408 movea      0x426, r2, r2
+03640C mov        r1, ep
+03640E add        r2, ep
+036410 sld.hu     0x0[ep], r1
+036412 ld.h       -0x45c8[gp], r2
+036416 cmp        r0, r2
+036418 ble        0x36422
+03641A sxh        r1
+03641C st.h       r1, -0x45c6[gp]
+036420 br         0x3643a
+036422 ld.h       -0x45c8[gp], r2
+036426 cmp        r0, r2
+036428 bne        0x36430
+03642A st.h       r0, -0x45c6[gp]
+03642E br         0x3643a
+036430 sxh        r1
+036432 subr       r0, r1
+036434 sxh        r1
+036436 st.h       r1, -0x45c6[gp]
+03643A jmp        [lp]
+03643C st.h       r0, -0x45c4[gp]
+036440 st.w       r0, -0x45fc[gp]
+036444 st.h       r0, -0x45c2[gp]
+036448 st.b       r0, -0x45a1[gp]
+03644C jmp        [lp]
+03644E prepare    { r26,r27,r28,r29,lp }, 0x0
+036452 movea      0x2000, r0, r1
+036456 ld.hu      -0x45ba[gp], r2
+03645A sub        r2, r1
+03645C zxh        r1
+03645E mov        r1, r29
+036460 mov        r29, r6
+036462 jarl       0x376d6, lp
+036468 mov        r10, r28
+03646A mov        r29, r6
+03646C jarl       0x37742, lp
+036472 mov        r10, r2
+036474 mov        r28, r1
+036476 mulh       r2, r1
+036478 zxh        r1
+03647A mov        r1, r27
+03647C ld.h       -0x45c8[gp], r1
+036480 mov        r1, r2
+036482 sar        0x1f, r2
+036484 xor        r2, r1
+036486 sub        r2, r1
+036488 zxh        r1
+03648A addi       -0x100, r1, r0
+03648E bnc        0x36496
+036490 movea      0xff, r0, r1
+036494 br         0x364a0
+036496 cmp        r0, r1
+036498 bnc        0x3649e
+03649A mov        0x0, r1
+03649C br         0x364a0
+03649E zxb        r1
+0364A0 ld.w       -0x4584[gp], r2
+0364A4 movea      0xa26, r2, r2
+0364A8 mov        r1, ep
+0364AA add        r2, ep
+0364AC sld.bu     0x0[ep], r2
+0364AE ld.w       -0x4584[gp], r16
+0364B2 movea      0xb26, r16, r16
+0364B6 mov        r1, ep
+0364B8 add        r16, ep
+0364BA sld.bu     0x0[ep], r26
+0364BC ld.h       -0x45c6[gp], r1
+0364C0 ld.h       -0x45d4[gp], r16
+0364C4 mov        r1, r28
+0364C6 sub        r16, r28
+0364C8 mov        r2, r1
+0364CA mul        r28, r1, r0
+0364CE mov        r1, r29
+0364D0 mov        r29, r6
+0364D2 mov        0xa, r7
+0364D4 jarl       0x100033722, lp
+0364DA mov        r10, r29
+0364DC ld.w       -0x4584[gp], r1
+0364E0 ld.bu      0xc78[r1], r1
+0364E4 cmp        r1, r29
+0364E6 ble        0x364f2
+0364E8 ld.w       -0x4584[gp], r1
+0364EC ld.bu      0xc78[r1], r29
+0364F0 br         0x36502
+0364F2 ld.w       -0x4584[gp], r1
+0364F6 ld.bu      0xc78[r1], r1
+0364FA subr       r0, r1
+0364FC cmp        r1, r29
+0364FE cmovle     r1, r29, r29
+036502 ld.w       -0x45fc[gp], r2
+036506 mov        r28, r1
+036508 sub        r2, r1
+03650A mov        r26, r2
+03650C mul        r1, r2, r0
+036510 mov        r2, r6
+036512 mov        0xa, r7
+036514 jarl       0x100033722, lp
+03651A mov        r10, r6
+03651C ld.w       -0x4584[gp], r1
+036520 ld.bu      0xc77[r1], r1
+036524 cmp        r1, r6
+036526 ble        0x36532
+036528 ld.w       -0x4584[gp], r1
+03652C ld.bu      0xc77[r1], r6
+036530 br         0x36542
+036532 ld.w       -0x4584[gp], r1
+036536 ld.bu      0xc77[r1], r1
+03653A subr       r0, r1
+03653C cmp        r1, r6
+03653E cmovle     r1, r6, r6
+036542 mov        r6, r1
+036544 sxb        r1
+036546 st.b       r1, -0x45a1[gp]
+03654A add        r29, r6
+03654C mov        r6, r1
+03654E sxh        r1
+036550 st.h       r1, -0x45c2[gp]
+036554 mov        r6, r1
+036556 mul        r27, r1, r0
+03655A mov        r1, r6
+03655C movea      0x10, r0, r7
+036560 jarl       0x100033722, lp
+036566 mov        r10, r6
+036568 ld.w       -0x4584[gp], r1
+03656C ld.bu      0xc79[r1], r1
+036570 cmp        r1, r6
+036572 ble        0x3657e
+036574 ld.w       -0x4584[gp], r1
+036578 ld.bu      0xc79[r1], r1
+03657C br         0x3658e
+03657E ld.w       -0x4584[gp], r1
+036582 ld.bu      0xc79[r1], r1
+036586 subr       r0, r1
+036588 cmp        r1, r6
+03658A cmovle     r1, r6, r1
+03658E sxh        r1
+036590 st.h       r1, -0x45c4[gp]
+036594 st.w       r28, -0x45fc[gp]
+036598 dispose    0x0, { r26,r27,r28,r29,lp }, [lp]
+03659C st.h       r0, -0x45c0[gp]
+0365A0 jmp        [lp]
+0365A2 prepare    { lp }, 0x0
+0365A6 ld.bu      -0x4586[gp], r1
+0365AA ld.h       -0x45c4[gp], r2
+0365AE cmp        r1, r2
+0365B0 ble        0x365b8
+0365B2 ld.bu      -0x4586[gp], r6
+0365B6 br         0x365c8
+0365B8 ld.bu      -0x4586[gp], r1
+0365BC subr       r0, r1
+0365BE ld.h       -0x45c4[gp], r2
+0365C2 cmp        r1, r2
+0365C4 cmovle     r1, r2, r6
+0365C8 movea      0x28f, r0, r1
+0365CC mul        r6, r1, r0
+0365D0 mov        r1, r6
+0365D2 mov        0x8, r7
+0365D4 jarl       0x100033722, lp
+0365DA mov        r10, r6
+0365DC ld.w       -0x4584[gp], r1
+0365E0 ld.hu      0xc7a[r1], r1
+0365E4 cmp        r1, r6
+0365E6 ble        0x365f2
+0365E8 ld.w       -0x4584[gp], r1
+0365EC ld.hu      0xc7a[r1], r1
+0365F0 br         0x36602
+0365F2 ld.w       -0x4584[gp], r1
+0365F6 ld.hu      0xc7a[r1], r1
+0365FA subr       r0, r1
+0365FC cmp        r1, r6
+0365FE cmovle     r1, r6, r1
+036602 sxh        r1
+036604 st.h       r1, -0x45c0[gp]
+
+WINDOW 36B06..36CD4
+036B06 ld.h       -0x45c0[gp], r1
+036B0A ld.hu      -0x45b6[gp], r2
+036B0E mul        r2, r1, r0
+036B12 mov        r1, r6
+036B14 mov        0xd, r7
+036B16 jarl       0x100033722, lp
+036B1C mov        r10, r6
+036B1E ld.h       0xa[sp], r1
+036B22 add        r6, r1
+036B24 sxh        r1
+036B26 st.h       r1, -0x45be[gp]
+036B2A ld.bu      -0x459b[gp], r2
+036B2E cmp        0x1, r2
+036B30 bne        0x36b3e
+036B32 ld.bu      -0x459d[gp], r2
+036B36 cmp        0x3, r2
+036B38 be         0x36b3e
+036B3A mov        0x1, r2
+036B3C br         0x36b40
+036B3E mov        0x0, r2
+036B40 ld.w       -0x45e4[gp], ep
+036B44 sst.b      r2, 0x6[ep]
+036B46 mov        r1, r10
+036B48 dispose    0x3, { r20,r21,r22,r23,r24,r25,r26,r27,r28,r29,lp }, [lp]
+036B4C prepare    { lp }, 0x0
+036B50 st.b       r0, -0x45a8[gp]
+036B54 st.h       r0, -0x45dc[gp]
+036B58 jarl       0x35fb6, lp
+036B5C jarl       0x35ee8, lp
+036B60 jarl       0x36054, lp
+036B64 jarl       0x360c4, lp
+036B68 jarl       0x363d8, lp
+036B6C jarl       0x3643c, lp
+036B70 jarl       0x3659c, lp
+036B74 jarl       0x3660c, lp
+036B78 jarl       0x367d2, lp
+036B7C jarl       0x3684c, lp
+036B80 jarl       0x3755a, lp
+036B86 jarl       0x37dca, lp
+036B8C dispose    0x0, { lp }, [lp]
+036B90 prepare    { lp }, 0x0
+036B94 jarl       0x41ab4, lp
+036B9A st.w       r10, -0x45e4[gp]
+036B9E jarl       0x100035bf2, lp
+036BA4 st.b       r10, -0x45a7[gp]
+036BA8 jarl       0x36bfa, lp
+036BAE st.b       r0, -0x45a8[gp]
+036BB2 st.h       r0, -0x45dc[gp]
+036BB6 jarl       0x35fb6, lp
+036BBA jarl       0x35eac, lp
+036BBE jarl       0x35ee8, lp
+036BC2 jarl       0x36054, lp
+036BC6 jarl       0x360c4, lp
+036BCA jarl       0x363d8, lp
+036BCE jarl       0x3643c, lp
+036BD2 jarl       0x36c2e, lp
+036BD8 jarl       0x3660c, lp
+036BDC jarl       0x367d2, lp
+036BE0 jarl       0x3684c, lp
+036BE4 jarl       0x37174, lp
+036BEA jarl       0x3755a, lp
+036BF0 jarl       0x37dca, lp
+036BF6 dispose    0x0, { lp }, [lp]
+036BFA prepare    { lp }, 0x0
+036BFE jarl       0x100035bc8, lp
+036C04 mov        r10, r1
+036C06 cmp        0x1, r1
+036C08 bc         0x36c16
+036C0A cmp        0x5, r1
+036C0C bh         0x36c16
+036C0E addi       -0x1, r1, r1
+036C12 zxb        r1
+036C14 br         0x36c18
+036C16 mov        0x0, r1
+036C18 shl        0x2, r1
+036C1A mov        0x1e4c4, r2
+036C20 mov        r1, ep
+036C22 add        r2, ep
+036C24 sld.w      0x0[ep], r1
+036C26 st.w       r1, -0x4584[gp]
+036C2A dispose    0x0, { lp }, [lp]
+036C2E st.h       r0, -0x45c0[gp]
+036C32 jmp        [lp]
+036C34 prepare    { r29,lp }, 0x0
+036C38 mov        r6, r1
+036C3A sxh        r1
+036C3C mov        r1, r29
+036C3E ld.bu      -0x45a8[gp], r1
+036C42 andi       0x1, r1, r1
+036C46 cmp        r0, r1
+036C48 bne        0x36c4e
+036C4A jarl       0x35fc8, lp
+036C4E ld.bu      -0x45a7[gp], r1
+036C52 cmp        0x1, r1
+036C54 bne        0x36cc8
+036C56 addi       -0x2000, r29, r0
+036C5A ble        0x36c62
+036C5C movea      0x2000, r0, r1
+036C60 br         0x36c70
+036C62 addi       0x2000, r29, r0
+036C66 bge        0x36c6e
+036C68 movea      -0x2000, r0, r1
+036C6C br         0x36c70
+036C6E mov        r29, r1
+036C70 st.h       r1, -0x45dc[gp]
+036C74 jarl       0x35eb2, lp
+036C78 ld.bu      -0x45a8[gp], r1
+036C7C andi       0x1, r1, r1
+036C80 cmp        r0, r1
+036C82 bne        0x36cac
+036C84 jarl       0x35efa, lp
+036C88 jarl       0x37568, lp
+036C8E jarl       0x3607a, lp
+036C92 jarl       0x360ce, lp
+036C96 jarl       0x363de, lp
+036C9A jarl       0x3644e, lp
+036C9E jarl       0x365a2, lp
+036CA2 jarl       0x36626, lp
+036CA6 jarl       0x367e8, lp
+036CAA br         0x36cb8
+036CAC jarl       0x35efa, lp
+036CB0 jarl       0x365a2, lp
+036CB4 jarl       0x367e8, lp
+036CB8 ld.h       -0x45dc[gp], r6
+036CBC jarl       0x36880, lp
+036CC0 mov        r10, r29
+036CC2 jarl       0x37dde, lp
+036CC8 movhi      -0x120, r0, r18
+036CCC not1       0x0, -0x11a8[r18]
+036CD0 mov        r29, r10
+036CD2 dispose    0x0, { r29,lp }, [lp]
+
+WINDOW 36F24..36F78
+036F24 addi       -0x1000, r26, r0
+036F28 bne        0x36f70
+036F2A addi       -0x1000, r25, r0
+036F2E bne        0x36f70
+036F30 addi       -0x20, r29, r0
+036F34 be         0x36f4e
+036F36 ld.w       -0x4584[gp], r2
+036F3A ld.bu      0xc81[r2], r2
+036F3E cmp        r2, r28
+036F40 bc         0x36f70
+036F42 ld.w       -0x4584[gp], r2
+036F46 ld.bu      0xc82[r2], r2
+036F4A cmp        r2, r28
+036F4C bh         0x36f70
+036F4E addi       -0x20, r29, r0
+036F52 bne        0x36f58
+036F54 cmp        r0, r28
+036F56 bne        0x36f70
+036F58 ld.bu      0x2[sp], r18
+036F5C cmp        0x1, r18
+036F5E bne        0x36f68
+036F60 ld.bu      0xa[sp], r18
+036F64 cmp        0x1, r18
+036F66 be         0x36f70
+036F68 ld.bu      -0x45a6[gp], r2
+036F6C cmp        0x1, r2
+036F6E bne        0x36f74
+036F70 mov        0x1, r2
+036F72 br         0x36f76
+036F74 mov        0x0, r2
+036F76 ld.bu      -0x4596[gp], r16
+
+WINDOW 37506..37540
+037506 ld.w       -0x4584[gp], r2
+03750A ld.hu      0xc34[r2], r2
+03750E cmp        r2, r1
+037510 ble        0x3751c
+037512 ld.w       -0x4584[gp], r1
+037516 ld.hu      0xc34[r1], r1
+03751A br         0x3752a
+03751C ld.w       -0x4584[gp], r2
+037520 ld.hu      0xc32[r2], r2
+037524 cmp        r2, r1
+037526 cmovle     r2, r1, r1
+03752A zxh        r1
+03752C st.h       r1, -0x458e[gp]
+037530 ld.hu      -0x458e[gp], r1
+037534 sar        0x8, r1
+037536 zxb        r1
+037538 st.b       r1, -0x4586[gp]
+03753C dispose    0x12, { r28,r29,lp }, [lp]
+
+WINDOW 3B018..3B048
+03B018 prepare    { lp }, 0x0
+03B01C jarl       0x100035bc8, lp
+03B022 mov        r10, r1
+03B024 cmp        0x1, r1
+03B026 bc         0x3b034
+03B028 cmp        0x5, r1
+03B02A bh         0x3b034
+03B02C addi       -0x1, r1, r1
+03B030 zxb        r1
+03B032 br         0x3b036
+03B034 mov        0x0, r1
+03B036 shl        0x2, r1
+03B038 mov        0x2bda4, r2
+03B03E mov        r1, ep
+03B040 add        r2, ep
+03B042 sld.w      0x0[ep], r1
+03B044 st.w       r1, -0x4380[gp]
+
+WINDOW 3B352..3B39E
+03B352 st.b       r0, -0x43ca[gp]
+03B356 jmp        [lp]
+03B358 ld.w       -0x4380[gp], ep
+03B35C sld.bu     0x0[ep], r1
+03B35E mulhi      0x64, r1, r1
+03B362 zxh        r1
+03B364 ld.hu      -0x43f4[gp], r2
+03B368 cmp        r1, r2
+03B36A bh         0x3b398
+03B36C ld.hu      -0x43f2[gp], r2
+03B370 cmp        r1, r2
+03B372 bh         0x3b398
+03B374 ld.hu      -0x43f0[gp], r2
+03B378 cmp        r1, r2
+03B37A bh         0x3b398
+03B37C ld.hu      -0x43ee[gp], r2
+03B380 cmp        r1, r2
+03B382 bh         0x3b398
+03B384 ld.w       -0x4380[gp], ep
+03B388 sld.bu     0x0[ep], r1
+03B38A ld.hu      -0x43ec[gp], r2
+03B38E cmp        r1, r2
+03B390 bh         0x3b398
+03B392 st.b       r0, -0x43ca[gp]
+03B396 br         0x3b39e
+03B398 mov        0x1, r1
+03B39A st.b       r1, -0x43ca[gp]
+
+WINDOW 3B6A4..3B6C2
+03B6A4 prepare    { lp }, 0x0
+03B6A8 ld.bu      -0x43ca[gp], r1
+03B6AC cmp        r0, r1
+03B6AE bne        0x3b6ba
+03B6B0 movhi      -0x120, r0, r18
+03B6B4 clr1       0x0, -0xfac[r18]
+03B6B8 br         0x3b6c2
+03B6BA movhi      -0x120, r0, r18
+03B6BE set1       0x0, -0xfac[r18]
+
+WINDOW 31BA0..31BF4
+031BA0 st.h       r1, -0x4a98[gp]
+031BA4 ld.h       -0x4a98[gp], r6
+031BA8 jarl       0x3b12a, lp
+031BAE mov        r10, r6
+031BB0 jarl       0x36c34, lp
+031BB6 mov        r10, r6
+031BB8 mov        r6, r1
+031BBA sxh        r1
+031BBC st.h       r1, -0x4afc[gp]
+031BC0 ld.h       -0x4afc[gp], r6
+031BC4 jarl       0x32a50, lp
+031BCA st.h       r10, -0x4abc[gp]
+031BCE ld.h       -0x4abc[gp], r6
+031BD2 jarl       0x3e82a, lp
+031BD8 st.h       r10, -0x4afa[gp]
+031BDC ld.h       -0x4afa[gp], r6
+031BE0 jarl       0x3585e, lp
+031BE6 st.h       r10, -0x4a90[gp]
+031BEA jarl       0x32fb8, lp
+031BF0 st.h       r10, -0x4aa8[gp]
+
+WINDOW 32A50..32A7C
+032A50 sxh        r6
+032A52 mov        r6, r1
+032A54 movea      0x999, r0, r2
+032A58 mov        r2, r16
+032A5A sxh        r16
+032A5C cmp        r16, r1
+032A5E ble        0x32a66
+032A60 mov        r2, r1
+032A62 sxh        r1
+032A64 br         0x32a78
+032A66 mov        r2, r16
+032A68 sxh        r16
+032A6A subr       r0, r16
+032A6C cmp        r16, r1
+032A6E bge        0x32a78
+032A70 mov        r2, r1
+032A72 sxh        r1
+032A74 subr       r0, r1
+032A76 sxh        r1
+032A78 mov        r1, r10
+032A7A jmp        [lp]
+
+WINDOW 33722..3374C
+033722 zxb        r7
+033724 mov        r6, r2
+033726 sar        0x1f, r2
+033728 mov        r6, r1
+03372A xor        r2, r1
+03372C sub        r2, r1
+03372E addi       -0x1, r7, r2
+033732 shr        r2, r1, r1
+033736 addi       0x1, r1, r1
+03373A shr        0x1, r1
+03373C cmp        r0, r6
+03373E blt        0x33744
+033740 mov        r1, r6
+033742 br         0x33748
+033744 mov        r1, r6
+033746 subr       r0, r6
+033748 mov        r6, r10
+03374A jmp        [lp]
+
+WINDOW 3E82A..3E844
+03E82A sxh        r6
+03E82C mov        r6, r1
+03E82E ld.h       -0x446c[gp], r2
+03E832 mulh       r2, r1
+03E834 sar        0xc, r1
+03E836 sxh        r1
+03E838 mov        r1, r10
+03E83A jmp        [lp]
+03E83C ld.hu      -0x446c[gp], r1
+03E840 mov        r1, r10
+03E842 jmp        [lp]

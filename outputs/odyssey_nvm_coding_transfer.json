@@ -1,0 +1,69 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "scope": "Original 31624 and 32034 executed with synthetic IO dictionary: synthetic status FFFFA91E=1 and FFFFA900=8000, other status zero, fresh RAM. Captures writes that configure a transfer; no real DMA, flash, EEPROM or ECU operations.",
+  "descriptor_address": "0x39450",
+  "descriptor_hex": "02020000fff83f1cfff83f348010680000180000000169b607000000",
+  "source": "0x80106800",
+  "shadow_destination": "0xFFF83F34",
+  "length": 24,
+  "routine_returns": [
+    0,
+    0
+  ],
+  "io_writes": [
+    {
+      "pc": "0x316fa",
+      "address": "0xffffa91a",
+      "width": 2,
+      "value": "0x0"
+    },
+    {
+      "pc": "0x3203a",
+      "address": "0xffffa902",
+      "width": 2,
+      "value": "0xaa80"
+    },
+    {
+      "pc": "0x31732",
+      "address": "0x80106800",
+      "width": 1,
+      "value": "0x71"
+    },
+    {
+      "pc": "0x31736",
+      "address": "0x80106800",
+      "width": 1,
+      "value": "0xd0"
+    },
+    {
+      "pc": "0x3203a",
+      "address": "0xffffa902",
+      "width": 2,
+      "value": "0xaa00"
+    },
+    {
+      "pc": "0x3177e",
+      "address": "0xff460060",
+      "width": 4,
+      "value": "0x80106800"
+    },
+    {
+      "pc": "0x31780",
+      "address": "0xff460064",
+      "width": 4,
+      "value": "0xfff83f34"
+    },
+    {
+      "pc": "0x31784",
+      "address": "0xff460068",
+      "width": 4,
+      "value": "0x18"
+    },
+    {
+      "pc": "0x31786",
+      "address": "0xff460434",
+      "width": 4,
+      "value": "0x1010100"
+    }
+  ]
+}

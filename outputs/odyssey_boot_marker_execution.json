@@ -1,0 +1,24 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "scope": "Original segment starting8814, hardware initialization helpers A7B2/A79C replaced with register-preserving returns, ABBC flash-request check supplied 0/1. Stops at8898 or884C. This is a conditional boot-path experiment, not execution of an actual reset or all boot hardware.",
+  "vector_at_8000": "0x8804",
+  "tail_8_bytes": "0000b7c8ffffa6e0",
+  "header_complement": "0xb7c8",
+  "complement_location_in_this_dump": "0x7FFFA",
+  "cases": [
+    {
+      "synthetic_flash_request_result": 0,
+      "header_word": "0x4837",
+      "tail_word_read": "0x0",
+      "sum": "0x4837",
+      "branch_destination": "0x8898"
+    },
+    {
+      "synthetic_flash_request_result": 1,
+      "header_word": "0x4837",
+      "tail_word_read": "0x0",
+      "sum": "0x4837",
+      "branch_destination": "0x8898"
+    }
+  ]
+}

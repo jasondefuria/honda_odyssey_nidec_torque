@@ -1,0 +1,549 @@
+
+--- 01556C..015648 ---
+1556C c418     mov.b     @(24,gbr),r0
+1556E e51c     mov       #28,r5
+15570 660c     extu.b    r0,r6
+15572 6053     mov       r5,r0
+15574 4680     mulr      r0,r6
+15576 c604     mov.l     @(16,gbr),r0
+15578 7004     add       #4,r0
+1557A 306c     add       r6,r0
+1557C 6703     mov       r0,r7
+1557E 2f02     mov.l     r0,@r15
+15580 84e1     mov.b     @(1,r14),r0
+15582 2008     tst       r0,r0
+15584 8b4a     bf        0x1561c
+15586 37393013 bld.b     #3,@(19,r7)
+1558A d14a     mov.l     0x156b4,r1 ; [156B4] = FFF852B8
+1558C 1f11     mov.l     r1,@(4,r15)
+1558E 8f08     bf/s      0x155a2
+15590 7139     add       #57,r1
+15592 c418     mov.b     @(24,gbr),r0
+15594 e203     mov       #3,r2
+15596 1f11     mov.l     r1,@(4,r15)
+15598 600c     extu.b    r0,r0
+1559A 0124     mov.b     r2,@(r0,r1)
+1559C e001     mov       #1,r0
+1559E a242     bra       0x15a26
+155A0 80e1     mov.b     r0,@(1,r14)
+155A2 c418     mov.b     @(24,gbr),r0
+155A4 e201     mov       #1,r2
+155A6 600c     extu.b    r0,r0
+155A8 0124     mov.b     r2,@(r0,r1)
+155AA 8578     mov.w     @(16,r7),r0
+155AC 5573     mov.l     @(12,r7),r5
+155AE 5472     mov.l     @(8,r7),r4
+155B0 d245     mov.l     0x156c8,r2 ; [156C8] = 00031624
+155B2 420b     jsr       @r2
+155B4 6603     mov       r0,r6
+155B6 600e     exts.b    r0,r0
+155B8 2008     tst       r0,r0
+155BA 8b01     bf        0x155c0
+155BC a233     bra       0x15a26
+155BE 0009     nop       
+155C0 8801     cmp/eq    #1,r0
+155C2 8b1c     bf        0x155fe
+155C4 67f2     mov.l     @r15,r7
+155C6 5672     mov.l     @(8,r7),r6
+155C8 5271     mov.l     @(4,r7),r2
+155CA 3620     cmp/eq    r2,r6
+155CC 890d     bt        0x155ea
+155CE e500     mov       #0,r5
+155D0 30719008 movu.w    @(16,r7),r0
+155D4 665d     extu.w    r5,r6
+155D6 3603     cmp/ge    r0,r6
+155D8 8907     bt        0x155ea
+155DA 5472     mov.l     @(8,r7),r4
+155DC 605d     extu.w    r5,r0
+155DE 5171     mov.l     @(4,r7),r1
+155E0 064c     mov.b     @(r0,r4),r6
+155E2 0164     mov.b     r6,@(r0,r1)
+155E4 7001     add       #1,r0
+155E6 aff3     bra       0x155d0
+155E8 6503     mov       r0,r5
+155EA 51f1     mov.l     @(4,r15),r1
+155EC e203     mov       #3,r2
+155EE c418     mov.b     @(24,gbr),r0
+155F0 7139     add       #57,r1
+155F2 600c     extu.b    r0,r0
+155F4 1f11     mov.l     r1,@(4,r15)
+155F6 0124     mov.b     r2,@(r0,r1)
+155F8 e001     mov       #1,r0
+155FA a214     bra       0x15a26
+155FC 80e1     mov.b     r0,@(1,r14)
+155FE c621     mov.l     @(132,gbr),r0
+15600 e6fe     mov       #-2,r6
+15602 02110000 movi20s   #16777216,r2
+15606 51f1     mov.l     @(4,r15),r1
+15608 202b     or        r2,r0
+1560A c221     mov.l     r0,@(132,gbr)
+1560C 7139     add       #57,r1
+1560E c418     mov.b     @(24,gbr),r0
+15610 1f11     mov.l     r1,@(4,r15)
+15612 600c     extu.b    r0,r0
+15614 0164     mov.b     r6,@(r0,r1)
+15616 e001     mov       #1,r0
+15618 a205     bra       0x15a26
+1561A 80e1     mov.b     r0,@(1,r14)
+1561C 5275     mov.l     @(20,r7),r2
+1561E 2228     tst       r2,r2
+15620 890e     bt        0x15640
+15622 c418     mov.b     @(24,gbr),r0
+15624 e5fe     mov       #-2,r5
+15626 d227     mov.l     0x156c4,r2 ; [156C4] = FFF852F1
+15628 600c     extu.b    r0,r0
+1562A 062c     mov.b     @(r0,r2),r6
+1562C 3650     cmp/eq    r5,r6
+1562E 8b04     bf        0x1563a
+15630 5275     mov.l     @(20,r7),r2
+15632 420b     jsr       @r2
+15634 e401     mov       #1,r4
+15636 a003     bra       0x15640
+15638 0009     nop       
+1563A 5275     mov.l     @(20,r7),r2
+1563C 420b     jsr       @r2
+1563E e400     mov       #0,r4
+15640 e000     mov       #0,r0
+15642 c017     mov.b     r0,@(23,gbr)
+15644 a1ef     bra       0x15a26
+15646 80e1     mov.b     r0,@(1,r14)
+
+--- 0169B6..0169F2 ---
+169B6 4f22     sts.l     pr,@-r15
+169B8 604c     extu.b    r4,r0
+169BA 2008     tst       r0,r0
+169BC 8903     bt        0x169c6
+169BE 8801     cmp/eq    #1,r0
+169C0 8906     bt        0x169d0
+169C2 a014     bra       0x169ee
+169C4 0009     nop       
+169C6 e401     mov       #1,r4
+169C8 4428     shll16    r4
+169CA d577     mov.l     0x16ba8,r5 ; [16BA8] = 00017704
+169CC a0b7     bra       0x16b3e
+169CE 4f26     lds.l     @r15+,pr
+169D0 d276     mov.l     0x16bac,r2 ; [16BAC] = 000177FC
+169D2 2228     tst       r2,r2
+169D4 8900     bt        0x169d8
+169D6 424b     jsr/n     @r2
+169D8 d572     mov.l     0x16ba4,r5 ; [16BA4] = FFF83FCC
+169DA e201     mov       #1,r2
+169DC 6152     mov.l     @r5,r1
+169DE 5451     mov.l     @(4,r5),r4
+169E0 4228     shll16    r2
+169E2 212b     or        r2,r1
+169E4 242b     or        r2,r4
+169E6 2512     mov.l     r1,@r5
+169E8 4f26     lds.l     @r15+,pr
+169EA 000b     rts       
+169EC 1541     mov.l     r4,@(4,r5)
+169EE 4f26     lds.l     @r15+,pr
+169F0 006b     rts/n     
+
+--- 031624..031712 ---
+31624 2f86     mov.l     r8,@-r15
+31626 2f96     mov.l     r9,@-r15
+31628 2fa6     mov.l     r10,@-r15
+3162A 2fb6     mov.l     r11,@-r15
+3162C 2fc6     mov.l     r12,@-r15
+3162E 2fd6     mov.l     r13,@-r15
+31630 2fe6     mov.l     r14,@-r15
+31632 4f22     sts.l     pr,@-r15
+31634 4f13     stc.l     gbr,@-r15
+31636 d037     mov.l     0x31714,r0 ; [31714] = FFF86E88
+31638 401e     ldc       r0,gbr
+3163A 7ffc     add       #-4,r15
+3163C eb00     mov       #0,r11
+3163E 6943     mov       r4,r9
+31640 64b3     mov       r11,r4
+31642 ecff     mov       #-1,r12
+31644 67b3     mov       r11,r7
+31646 ed0c     mov       #12,r13
+31648 6a53     mov       r5,r10
+3164A 6863     mov       r6,r8
+3164C 6e5d     extu.w    r5,r14
+3164E 627c     extu.b    r7,r2
+31650 32d3     cmp/ge    r13,r2
+31652 8926     bt        0x316a2
+31654 d132     mov.l     0x31720,r1 ; [31720] = 0003D9D8
+31656 6513     mov       r1,r5
+31658 354c     add       r4,r5
+3165A 32519000 movu.w    @(0,r5),r2
+3165E 3e23     cmp/ge    r2,r14
+31660 8b1c     bf        0x3169c
+31662 30519001 movu.w    @(2,r5),r0
+31666 3e07     cmp/gt    r0,r14
+31668 8918     bt        0x3169c
+3166A 677c     extu.b    r7,r7
+3166C e00a     mov       #10,r0
+3166E 6673     mov       r7,r6
+31670 e501     mov       #1,r5
+31672 4680     mulr      r0,r6
+31674 361c     add       r1,r6
+31676 8564     mov.w     @(8,r6),r0
+31678 3056     cmp/hi    r5,r0
+3167A 8b0d     bf        0x31698
+3167C 6473     mov       r7,r4
+3167E ecff     mov       #-1,r12
+31680 4400     shll      r4
+31682 d124     mov.l     0x31714,r1 ; [31714] = FFF86E88
+31684 341c     add       r1,r4
+31686 6241     mov.w     @r4,r2
+31688 32c0     cmp/eq    r12,r2
+3168A 8905     bt        0x31698
+3168C 35419000 movu.w    @(0,r4),r5
+31690 30619003 movu.w    @(6,r6),r0
+31694 4580     mulr      r0,r5
+31696 3a5c     add       r5,r10
+31698 a003     bra       0x316a2
+3169A 6c73     mov       r7,r12
+3169C 7701     add       #1,r7
+3169E afd6     bra       0x3164e
+316A0 740a     add       #10,r4
+316A2 e6ff     mov       #-1,r6
+316A4 62cc     extu.b    r12,r2
+316A6 666c     extu.b    r6,r6
+316A8 3260     cmp/eq    r6,r2
+316AA 8b07     bf        0x316bc
+316AC e000     mov       #0,r0
+316AE eea8     mov       #-88,r14
+316B0 c023     mov.b     r0,@(35,gbr)
+316B2 4e18     shll8     r14
+316B4 c022     mov.b     r0,@(34,gbr)
+316B6 d31b     mov.l     0x31724,r3 ; [31724] = 000317D6
+316B8 432b     jmp       @r3
+316BA ebff     mov       #-1,r11
+316BC c422     mov.b     @(34,gbr),r0
+316BE 2008     tst       r0,r0
+316C0 8902     bt        0x316c8
+316C2 d319     mov.l     0x31728,r3 ; [31728] = 00031746
+316C4 432b     jmp       @r3
+316C6 0009     nop       
+316C8 eea8     mov       #-88,r14
+316CA 4e18     shll8     r14
+316CC 32e19080 movu.w    @(256,r14),r2
+316D0 06008000 movi20    #32768,r6 ; signed immediate = 32768 (0x00008000)
+316D4 2268     tst       r6,r2
+316D6 8b02     bf        0x316de
+316D8 d312     mov.l     0x31724,r3 ; [31724] = 000317D6
+316DA 432b     jmp       @r3
+316DC 0009     nop       
+316DE 60cc     extu.b    r12,r0
+316E0 e6ff     mov       #-1,r6
+316E2 d50c     mov.l     0x31714,r5 ; [31714] = FFF86E88
+316E4 4000     shll      r0
+316E6 025d     mov.w     @(r0,r5),r2
+316E8 3260     cmp/eq    r6,r2
+316EA 8b02     bf        0x316f2
+316EC d30f     mov.l     0x3172c,r3 ; [3172C] = 0003173C
+316EE 432b     jmp       @r3
+316F0 0009     nop       
+316F2 060007f8 movi20    #2040,r6 ; signed immediate = 2040 (0x000007F8)
+316F6 6da3     mov       r10,r13
+316F8 2d69     and       r6,r13
+316FA 3ed1108d mov.w     r13,@(282,r14)
+316FE 0400aa80 movi20    #43648,r4 ; signed immediate = 43648 (0x0000AA80)
+31702 d105     mov.l     0x31718,r1 ; [31718] = 00032034
+31704 414b     jsr/n     @r1
+31706 05f08010 movi20    #1015824,r5 ; signed immediate = -32752 (0xFFFF8010)
+3170A 64ad     extu.w    r10,r4
+3170C 4528     shll16    r5
+3170E a00f     bra       0x31730
+31710 345c     add       r5,r4
+
+--- 031730..0317FC ---
+31730 e171     mov       #113,r1
+31732 2410     mov.b     r1,@r4
+31734 e1d0     mov       #-48,r1
+31736 2410     mov.b     r1,@r4
+31738 a002     bra       0x31740
+3173A 0009     nop       
+3173C e001     mov       #1,r0
+3173E c023     mov.b     r0,@(35,gbr)
+31740 e001     mov       #1,r0
+31742 a048     bra       0x317d6
+31744 c022     mov.b     r0,@(34,gbr)
+31746 c422     mov.b     @(34,gbr),r0
+31748 8801     cmp/eq    #1,r0
+3174A 8b35     bf        0x317b8
+3174C c423     mov.b     @(35,gbr),r0
+3174E 8801     cmp/eq    #1,r0
+31750 891d     bt        0x3178e
+31752 eea8     mov       #-88,r14
+31754 4e18     shll8     r14
+31756 30e1508f mov.w     @(286,r14),r0
+3175A c901     and       #1,r0
+3175C 2008     tst       r0,r0
+3175E 8916     bt        0x3178e
+31760 0400aa00 movi20    #43520,r4 ; signed immediate = 43520 (0x0000AA00)
+31764 d656     mov.l     0x318c0,r6 ; [318C0] = 00032034
+31766 464b     jsr/n     @r6
+31768 0cf14600 movi20s   #-12189696,r12
+3176C 6aad     extu.w    r10,r10
+3176E 05f08010 movi20    #1015824,r5 ; signed immediate = -32752 (0xFFFF8010)
+31772 4528     shll16    r5
+31774 07110101 movi20s   #16843008,r7
+31778 7c60     add       #96,r12
+3177A 3a5c     add       r5,r10
+3177C 688d     extu.w    r8,r8
+3177E 2ca2     mov.l     r10,@r12
+31780 1c91     mov.l     r9,@(4,r12)
+31782 e002     mov       #2,r0
+31784 1c82     mov.l     r8,@(8,r12)
+31786 3c7120f5 mov.l     r7,@(980,r12)
+3178A a024     bra       0x317d6
+3178C c022     mov.b     r0,@(34,gbr)
+3178E 0400aa00 movi20    #43520,r4 ; signed immediate = 43520 (0x0000AA00)
+31792 d24b     mov.l     0x318c0,r2 ; [318C0] = 00032034
+31794 424b     jsr/n     @r2
+31796 e600     mov       #0,r6
+31798 eea8     mov       #-88,r14
+3179A 6063     mov       r6,r0
+3179C c023     mov.b     r0,@(35,gbr)
+3179E c022     mov.b     r0,@(34,gbr)
+317A0 658d     extu.w    r8,r5
+317A2 4e18     shll8     r14
+317A4 eb01     mov       #1,r11
+317A6 626d     extu.w    r6,r2
+317A8 3253     cmp/ge    r5,r2
+317AA 8914     bt        0x317d6
+317AC 606d     extu.w    r6,r0
+317AE e2ff     mov       #-1,r2
+317B0 0924     mov.b     r2,@(r0,r9)
+317B2 7001     add       #1,r0
+317B4 aff7     bra       0x317a6
+317B6 6603     mov       r0,r6
+317B8 0df14604 movi20s   #-12188672,r13
+317BC eea8     mov       #-88,r14
+317BE 01110000 movi20s   #16777216,r1
+317C2 4e18     shll8     r14
+317C4 7d34     add       #52,r13
+317C6 66d2     mov.l     @r13,r6
+317C8 2618     tst       r1,r6
+317CA 8f04     bf/s      0x317d6
+317CC 2f62     mov.l     r6,@r15
+317CE 0b29     movt      r11
+317D0 e000     mov       #0,r0
+317D2 c023     mov.b     r0,@(35,gbr)
+317D4 c022     mov.b     r0,@(34,gbr)
+317D6 32e14010 mov.b     @(16,r14),r2
+317DA 2228     tst       r2,r2
+317DC 8903     bt        0x317e6
+317DE e000     mov       #0,r0
+317E0 ebff     mov       #-1,r11
+317E2 c023     mov.b     r0,@(35,gbr)
+317E4 c022     mov.b     r0,@(34,gbr)
+317E6 60b3     mov       r11,r0
+317E8 7f04     add       #4,r15
+317EA 4f17     ldc.l     @r15+,gbr
+317EC 4f26     lds.l     @r15+,pr
+317EE 6ef6     mov.l     @r15+,r14
+317F0 6df6     mov.l     @r15+,r13
+317F2 6cf6     mov.l     @r15+,r12
+317F4 6bf6     mov.l     @r15+,r11
+317F6 6af6     mov.l     @r15+,r10
+317F8 69f6     mov.l     @r15+,r9
+317FA 000b     rts       
+
+--- 008804..00886C ---
+08804 d219     mov.l     0x886c,r2 ; [0886C] = 00008010
+08806 e110     mov       #16,r1
+08808 3218     sub       r1,r2
+0880A 422e     ldc       r2,vbr
+0880C e4f0     mov       #-16,r4
+0880E 644c     extu.b    r4,r4
+08810 440e     ldc       r4,sr
+08812 0009     nop       
+08814 0570fff8 movi20    #524280,r5 ; signed immediate = 524280 (0x0007FFF8)
+08818 0400c000 movi20    #49152,r4 ; signed immediate = 49152 (0x0000C000)
+0881C 3d419000 movu.w    @(0,r4),r13
+08820 3e519000 movu.w    @(0,r5),r14
+08824 d612     mov.l     0x8870,r6 ; [08870] = 0000A7B2
+08826 464b     jsr/n     @r6
+08828 3dec     add       r14,r13
+0882A d712     mov.l     0x8874,r7 ; [08874] = 0000A79C
+0882C 470b     jsr       @r7
+0882E eeff     mov       #-1,r14
+08830 d211     mov.l     0x8878,r2 ; [08878] = 0000ABBC
+08832 420b     jsr       @r2
+08834 6eed     extu.w    r14,r14
+08836 3de0     cmp/eq    r14,r13
+08838 8d03     bt/s      0x8842
+0883A 660e     exts.b    r0,r6
+0883C d30f     mov.l     0x887c,r3 ; [0887C] = 00008898
+0883E 432b     jmp       @r3
+08840 0009     nop       
+08842 2668     tst       r6,r6
+08844 8902     bt        0x884c
+08846 d30d     mov.l     0x887c,r3 ; [0887C] = 00008898
+08848 432b     jmp       @r3
+0884A 0009     nop       
+0884C 06f14640 movi20s   #-12173312,r6
+08850 8564     mov.w     @(8,r6),r0
+08852 c840     tst       #64,r0
+08854 322a     subc      r2,r2
+08856 7201     add       #1,r2
+08858 602d     extu.w    r2,r0
+0885A 8801     cmp/eq    #1,r0
+0885C 8902     bt        0x8864
+0885E d307     mov.l     0x887c,r3 ; [0887C] = 00008898
+08860 432b     jmp       @r3
+08862 0009     nop       
+08864 6061     mov.w     @r6,r0
+08866 ca20     xor       #32,r0
+08868 a00a     bra       0x8880
+0886A 2601     mov.w     r0,@r6
+
+--- 008880..0088B2 ---
+08880 d303     mov.l     0x8890,r3 ; [08890] = 00010000
+08882 d404     mov.l     0x8894,r4 ; [08894] = 00010004
+08884 6f42     mov.l     @r4,r15
+08886 432e     ldc       r3,vbr
+08888 6032     mov.l     @r3,r0
+0888A 402b     jmp       @r0
+0888C 0009     nop       
+0888E 00000001 movi20    #1,r0 ; signed immediate = 1 (0x00000001)
+08892 00000001 movi20    #1,r0 ; signed immediate = 1 (0x00000001)
+08896 0004     mov.b     r0,@(r0,r0)
+08898 d401     mov.l     0x88a0,r4 ; [088A0] = 0000ADB4
+0889A 444b     jsr/n     @r4
+0889C a002     bra       0x88a4
+0889E 0009     nop       
+088A0 0000adb4 movi20    #44468,r0 ; signed immediate = 44468 (0x0000ADB4)
+088A4 d513     mov.l     0x88f4,r5 ; [088F4] = 0000A7AC
+088A6 454b     jsr/n     @r5
+088A8 d613     mov.l     0x88f8,r6 ; [088F8] = 0000AD56
+088AA 464b     jsr/n     @r6
+088AC 001b     sleep     
+088AE 006b     rts/n     
+088B0 006b     rts/n     
+
+--- 00ABBC..00ACEF ---
+0ABBC 2fc6     mov.l     r12,@-r15
+0ABBE 2fd6     mov.l     r13,@-r15
+0ABC0 2fe6     mov.l     r14,@-r15
+0ABC2 d115     mov.l     0xac18,r1 ; [0AC18] = FFF87112
+0ABC4 e000     mov       #0,r0
+0ABC6 0cf14600 movi20s   #-12189696,r12
+0ABCA 2100     mov.b     r0,@r1
+0ABCC eda8     mov       #-88,r13
+0ABCE 8011     mov.b     r0,@(1,r1)
+0ABD0 7c60     add       #96,r12
+0ABD2 8012     mov.b     r0,@(2,r1)
+0ABD4 4d18     shll8     r13
+0ABD6 8013     mov.b     r0,@(3,r1)
+0ABD8 8014     mov.b     r0,@(4,r1)
+0ABDA 8015     mov.b     r0,@(5,r1)
+0ABDC 8016     mov.b     r0,@(6,r1)
+0ABDE 8017     mov.b     r0,@(7,r1)
+0ABE0 05110000 movi20s   #16777216,r5
+0ABE4 32c160f5 mov.l     @(980,r12),r2
+0ABE8 2258     tst       r5,r2
+0ABEA 8bfb     bf        0xabe4
+0ABEC 0e008000 movi20    #32768,r14 ; signed immediate = 32768 (0x00008000)
+0ABF0 31d19080 movu.w    @(256,r13),r1
+0ABF4 21e8     tst       r14,r1
+0ABF6 322a     subc      r2,r2
+0ABF8 7201     add       #1,r2
+0ABFA 622d     extu.w    r2,r2
+0ABFC 2228     tst       r2,r2
+0ABFE 89f7     bt        0xabf0
+0AC00 e400     mov       #0,r4
+0AC02 3d41108d mov.w     r4,@(282,r13)
+0AC06 04f08010 movi20    #1015824,r4 ; signed immediate = -32752 (0xFFFF8010)
+0AC0A 0500aa80 movi20    #43648,r5 ; signed immediate = 43648 (0x0000AA80)
+0AC0E 3d511081 mov.w     r5,@(258,r13)
+0AC12 a003     bra       0xac1c
+0AC14 4428     shll16    r4
+0AC16 0000fff8 movi20    #65528,r0 ; signed immediate = 65528 (0x0000FFF8)
+0AC1A 7112     add       #18,r1
+0AC1C e1e9     mov       #-23,r1
+0AC1E 2410     mov.b     r1,@r4
+0AC20 e103     mov       #3,r1
+0AC22 2410     mov.b     r1,@r4
+0AC24 01000f0f movi20    #3855,r1 ; signed immediate = 3855 (0x00000F0F)
+0AC28 2411     mov.w     r1,@r4
+0AC2A 01000f0f movi20    #3855,r1 ; signed immediate = 3855 (0x00000F0F)
+0AC2E 2411     mov.w     r1,@r4
+0AC30 01000f0f movi20    #3855,r1 ; signed immediate = 3855 (0x00000F0F)
+0AC34 2411     mov.w     r1,@r4
+0AC36 e1d0     mov       #-48,r1
+0AC38 2410     mov.b     r1,@r4
+0AC3A 0009     nop       
+0AC3C 36d19080 movu.w    @(256,r13),r6
+0AC40 26e8     tst       r14,r6
+0AC42 322a     subc      r2,r2
+0AC44 7201     add       #1,r2
+0AC46 622d     extu.w    r2,r2
+0AC48 2228     tst       r2,r2
+0AC4A 89f7     bt        0xac3c
+0AC4C d401     mov.l     0xac54,r4 ; [0AC54] = 80107000
+0AC4E a003     bra       0xac58
+0AC50 0009     nop       
+0AC52 00008010 movi20    #32784,r0 ; signed immediate = 32784 (0x00008010)
+0AC56 7000     add       #0,r0
+0AC58 e171     mov       #113,r1
+0AC5A 2410     mov.b     r1,@r4
+0AC5C e1d0     mov       #-48,r1
+0AC5E 2410     mov.b     r1,@r4
+0AC60 32d19080 movu.w    @(256,r13),r2
+0AC64 22e8     tst       r14,r2
+0AC66 89fb     bt        0xac60
+0AC68 ee01     mov       #1,r14
+0AC6A e111     mov       #17,r1
+0AC6C 05110000 movi20s   #16777216,r5
+0AC70 4e18     shll8     r14
+0AC72 0700aa00 movi20    #43520,r7 ; signed immediate = 43520 (0x0000AA00)
+0AC76 4118     shll8     r1
+0AC78 3d711081 mov.w     r7,@(258,r13)
+0AC7C 3ce120f5 mov.l     r14,@(980,r12)
+0AC80 1c13     mov.l     r1,@(12,r12)
+0AC82 3c5120f4 mov.l     r5,@(976,r12)
+0AC86 30d1508f mov.w     @(286,r13),r0
+0AC8A c901     and       #1,r0
+0AC8C 2008     tst       r0,r0
+0AC8E 8d0b     bt/s      0xaca8
+0AC90 e600     mov       #0,r6
+0AC92 dd27     mov.l     0xad30,r13 ; [0AD30] = 80107000
+0AC94 e408     mov       #8,r4
+0AC96 07110101 movi20s   #16843008,r7
+0AC9A e601     mov       #1,r6
+0AC9C d125     mov.l     0xad34,r1 ; [0AD34] = FFF87112
+0AC9E 2cd2     mov.l     r13,@r12
+0ACA0 1c11     mov.l     r1,@(4,r12)
+0ACA2 1c42     mov.l     r4,@(8,r12)
+0ACA4 3c7120f5 mov.l     r7,@(980,r12)
+0ACA8 32c160f5 mov.l     @(980,r12),r2
+0ACAC 2258     tst       r5,r2
+0ACAE 8bfb     bf        0xaca8
+0ACB0 6063     mov       r6,r0
+0ACB2 8801     cmp/eq    #1,r0
+0ACB4 8b17     bf        0xace6
+0ACB6 d11f     mov.l     0xad34,r1 ; [0AD34] = FFF87112
+0ACB8 6010     mov.b     @r1,r0
+0ACBA 8846     cmp/eq    #70,r0
+0ACBC 8b13     bf        0xace6
+0ACBE 8411     mov.b     @(1,r1),r0
+0ACC0 886c     cmp/eq    #108,r0
+0ACC2 8b10     bf        0xace6
+0ACC4 8412     mov.b     @(2,r1),r0
+0ACC6 8861     cmp/eq    #97,r0
+0ACC8 8b0d     bf        0xace6
+0ACCA 8413     mov.b     @(3,r1),r0
+0ACCC 8873     cmp/eq    #115,r0
+0ACCE 8b0a     bf        0xace6
+0ACD0 8414     mov.b     @(4,r1),r0
+0ACD2 8868     cmp/eq    #104,r0
+0ACD4 8b07     bf        0xace6
+0ACD6 8415     mov.b     @(5,r1),r0
+0ACD8 8852     cmp/eq    #82,r0
+0ACDA 8b04     bf        0xace6
+0ACDC 8416     mov.b     @(6,r1),r0
+0ACDE 8865     cmp/eq    #101,r0
+0ACE0 8b01     bf        0xace6
+0ACE2 8417     mov.b     @(7,r1),r0
+0ACE4 8871     cmp/eq    #113,r0
+0ACE6 0029     movt      r0
+0ACE8 6ef6     mov.l     @r15+,r14
+0ACEA 6df6     mov.l     @r15+,r13
+0ACEC 000b     rts       

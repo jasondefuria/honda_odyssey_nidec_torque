@@ -1,0 +1,48 @@
+{
+  "original_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "original_preserved": true,
+  "modified_firmware_created": false,
+  "solution_status": "Blocked on absent target coding, incomplete boot/image provenance, and physical validation; not a validated torque modification.",
+  "evidence": [
+    {
+      "path": "odyssey_solution_blockers.md",
+      "sha256": "8cdb93b7a0a576cdadae0a762f19ae06da626493289b6549bf99e4e20ae7c7ae",
+      "bytes": 6325
+    },
+    {
+      "path": "odyssey_solution_blocker_disassembly.txt",
+      "sha256": "e4c8751b22768b6194035526ec69c4aec2155fed93c4516bb8e60c126cfd3224",
+      "bytes": 19419
+    },
+    {
+      "path": "odyssey_nvm_coding_transfer.json",
+      "sha256": "86869ad09d8820d1923a965f84346b5964c7ab345f9b683e6498cb053f820e67",
+      "bytes": 1571
+    },
+    {
+      "path": "odyssey_boot_marker_execution.json",
+      "sha256": "6468524cdbef826698a4d93844306fd0d10d4f403228cdee0a315af5af4e08cc",
+      "bytes": 899
+    },
+    {
+      "path": "odyssey_coding_decoder_verification.json",
+      "sha256": "35dce107dd8c518cad403b8329d017b75f6c9300f4e96205aaece71255d632a8",
+      "bytes": 287
+    },
+    {
+      "path": "inspect_odyssey_coding.py",
+      "sha256": "97690ca53453eba86df5ca8959c690ed5c30b5c0238f727607ff5b4fc3af5ded",
+      "bytes": 2539
+    },
+    {
+      "path": "offline_validation/verify_nvm_coding_transfer.py",
+      "sha256": "ac0b45a6bc163705e95a0c9d2c6f6404988a3e931933f1c5501f37f1acfb7064",
+      "bytes": 1731
+    },
+    {
+      "path": "offline_validation/verify_boot_marker.py",
+      "sha256": "9ccf22e40dcc578d2f0402bc0fec3cb7756a797ea9ee56655c216c6e3bd67f6a",
+      "bytes": 1448
+    }
+  ]
+}

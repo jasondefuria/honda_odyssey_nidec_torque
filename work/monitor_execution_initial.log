@@ -1,0 +1,32 @@
+{"bank": 1, "inputs_completed": 8192, "elapsed_seconds": 3.7}
+{"bank": 1, "inputs_completed": 16384, "elapsed_seconds": 7.4}
+{"bank": 1, "inputs_completed": 24576, "elapsed_seconds": 11.1}
+{"bank": 1, "inputs_completed": 32768, "elapsed_seconds": 14.7}
+{"bank": 1, "inputs_completed": 40960, "elapsed_seconds": 18.3}
+{"bank": 1, "inputs_completed": 49152, "elapsed_seconds": 21.8}
+{"bank": 1, "inputs_completed": 57344, "elapsed_seconds": 25.5}
+{"bank": 1, "inputs_completed": 65536, "elapsed_seconds": 29.1}
+{"bank": 2, "inputs_completed": 8192, "elapsed_seconds": 33.2}
+{"bank": 2, "inputs_completed": 16384, "elapsed_seconds": 36.8}
+{"bank": 2, "inputs_completed": 24576, "elapsed_seconds": 40.4}
+{"bank": 2, "inputs_completed": 32768, "elapsed_seconds": 43.9}
+{"bank": 2, "inputs_completed": 40960, "elapsed_seconds": 47.5}
+{"bank": 2, "inputs_completed": 49152, "elapsed_seconds": 51.0}
+{"bank": 2, "inputs_completed": 57344, "elapsed_seconds": 54.6}
+{"bank": 2, "inputs_completed": 65536, "elapsed_seconds": 58.1}
+{"bank": 3, "inputs_completed": 8192, "elapsed_seconds": 61.6}
+{"bank": 3, "inputs_completed": 16384, "elapsed_seconds": 65.1}
+{"bank": 3, "inputs_completed": 24576, "elapsed_seconds": 68.6}
+{"bank": 3, "inputs_completed": 32768, "elapsed_seconds": 72.1}
+{"bank": 3, "inputs_completed": 40960, "elapsed_seconds": 75.6}
+{"bank": 3, "inputs_completed": 49152, "elapsed_seconds": 79.1}
+{"bank": 3, "inputs_completed": 57344, "elapsed_seconds": 82.7}
+{"bank": 3, "inputs_completed": 65536, "elapsed_seconds": 86.3}
+{"bank": 4, "inputs_completed": 8192, "elapsed_seconds": 89.6}
+{"bank": 4, "inputs_completed": 16384, "elapsed_seconds": 93.1}
+{"bank": 4, "inputs_completed": 24576, "elapsed_seconds": 96.4}
+Traceback (most recent call last):
+  File "/Users/jasondefuria/Documents/Codex/2026-09-20/continue-the-odyssey-thr-a020-eps/work/exhaustive_monitor.py", line 19, in <module>
+    assert c.readmem(0xfff8a622,6)==0,(bank,raw,'disagreement')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: (3, -1010, 'disagreement')

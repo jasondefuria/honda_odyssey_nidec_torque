@@ -1,0 +1,729 @@
+{
+  "files": [
+    {
+      "source": "work/civic-a030/39990-TBA,A030-PTM.rwd",
+      "sha256": "3694903e9ffa242097b4f649c61acf6df77d4b76c4f5d97f67194613731e8520",
+      "start": "0x4000",
+      "length": "0x4c000",
+      "checks": {
+        "outer": true,
+        "firmware_sum": true,
+        "firmware_negative_sum": true
+      }
+    },
+    {
+      "source": "work/civic-a030/repository/39990-TBA,A030-PTM.rwd",
+      "sha256": "3694903e9ffa242097b4f649c61acf6df77d4b76c4f5d97f67194613731e8520",
+      "start": "0x4000",
+      "length": "0x4c000",
+      "checks": {
+        "outer": true,
+        "firmware_sum": true,
+        "firmware_negative_sum": true
+      }
+    },
+    {
+      "source": "work/civic-a030/repository/stock-39990-TBA-A030.rwd",
+      "sha256": "50aa2a555b44ac80149cd5528290a6ac9b3452d6d127a03a6c9f9cf6758c9226",
+      "start": "0x4000",
+      "length": "0x4c000",
+      "checks": {
+        "outer": true,
+        "firmware_sum": true,
+        "firmware_negative_sum": true
+      }
+    },
+    {
+      "source": "work/civic-a030/repository/mod-39990-TBA,A030.rwd",
+      "sha256": "b023258dd774729cfcca3f0d3f6b9fefe1bc111f8b4d1b6bb0e83d788cbfec6f",
+      "start": "0x4000",
+      "length": "0x4c000",
+      "checks": {
+        "outer": true,
+        "firmware_sum": true,
+        "firmware_negative_sum": true
+      }
+    },
+    {
+      "source": "work/civic-a030/repository/39990-TBA,A030-linear-max.rwd",
+      "sha256": "835b99414d4927bac327996ac6771a8f2dcd3633baac1933b2ed2d091a568fb9",
+      "start": "0x4000",
+      "length": "0x4c000",
+      "checks": {
+        "outer": true,
+        "firmware_sum": true,
+        "firmware_negative_sum": true
+      }
+    },
+    {
+      "source": "work/nrdr-reference/openpilot/nrdr/tools/eps/rwd/39990-TBA-C020 (2019 Honda Civic Sport)/Legacy and Stock/2.5x-mod-39990-TBA,C020.rwd",
+      "sha256": "077d2dda35d43bf17c631837c28c980fa0b274de7a151efff0b75439ed87bc6b",
+      "start": "0x4000",
+      "length": "0x4c000",
+      "checks": {
+        "outer": true,
+        "firmware_sum": true,
+        "firmware_negative_sum": true
+      }
+    },
+    {
+      "source": "work/nrdr-reference/openpilot/nrdr/tools/eps/rwd/39990-TBA-C020 (2019 Honda Civic Sport)/Legacy and Stock/stock-39990-TBA-C020.rwd",
+      "sha256": "ad30cbd9faade0e2011f97229632c6c43e9c08e72aa5160f0a282c79843e9367",
+      "start": "0x4000",
+      "length": "0x4c000",
+      "checks": {
+        "outer": true,
+        "firmware_sum": true,
+        "firmware_negative_sum": true
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "file": "work/civic-a030/39990-TBA,A030-PTM.rwd",
+      "changed_bytes": 429,
+      "ranges": [
+        {
+          "rom_start": "0x13544",
+          "rom_end_exclusive": "0x13546",
+          "changed_bytes": 1,
+          "stock_hex": "0028",
+          "modified_hex": "0000"
+        },
+        {
+          "rom_start": "0x13716",
+          "rom_end_exclusive": "0x13718",
+          "changed_bytes": 2,
+          "stock_hex": "07cc",
+          "modified_hex": "0c80"
+        },
+        {
+          "rom_start": "0x1379c",
+          "rom_end_exclusive": "0x1381e",
+          "changed_bytes": 118,
+          "stock_hex": "09170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000006b30b1a0ccd0e9a104d119a11da11da06ee014d06ee",
+          "modified_hex": "0786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b75301ccd06ee2328"
+        },
+        {
+          "rom_start": "0x139ec",
+          "rom_end_exclusive": "0x13a6a",
+          "changed_bytes": 126,
+          "stock_hex": "009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108",
+          "modified_hex": "02e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e1"
+        },
+        {
+          "rom_start": "0x13ae8",
+          "rom_end_exclusive": "0x13b66",
+          "changed_bytes": 91,
+          "stock_hex": "001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b30026007700af00cd00cd00cd00cd00cd00e1",
+          "modified_hex": "0075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f50101010701090109"
+        },
+        {
+          "rom_start": "0x297d6",
+          "rom_end_exclusive": "0x297dc",
+          "changed_bytes": 6,
+          "stock_hex": "061a46118d03",
+          "modified_hex": "0740f1cc470b"
+        },
+        {
+          "rom_start": "0x2a6c0",
+          "rom_end_exclusive": "0x2a6c2",
+          "changed_bytes": 2,
+          "stock_hex": "0d65",
+          "modified_hex": "0672"
+        },
+        {
+          "rom_start": "0x4b436",
+          "rom_end_exclusive": "0x4b438",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b48e",
+          "rom_end_exclusive": "0x4b490",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b4e8",
+          "rom_end_exclusive": "0x4b4ea",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b540",
+          "rom_end_exclusive": "0x4b542",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b59a",
+          "rom_end_exclusive": "0x4b59c",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b5f2",
+          "rom_end_exclusive": "0x4b5f4",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b64c",
+          "rom_end_exclusive": "0x4b64e",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b6a4",
+          "rom_end_exclusive": "0x4b6a6",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b6fe",
+          "rom_end_exclusive": "0x4b700",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b756",
+          "rom_end_exclusive": "0x4b758",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b7b0",
+          "rom_end_exclusive": "0x4b7b2",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4f1cc",
+          "rom_end_exclusive": "0x4f212",
+          "changed_bytes": 68,
+          "stock_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "modified_hex": "061a46118d030009e1ff611c361ce12d281f011ae2f6412c301c01f0800130138d0362036013a007621301007fff30178f02000960136213012097e4412a00090009000b0009"
+        },
+        {
+          "rom_start": "0x4ff80",
+          "rom_end_exclusive": "0x4ff82",
+          "changed_bytes": 2,
+          "stock_hex": "dd23",
+          "modified_hex": "9794"
+        },
+        {
+          "rom_start": "0x4fffe",
+          "rom_end_exclusive": "0x50000",
+          "changed_bytes": 2,
+          "stock_hex": "eddf",
+          "modified_hex": "78fd"
+        }
+      ]
+    },
+    {
+      "file": "work/civic-a030/repository/39990-TBA,A030-PTM.rwd",
+      "changed_bytes": 429,
+      "ranges": [
+        {
+          "rom_start": "0x13544",
+          "rom_end_exclusive": "0x13546",
+          "changed_bytes": 1,
+          "stock_hex": "0028",
+          "modified_hex": "0000"
+        },
+        {
+          "rom_start": "0x13716",
+          "rom_end_exclusive": "0x13718",
+          "changed_bytes": 2,
+          "stock_hex": "07cc",
+          "modified_hex": "0c80"
+        },
+        {
+          "rom_start": "0x1379c",
+          "rom_end_exclusive": "0x1381e",
+          "changed_bytes": 118,
+          "stock_hex": "09170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000006b30b1a0ccd0e9a104d119a11da11da06ee014d06ee",
+          "modified_hex": "0786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b753000000786134a21072f043e364eaa694b75301ccd06ee2328"
+        },
+        {
+          "rom_start": "0x139ec",
+          "rom_end_exclusive": "0x13a6a",
+          "changed_bytes": 126,
+          "stock_hex": "009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108",
+          "modified_hex": "02e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e102e1"
+        },
+        {
+          "rom_start": "0x13ae8",
+          "rom_end_exclusive": "0x13b66",
+          "changed_bytes": 91,
+          "stock_hex": "001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b3001700310080008f0097009f00a600b300b30026007700af00cd00cd00cd00cd00cd00e1",
+          "modified_hex": "0075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f501010107010901090075009400b800dc00f50101010701090109"
+        },
+        {
+          "rom_start": "0x297d6",
+          "rom_end_exclusive": "0x297dc",
+          "changed_bytes": 6,
+          "stock_hex": "061a46118d03",
+          "modified_hex": "0740f1cc470b"
+        },
+        {
+          "rom_start": "0x2a6c0",
+          "rom_end_exclusive": "0x2a6c2",
+          "changed_bytes": 2,
+          "stock_hex": "0d65",
+          "modified_hex": "0672"
+        },
+        {
+          "rom_start": "0x4b436",
+          "rom_end_exclusive": "0x4b438",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b48e",
+          "rom_end_exclusive": "0x4b490",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b4e8",
+          "rom_end_exclusive": "0x4b4ea",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b540",
+          "rom_end_exclusive": "0x4b542",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b59a",
+          "rom_end_exclusive": "0x4b59c",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b5f2",
+          "rom_end_exclusive": "0x4b5f4",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b64c",
+          "rom_end_exclusive": "0x4b64e",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b6a4",
+          "rom_end_exclusive": "0x4b6a6",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b6fe",
+          "rom_end_exclusive": "0x4b700",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b756",
+          "rom_end_exclusive": "0x4b758",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b7b0",
+          "rom_end_exclusive": "0x4b7b2",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4f1cc",
+          "rom_end_exclusive": "0x4f212",
+          "changed_bytes": 68,
+          "stock_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "modified_hex": "061a46118d030009e1ff611c361ce12d281f011ae2f6412c301c01f0800130138d0362036013a007621301007fff30178f02000960136213012097e4412a00090009000b0009"
+        },
+        {
+          "rom_start": "0x4ff80",
+          "rom_end_exclusive": "0x4ff82",
+          "changed_bytes": 2,
+          "stock_hex": "dd23",
+          "modified_hex": "9794"
+        },
+        {
+          "rom_start": "0x4fffe",
+          "rom_end_exclusive": "0x50000",
+          "changed_bytes": 2,
+          "stock_hex": "eddf",
+          "modified_hex": "78fd"
+        }
+      ]
+    },
+    {
+      "file": "work/civic-a030/repository/mod-39990-TBA,A030.rwd",
+      "changed_bytes": 74,
+      "ranges": [
+        {
+          "rom_start": "0x13544",
+          "rom_end_exclusive": "0x13546",
+          "changed_bytes": 1,
+          "stock_hex": "0028",
+          "modified_hex": "0001"
+        },
+        {
+          "rom_start": "0x137a8",
+          "rom_end_exclusive": "0x13818",
+          "changed_bytes": 30,
+          "stock_hex": "16801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000006b30b1a0ccd0e9a104d119a11da11da",
+          "modified_hex": "21c03840000009170dc51017119f140b168021c03840000009170dc51017119f140b168021c03840000009170dc51017119f140b168021c03840000009170dc51017119f140b168021c03840000009170dc51017119f140b168021c03840000006b30b1a0ccd0e9a104d16c41d3c2a2c"
+        },
+        {
+          "rom_start": "0x139fa",
+          "rom_end_exclusive": "0x13a6a",
+          "changed_bytes": 28,
+          "stock_hex": "01080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108",
+          "modified_hex": "04000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480"
+        },
+        {
+          "rom_start": "0x4b436",
+          "rom_end_exclusive": "0x4b438",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b48e",
+          "rom_end_exclusive": "0x4b490",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b4e8",
+          "rom_end_exclusive": "0x4b4ea",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b540",
+          "rom_end_exclusive": "0x4b542",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b59a",
+          "rom_end_exclusive": "0x4b59c",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b5f2",
+          "rom_end_exclusive": "0x4b5f4",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b64c",
+          "rom_end_exclusive": "0x4b64e",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b6a4",
+          "rom_end_exclusive": "0x4b6a6",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b6fe",
+          "rom_end_exclusive": "0x4b700",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b756",
+          "rom_end_exclusive": "0x4b758",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b7b0",
+          "rom_end_exclusive": "0x4b7b2",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4ff80",
+          "rom_end_exclusive": "0x4ff82",
+          "changed_bytes": 2,
+          "stock_hex": "dd23",
+          "modified_hex": "3ae5"
+        },
+        {
+          "rom_start": "0x4fffe",
+          "rom_end_exclusive": "0x50000",
+          "changed_bytes": 2,
+          "stock_hex": "eddf",
+          "modified_hex": "325b"
+        }
+      ]
+    },
+    {
+      "file": "work/civic-a030/repository/39990-TBA,A030-linear-max.rwd",
+      "changed_bytes": 84,
+      "ranges": [
+        {
+          "rom_start": "0x13544",
+          "rom_end_exclusive": "0x13546",
+          "changed_bytes": 1,
+          "stock_hex": "0028",
+          "modified_hex": "0000"
+        },
+        {
+          "rom_start": "0x137a8",
+          "rom_end_exclusive": "0x13818",
+          "changed_bytes": 40,
+          "stock_hex": "16801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000009170dc51017119f140b168016801680000006b30b1a0ccd0e9a104d119a11da11da",
+          "modified_hex": "74bf7fff000009170dc51017119f140b168074bf7fff000009170dc51017119f140b168074bf7fff000009170dc51017119f140b168074bf7fff000009170dc51017119f140b168074bf7fff000009170dc51017119f140b168074bf7fff000009170dc51017119f140b2cb774bf7fff"
+        },
+        {
+          "rom_start": "0x139fa",
+          "rom_end_exclusive": "0x13a6a",
+          "changed_bytes": 28,
+          "stock_hex": "01080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108",
+          "modified_hex": "05dc05dc009f01080108010801080108010805dc05dc009f01080108010801080108010805dc05dc009f01080108010801080108010805dc05dc009f01080108010801080108010805dc05dc009f01080108010801080108010805dc05dc009f01080108010801080108010805dc05dc"
+        },
+        {
+          "rom_start": "0x4b436",
+          "rom_end_exclusive": "0x4b438",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b48e",
+          "rom_end_exclusive": "0x4b490",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b4e8",
+          "rom_end_exclusive": "0x4b4ea",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b540",
+          "rom_end_exclusive": "0x4b542",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b59a",
+          "rom_end_exclusive": "0x4b59c",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b5f2",
+          "rom_end_exclusive": "0x4b5f4",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b64c",
+          "rom_end_exclusive": "0x4b64e",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b6a4",
+          "rom_end_exclusive": "0x4b6a6",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b6fe",
+          "rom_end_exclusive": "0x4b700",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4b756",
+          "rom_end_exclusive": "0x4b758",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b7b0",
+          "rom_end_exclusive": "0x4b7b2",
+          "changed_bytes": 1,
+          "stock_hex": "2d41",
+          "modified_hex": "2c41"
+        },
+        {
+          "rom_start": "0x4ff80",
+          "rom_end_exclusive": "0x4ff82",
+          "changed_bytes": 2,
+          "stock_hex": "dd23",
+          "modified_hex": "c445"
+        },
+        {
+          "rom_start": "0x4fffe",
+          "rom_end_exclusive": "0x50000",
+          "changed_bytes": 2,
+          "stock_hex": "eddf",
+          "modified_hex": "1f9b"
+        }
+      ]
+    },
+    {
+      "file": "work/nrdr-reference/openpilot/nrdr/tools/eps/rwd/39990-TBA-C020 (2019 Honda Civic Sport)/Legacy and Stock/2.5x-mod-39990-TBA,C020.rwd",
+      "changed_bytes": 67,
+      "ranges": [
+        {
+          "rom_start": "0x1361c",
+          "rom_end_exclusive": "0x1361e",
+          "changed_bytes": 1,
+          "stock_hex": "000a",
+          "modified_hex": "0001"
+        },
+        {
+          "rom_start": "0x13880",
+          "rom_end_exclusive": "0x138f0",
+          "changed_bytes": 25,
+          "stock_hex": "12001200000002ca065d0aba0dc20f8010331033103300000300068009800c4d0e800f000f801033000007460b040cdf0e191008120012001200000007460b040cdf0e191008120012001200000007460b040cdf0e191008120012001200000006b30b1a0ccd0e9a104d119a11da11da",
+          "modified_hex": "1f802d00000002ca065d0aba0dc20f8010331f802d0000000300068009800c4d0e800f001f802d00000007460b040cdf0e19100812001f802d00000007460b040cdf0e19100812001f802d00000007460b040cdf0e19100812001f802d00000006b30b1a0ccd0e9a104d19be232f2ca1"
+        },
+        {
+          "rom_start": "0x13ad2",
+          "rom_end_exclusive": "0x13b42",
+          "changed_bytes": 28,
+          "stock_hex": "01080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108009f01080108010801080108010801080108",
+          "modified_hex": "04000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480009f01080108010801080108010804000480"
+        },
+        {
+          "rom_start": "0x4b156",
+          "rom_end_exclusive": "0x4b158",
+          "changed_bytes": 1,
+          "stock_hex": "2d43",
+          "modified_hex": "2c43"
+        },
+        {
+          "rom_start": "0x4b1ae",
+          "rom_end_exclusive": "0x4b1b0",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b208",
+          "rom_end_exclusive": "0x4b20a",
+          "changed_bytes": 1,
+          "stock_hex": "2d43",
+          "modified_hex": "2c43"
+        },
+        {
+          "rom_start": "0x4b260",
+          "rom_end_exclusive": "0x4b262",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b2ba",
+          "rom_end_exclusive": "0x4b2bc",
+          "changed_bytes": 1,
+          "stock_hex": "2d43",
+          "modified_hex": "2c43"
+        },
+        {
+          "rom_start": "0x4b312",
+          "rom_end_exclusive": "0x4b314",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b36c",
+          "rom_end_exclusive": "0x4b36e",
+          "changed_bytes": 1,
+          "stock_hex": "2d43",
+          "modified_hex": "2c43"
+        },
+        {
+          "rom_start": "0x4b3c4",
+          "rom_end_exclusive": "0x4b3c6",
+          "changed_bytes": 1,
+          "stock_hex": "412d",
+          "modified_hex": "412c"
+        },
+        {
+          "rom_start": "0x4b41e",
+          "rom_end_exclusive": "0x4b420",
+          "changed_bytes": 1,
+          "stock_hex": "2d43",
+          "modified_hex": "2c43"
+        },
+        {
+          "rom_start": "0x4ff80",
+          "rom_end_exclusive": "0x4ff82",
+          "changed_bytes": 2,
+          "stock_hex": "89c8",
+          "modified_hex": "e0f2"
+        },
+        {
+          "rom_start": "0x4fffe",
+          "rom_end_exclusive": "0x50000",
+          "changed_bytes": 2,
+          "stock_hex": "9495",
+          "modified_hex": "e641"
+        }
+      ]
+    }
+  ]
+}

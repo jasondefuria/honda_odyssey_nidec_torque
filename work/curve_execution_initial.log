@@ -1,0 +1,32 @@
+{"bank": 1, "inputs_completed": 8192, "elapsed_seconds": 3.8}
+{"bank": 1, "inputs_completed": 16384, "elapsed_seconds": 7.7}
+{"bank": 1, "inputs_completed": 24576, "elapsed_seconds": 10.6}
+{"bank": 1, "inputs_completed": 32768, "elapsed_seconds": 13.3}
+{"bank": 1, "inputs_completed": 40960, "elapsed_seconds": 16.0}
+{"bank": 1, "inputs_completed": 49152, "elapsed_seconds": 18.6}
+{"bank": 1, "inputs_completed": 57344, "elapsed_seconds": 21.3}
+{"bank": 1, "inputs_completed": 65536, "elapsed_seconds": 24.0}
+{"bank": 2, "inputs_completed": 8192, "elapsed_seconds": 26.7}
+{"bank": 2, "inputs_completed": 16384, "elapsed_seconds": 29.5}
+{"bank": 2, "inputs_completed": 24576, "elapsed_seconds": 32.3}
+{"bank": 2, "inputs_completed": 32768, "elapsed_seconds": 35.2}
+{"bank": 2, "inputs_completed": 40960, "elapsed_seconds": 38.0}
+{"bank": 2, "inputs_completed": 49152, "elapsed_seconds": 40.8}
+{"bank": 2, "inputs_completed": 57344, "elapsed_seconds": 43.7}
+{"bank": 2, "inputs_completed": 65536, "elapsed_seconds": 46.6}
+{"bank": 3, "inputs_completed": 8192, "elapsed_seconds": 49.4}
+{"bank": 3, "inputs_completed": 16384, "elapsed_seconds": 52.3}
+{"bank": 3, "inputs_completed": 24576, "elapsed_seconds": 55.1}
+{"bank": 3, "inputs_completed": 32768, "elapsed_seconds": 57.8}
+{"bank": 3, "inputs_completed": 40960, "elapsed_seconds": 60.6}
+{"bank": 3, "inputs_completed": 49152, "elapsed_seconds": 63.3}
+{"bank": 3, "inputs_completed": 57344, "elapsed_seconds": 66.0}
+{"bank": 3, "inputs_completed": 65536, "elapsed_seconds": 68.7}
+{"bank": 4, "inputs_completed": 8192, "elapsed_seconds": 71.4}
+{"bank": 4, "inputs_completed": 16384, "elapsed_seconds": 74.0}
+{"bank": 4, "inputs_completed": 24576, "elapsed_seconds": 77.0}
+Traceback (most recent call last):
+  File "/Users/jasondefuria/Documents/Codex/2026-09-20/continue-the-odyssey-thr-a020-eps/work/exhaustive_curve.py", line 22, in <module>
+    assert out==want,(bank,raw,out,want)
+           ^^^^^^^^^
+AssertionError: (3, -1010, -3978, -3979)

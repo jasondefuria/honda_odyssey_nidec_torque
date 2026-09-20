@@ -1,0 +1,224 @@
+{
+  "sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "size": 524288,
+  "can_slot_22_record": "0000000000e400000000000005010000",
+  "arctangent_table": {
+    "start": "0x3A128",
+    "entries": 2049,
+    "last": 2048,
+    "exact_formula_match": true
+  },
+  "octant_offsets": [
+    0,
+    -4096,
+    -16384,
+    12288,
+    -8192,
+    4096,
+    8192,
+    -12288
+  ],
+  "additive_checksum": {
+    "range": "[0xC000,0x7FF80)",
+    "computed": "0xd0ca",
+    "stored": "0xd0ca"
+  },
+  "crc_blocks": [
+    {
+      "range": "[0x40000,0x4ff60)",
+      "trailer_address": "0x4ff7c",
+      "raw_crc": "0xecb51a4e",
+      "stored_complement": "0x134ae5b1",
+      "residue": "0xc704dd7b"
+    },
+    {
+      "range": "[0x60000,0x6ff60)",
+      "trailer_address": "0x6ff7c",
+      "raw_crc": "0x65cfaedd",
+      "stored_complement": "0x9a305122",
+      "residue": "0xc704dd7b"
+    }
+  ],
+  "crc_table_matches_polynomial_04C11DB7": true,
+  "calibration_banks": [
+    {
+      "fault_command_clamp": 26,
+      "command_monitor_upper": 4096,
+      "command_monitor_lower": -4096,
+      "nonlinear_input_clamp": 1024,
+      "feedback_filter_coefficient": 410,
+      "feedback_clamp": 32765,
+      "difference_term_clamp": 640,
+      "proportional_term_clamp": 1024,
+      "combined_term_clamp": 1024,
+      "later_combination_clamp": 8868
+    },
+    {
+      "fault_command_clamp": 26,
+      "command_monitor_upper": 4096,
+      "command_monitor_lower": -4096,
+      "nonlinear_input_clamp": 1024,
+      "feedback_filter_coefficient": 410,
+      "feedback_clamp": 32765,
+      "difference_term_clamp": 640,
+      "proportional_term_clamp": 1024,
+      "combined_term_clamp": 1024,
+      "later_combination_clamp": 8868
+    },
+    {
+      "fault_command_clamp": 26,
+      "command_monitor_upper": 4096,
+      "command_monitor_lower": -4096,
+      "nonlinear_input_clamp": 1024,
+      "feedback_filter_coefficient": 410,
+      "feedback_clamp": 32765,
+      "difference_term_clamp": 640,
+      "proportional_term_clamp": 1024,
+      "combined_term_clamp": 1024,
+      "later_combination_clamp": 8868
+    },
+    {
+      "fault_command_clamp": 26,
+      "command_monitor_upper": 4096,
+      "command_monitor_lower": -4096,
+      "nonlinear_input_clamp": 1024,
+      "feedback_filter_coefficient": 30110,
+      "feedback_clamp": 32765,
+      "difference_term_clamp": 640,
+      "proportional_term_clamp": 1024,
+      "combined_term_clamp": 1024,
+      "later_combination_clamp": 8868
+    },
+    {
+      "fault_command_clamp": 26,
+      "command_monitor_upper": 4096,
+      "command_monitor_lower": -4096,
+      "nonlinear_input_clamp": 1024,
+      "feedback_filter_coefficient": 30110,
+      "feedback_clamp": 32765,
+      "difference_term_clamp": 640,
+      "proportional_term_clamp": 1024,
+      "combined_term_clamp": 1024,
+      "later_combination_clamp": 8868
+    },
+    {
+      "fault_command_clamp": 26,
+      "command_monitor_upper": 4096,
+      "command_monitor_lower": -4096,
+      "nonlinear_input_clamp": 1024,
+      "feedback_filter_coefficient": 30110,
+      "feedback_clamp": 32765,
+      "difference_term_clamp": 640,
+      "proportional_term_clamp": 1024,
+      "combined_term_clamp": 1024,
+      "later_combination_clamp": 8868
+    },
+    {
+      "fault_command_clamp": 26,
+      "command_monitor_upper": 4096,
+      "command_monitor_lower": -4096,
+      "nonlinear_input_clamp": 1024,
+      "feedback_filter_coefficient": 30110,
+      "feedback_clamp": 32765,
+      "difference_term_clamp": 640,
+      "proportional_term_clamp": 1024,
+      "combined_term_clamp": 1024,
+      "later_combination_clamp": 8868
+    }
+  ],
+  "curves_bank_1": {
+    "command_limit_axis": [
+      0,
+      50,
+      100,
+      150,
+      200,
+      250,
+      300,
+      350,
+      400
+    ],
+    "command_limit_values": [
+      1024,
+      1024,
+      1024,
+      1024,
+      1024,
+      1024,
+      1024,
+      1024,
+      1024
+    ],
+    "nonlinear_axis": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024
+    ],
+    "nonlinear_values": [
+      0,
+      2019,
+      3230,
+      3980,
+      4345,
+      4577,
+      4721,
+      4864,
+      4864
+    ],
+    "difference_gain_axis": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024
+    ],
+    "difference_gain_values": [
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      16,
+      16,
+      16
+    ],
+    "proportional_gain_axis": [
+      0,
+      55,
+      166,
+      319,
+      532,
+      776,
+      887,
+      942,
+      998
+    ],
+    "proportional_gain_values": [
+      1,
+      4,
+      6,
+      8,
+      10,
+      11,
+      11,
+      11,
+      11
+    ]
+  },
+  "final_multiplier_at_500A6": 4011,
+  "unresolved_tail_words": [
+    "0xb7c8",
+    "0xffffa6e0"
+  ]
+}

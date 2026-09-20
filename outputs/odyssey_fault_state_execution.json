@@ -1,0 +1,2958 @@
+{
+  "rom_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "scope": "Offline SLEIGH p-code execution of original routines; zero-filled synthetic RAM with stated overrides, no scheduler, peripherals or vehicle dynamics. State scenarios use input structure FFF8500C zero, arguments speed-like values 1000, third argument 0; these are directed cases, not all operating conditions.",
+  "predicate_masks": {
+    "7541E": "f700ffffbf04ffff07ffffff01ffffff0000ffffffff",
+    "77260": "ff8afffffffaffffc7fffffff9ffffff1c71ffffffff"
+  },
+  "individual_bit_cases": [
+    {
+      "byte_offset": 0,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 0,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 0,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 0,
+      "bit": 3,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 0,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 0,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 0,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 0,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 1,
+      "bit": 0,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 1,
+      "bit": 1,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 1,
+      "bit": 2,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 1,
+      "bit": 3,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 1,
+      "bit": 4,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 1,
+      "bit": 5,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 1,
+      "bit": 6,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 1,
+      "bit": 7,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 2,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 3,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 6,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 4,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 5,
+      "bit": 0,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 5,
+      "bit": 1,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 5,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 5,
+      "bit": 3,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 5,
+      "bit": 4,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 5,
+      "bit": 5,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 5,
+      "bit": 6,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 5,
+      "bit": 7,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 6,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 7,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 8,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 8,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 8,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 8,
+      "bit": 3,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 8,
+      "bit": 4,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 8,
+      "bit": 5,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 8,
+      "bit": 6,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 8,
+      "bit": 7,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 9,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 10,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 11,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 12,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 12,
+      "bit": 1,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 12,
+      "bit": 2,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 12,
+      "bit": 3,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 12,
+      "bit": 4,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 12,
+      "bit": 5,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 12,
+      "bit": 6,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 12,
+      "bit": 7,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 13,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 14,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 15,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 16,
+      "bit": 0,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 16,
+      "bit": 1,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 16,
+      "bit": 2,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 16,
+      "bit": 3,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 16,
+      "bit": 4,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 16,
+      "bit": 5,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 16,
+      "bit": 6,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 16,
+      "bit": 7,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 17,
+      "bit": 0,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 17,
+      "bit": 1,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 17,
+      "bit": 2,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 17,
+      "bit": 3,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 17,
+      "bit": 4,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 17,
+      "bit": 5,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 17,
+      "bit": 6,
+      "can_assist_fault": 0,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 17,
+      "bit": 7,
+      "can_assist_fault": 0,
+      "other_state_predicate": 0
+    },
+    {
+      "byte_offset": 18,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 18,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 18,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 18,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 18,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 18,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 18,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 18,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 19,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 20,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 0,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 1,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 2,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 3,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 4,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 5,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 6,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    },
+    {
+      "byte_offset": 21,
+      "bit": 7,
+      "can_assist_fault": 1,
+      "other_state_predicate": 1
+    }
+  ],
+  "directed_fault_states": [
+    {
+      "bank": 1,
+      "initial_state": 1,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 1,
+      "initial_state": 2,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 1,
+      "initial_state": 3,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 1,
+      "initial_state": 4,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 1,
+      "initial_state": 5,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 2,
+      "initial_state": 1,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 2,
+      "initial_state": 2,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 2,
+      "initial_state": 3,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 2,
+      "initial_state": 4,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 2,
+      "initial_state": 5,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 3,
+      "initial_state": 1,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 3,
+      "initial_state": 2,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 3,
+      "initial_state": 3,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 3,
+      "initial_state": 4,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 3,
+      "initial_state": 5,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 4,
+      "initial_state": 1,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 4,
+      "initial_state": 2,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 4,
+      "initial_state": 3,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 4,
+      "initial_state": 4,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 4,
+      "initial_state": 5,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 5,
+      "initial_state": 1,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 5,
+      "initial_state": 2,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 5,
+      "initial_state": 3,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 5,
+      "initial_state": 4,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 5,
+      "initial_state": 5,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 6,
+      "initial_state": 1,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 6,
+      "initial_state": 2,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 6,
+      "initial_state": 3,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 6,
+      "initial_state": 4,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 6,
+      "initial_state": 5,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 7,
+      "initial_state": 1,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 7,
+      "initial_state": 2,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 7,
+      "initial_state": 3,
+      "transitions": [
+        {
+          "state": 4,
+          "flags": [
+            0,
+            0,
+            0,
+            4,
+            1,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 7,
+      "initial_state": 4,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "bank": 7,
+      "initial_state": 5,
+      "transitions": [
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        },
+        {
+          "state": 5,
+          "flags": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1
+          ],
+          "weights": [
+            0,
+            16384,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

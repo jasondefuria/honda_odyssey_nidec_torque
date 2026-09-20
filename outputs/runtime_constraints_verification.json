@@ -1,0 +1,62 @@
+{
+  "sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "original_unchanged": true,
+  "allowance_max_stored": 36323328,
+  "allowance_max_command": 8868,
+  "steps": [
+    {
+      "stored": 145295,
+      "command_per_update": 35.472412109375
+    },
+    {
+      "stored": 290590,
+      "command_per_update": 70.94482421875
+    },
+    {
+      "stored": -1452950,
+      "command_per_update": -354.72412109375
+    },
+    {
+      "stored": -145295,
+      "command_per_update": -35.472412109375
+    },
+    {
+      "stored": -36324,
+      "command_per_update": -8.8681640625
+    }
+  ],
+  "instruction_anchors": {
+    "0x1962a": "06212a40",
+    "0x196b0": "0420378f",
+    "0x196d4": "04406f1e",
+    "0x1979e": "0df1e9d4",
+    "0x197a8": "7d6a",
+    "0x197c6": "0ed0c871",
+    "0x197ee": "02f0721c",
+    "0x2aa5c": "0000122a",
+    "0x2aa62": "0000042a",
+    "0x2aaaa": "0000110f",
+    "0x2aab0": "000003ed"
+  },
+  "normalization_examples": [
+    {
+      "q": 1536,
+      "limit": 1536,
+      "reciprocal_gain": 1398101,
+      "normalized_positive_limit": 65535
+    },
+    {
+      "q": 2560,
+      "limit": 2560,
+      "reciprocal_gain": 838860,
+      "normalized_positive_limit": 65535
+    },
+    {
+      "q": 4352,
+      "limit": 4352,
+      "reciprocal_gain": 493447,
+      "normalized_positive_limit": 65535
+    }
+  ],
+  "scope": "Byte and arithmetic checks; not runtime validation or independent proof of all dataflow."
+}
