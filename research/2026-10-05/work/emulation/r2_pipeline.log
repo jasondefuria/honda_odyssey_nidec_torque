@@ -1,0 +1,9 @@
+stock 1 PASS 2.4
+stock 2 PASS 4.8
+stock 3 PASS 7.2
+stock 7 PASS 9.6
+r2 1 PASS 12.1
+r2 2 PASS 14.6
+r2 3 PASS 17.0
+r2 7 PASS 19.5
+COMPLETE 280

@@ -1,0 +1,38 @@
+{
+  "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/odyssey_ptm_candidate/PTM-39990-THR,A020-EXPERIMENTAL.rwd",
+  "sha256": "1c45356e7dffd85a416d79ae262641756f2bdc37e99fe9f0422981f1a4e033f1",
+  "size": 475237,
+  "source_sha256": "9e1af08d018ef905d87bc6db39cea8a740afbcadadd89fe66eaf01ee96e06fc7",
+  "profile": "P75% D125% alpha308 Dlimit512 Plimit2048 combinedlimit2048 banks1-3; matched independent references; global FF8/ref8; inherited v4 curve and minimum-speed fields",
+  "embedded_identities": [
+    "39990-THR,A020"
+  ],
+  "header_unchanged": true,
+  "roundtrip_pass": true,
+  "patch_manifest_match": true,
+  "runtime_crc_checks": [
+    {
+      "address": "0x4ff7c",
+      "stored": "0x134ae5b1",
+      "computed": "0x134ae5b1",
+      "passed": true
+    },
+    {
+      "address": "0x6ff7c",
+      "stored": "0xa7ce0ae2",
+      "computed": "0xa7ce0ae2",
+      "passed": true
+    }
+  ],
+  "checksum_A": "1a33",
+  "checksum_C": "140e",
+  "container_checksum": "0x454d4b7",
+  "word_sum": 0,
+  "limitations": [
+    "Experimental candidate; not verified for ECU installation or vehicle use",
+    "Candidate code placement at0x75800/0x75900 has not been proven unused at runtime",
+    "No physical torque/stability calibration or hardware timing/stack validation",
+    "Feedforward applies globally including bank7",
+    "Existing v4 low-speed settings retained"
+  ]
+}

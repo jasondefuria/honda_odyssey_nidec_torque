@@ -1,0 +1,38 @@
+{
+  "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/odyssey_ptm_no_bank7/PTM-39990-THR,A020-NO-FF-BANK7-EXPERIMENTAL.rwd",
+  "sha256": "cfe946791ad873c63c92da251b4b5865934f9c8a03a59c0a35e9da5d4e7e295a",
+  "size": 475237,
+  "source_sha256": "9e1af08d018ef905d87bc6db39cea8a740afbcadadd89fe66eaf01ee96e06fc7",
+  "profile": "P75% D125% alpha308 Dlimit512 Plimit2048 combinedlimit2048 banks1-3; matched independent references; FF8/ref8 except bank7; inherited v4 curve and minimum-speed fields",
+  "embedded_identities": [
+    "39990-THR,A020"
+  ],
+  "header_unchanged": true,
+  "roundtrip_pass": true,
+  "patch_manifest_match": true,
+  "runtime_crc_checks": [
+    {
+      "address": "0x4ff7c",
+      "stored": "0x134ae5b1",
+      "computed": "0x134ae5b1",
+      "passed": true
+    },
+    {
+      "address": "0x6ff7c",
+      "stored": "0xa7ce0ae2",
+      "computed": "0xa7ce0ae2",
+      "passed": true
+    }
+  ],
+  "checksum_A": "e753",
+  "checksum_C": "79ce",
+  "container_checksum": "0x454c3ac",
+  "word_sum": 0,
+  "limitations": [
+    "Experimental candidate; not verified for ECU installation or vehicle use",
+    "Candidate code placement at0x75800/0x75900 has not been proven unused at runtime",
+    "No physical torque/stability calibration or hardware timing/stack validation",
+    "Feedforward disabled for bank7 in controller and independent monitor",
+    "Existing v4 low-speed settings retained"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "compared_range": "0x754B0\u20130x7561B inclusive (includes literal pool and adjacent bytes)",
+  "length": 364,
+  "identical": true,
+  "sha256": [
+    "93b9694107f9d63c42f0c59e91bd6566c4b3ec3925165b67e8fc3c39feae459a",
+    "93b9694107f9d63c42f0c59e91bd6566c4b3ec3925165b67e8fc3c39feae459a"
+  ],
+  "calibrations": [
+    {
+      "bank": 1,
+      "address": "0x57b06",
+      "stock": 8868,
+      "mod": 8868
+    },
+    {
+      "bank": 1,
+      "address": "0x57b52",
+      "stock": 768,
+      "mod": 768
+    },
+    {
+      "bank": 2,
+      "address": "0x57e06",
+      "stock": 8868,
+      "mod": 8868
+    },
+    {
+      "bank": 2,
+      "address": "0x57e52",
+      "stock": 768,
+      "mod": 768
+    },
+    {
+      "bank": 3,
+      "address": "0x58106",
+      "stock": 8868,
+      "mod": 8868
+    },
+    {
+      "bank": 3,
+      "address": "0x58152",
+      "stock": 768,
+      "mod": 768
+    },
+    {
+      "bank": 4,
+      "address": "0x58406",
+      "stock": 8868,
+      "mod": 8868
+    },
+    {
+      "bank": 4,
+      "address": "0x58452",
+      "stock": 768,
+      "mod": 768
+    },
+    {
+      "bank": 5,
+      "address": "0x58706",
+      "stock": 8868,
+      "mod": 8868
+    },
+    {
+      "bank": 5,
+      "address": "0x58752",
+      "stock": 768,
+      "mod": 768
+    },
+    {
+      "bank": 6,
+      "address": "0x58a06",
+      "stock": 8868,
+      "mod": 8868
+    },
+    {
+      "bank": 6,
+      "address": "0x58a52",
+      "stock": 768,
+      "mod": 768
+    },
+    {
+      "bank": 7,
+      "address": "0x58d06",
+      "stock": 8868,
+      "mod": 8868
+    },
+    {
+      "bank": 7,
+      "address": "0x58d52",
+      "stock": 768,
+      "mod": 768
+    }
+  ]
+}

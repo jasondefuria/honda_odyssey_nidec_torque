@@ -1,0 +1,33 @@
+RANGE 0x194a4 0x194e8
+000194a4: fmov.s @r15, fr15
+000194a6: bt/s 0x194aa
+000194a8: mov.l r0,@(r0,r0)
+000194aa: dt r1
+000194ac: mov.l r0,@(r0,r0)
+000194ae: shll r1
+000194b0: mul.l r0,r0
+000194b2: mulu.w r7,r4
+000194b4: mul.l r0,r0
+000194b6: swap.b r0,r5
+000194b8: sts.l pr,@-r15
+000194ba: stc sr,r0
+000194bc: movi20 #-0xf1, r1
+000194c0: and r1,r0
+000194c2: or 0xb0,r0
+000194c4: ldc r0,sr
+000194c6: mov.l @(0x19718,pc),r5 ; literal=fff85368
+000194c8: mov.l @r5,r7
+000194ca: mov.w @(0x18,r7),r0
+000194cc: movu.w @(0x26, r7), r5
+000194d0: mov r0,r2
+000194d2: stc sr,r0
+000194d4: and r1,r0
+000194d6: or 0xa0,r0
+000194d8: ldc r0,sr
+000194da: extu.w r2,r4
+000194dc: shlr r4
+000194de: mov #0x0,r6
+000194e0: mov.l @(0x1971c,pc),r7 ; literal=fff8028c
+000194e2: mov.l @(0x19720,pc),r1 ; literal=0001c068
+000194e4: jsr @r1
+000194e6: shlr r5

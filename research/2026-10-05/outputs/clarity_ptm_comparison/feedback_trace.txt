@@ -1,0 +1,110 @@
+POOL 2a168: 0003ab0c
+POOL 290dc: fff879b8
+POOL 290fc: 00045bdc
+POOL 29100: 00045bfc
+POOL 2ae78: fff889ea
+POOL 2ae7c: fff87994
+0003ab0c: mov r5,r1
+0003ab0e: mov.l @r5,r5
+0003ab10: mov r6,r7
+0003ab12: cmp/pz r5
+0003ab14: bt/s 0x3ab1e
+0003ab16: mov r5,r6
+0003ab18: movi20 #0x7fff, r2
+0003ab1c: add r2,r6
+0003ab1e: mov #-0xf,r2
+0003ab20: exts.w r7,r0
+0003ab22: shad r2, r6
+0003ab24: exts.w r4,r2
+0003ab26: sub r6,r2
+0003ab28: mulr r0, r2
+0003ab2a: add r5,r2
+0003ab2c: cmp/pz r2
+0003ab2e: bt/s 0x3ab38
+0003ab30: mov.l r2,@r1
+0003ab32: movi20 #0x7fff, r6
+0003ab36: add r6,r2
+0003ab38: mov #-0xf,r6
+0003ab3a: shad r6, r2
+0003ab3c: rtv/n r2
+0003ab3e: mov.l r12,@-r15
+0003ab40: mov.l r13,@-r15
+0003ab42: mov.l r14,@-r15
+0003ab44: mov #0x0,r1
+0003ab46: mov.w @(0xc,r5),r0
+0003ab48: mov.l @r5,r13
+0003ab4a: mov r1,r5
+0003ab4c: add -0x1,r0
+0003ab4e: mov r1,r14
+0003ab50: mov r0,r7
+0003ab52: exts.w r4,r12
+0003ab54: extu.w r7,r2
+0003ab56: cmp/ge r2,r14
+0003ab58: bt 0x3ab8a
+0003ab5a: extu.w r7,r7
+0003ab5c: mov #0x0,r4
+0003ab5e: mov r5,r2
+0003ab60: add r7,r2
+0003ab62: cmp/gt r2,r4
+0003ab64: addc r4,r2
+0003ab66: shar r2
+0003ab68: extu.w r2,r4
+0003ab6a: mov r4,r0
+0003ab6c: shll r0
+0003ab6e: mov.w @(r0,r13),r6
+0003ab70: cmp/ge r6,r12
+0003ab72: bt 0x3ab80
+0003ab74: tst r4,r4
+0003ab76: bt/s 0x3ab54
+0003ab78: mov r4,r7
+0003ab7a: add -0x1,r4
+0003ab7c: bra 0x3ab54
+0003ab7e: mov r4,r7
+0003ab80: add 0x1,r4
+0003ab82: extu.w r4,r5
+0003ab84: mov r4,r1
+0003ab86: bra 0x3ab54
+0003ab88: mov r5,r14
+0003ab8a: extu.w r1,r0
+0003ab8c: shll r0
+0003ab8e: mov.w @(r0,r13),r2
+0003ab90: cmp/ge r2,r12
+0003ab92: bt/s 0x3ab9c
+0003ab94: extu.w r1,r6
+0003ab96: tst r6,r6
+00034646: add 0xc,r15
+00034648: ldc.l @r15+,gbr
+0003464a: mov.l @r15+,r14
+0003464c: mov.l @r15+,r13
+0003464e: mov.l @r15+,r12
+00034650: mov.l @r15+,r11
+00034652: mov.l @r15+,r9
+00034654: rtv/n r2
+00034656: movi20 #0x2ee0, r0
+0003465a: mulr r0, r4
+0003465c: mov #-0xf,r1
+0003465e: mov.l @(0x34670,pc),r6
+00034660: mov r4,r0
+00034662: shlr16 r4
+00034664: exts.w r4,r2
+00034666: shad r1, r0
+00034668: mov.w r2,@r6
+0003466a: mov.l @(0x34674,pc),r4
+0003466c: mov.w r0,@r4
+0003466e: rtv/n r2
+00034670: fmov.s @r15, fr15
+00034672: mov.w @(0x8,r0),r0
+00034674: fmov.s @r15, fr15
+00034676: mov.w @(0x18,r6),r0
+00034678: mov.l r14,@-r15
+0003467a: mov.l @(0x348c8,pc),r2
+0003467c: stc sr,r0
+0003467e: movi20 #-0xf1, r1
+00034682: and r1,r0
+00034684: or 0xb0,r0
+00034686: ldc r0,sr
+00034688: mov.l @(0x348cc,pc),r14
+0003468a: mov.l @(0x348d0,pc),r7
+0003468c: mov.w @(0x4,r14),r0
+0003468e: mov.b r7, @(0x0, r5)
+SAMPLE FN POINTER 35118

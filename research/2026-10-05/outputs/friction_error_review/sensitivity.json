@@ -1,0 +1,75 @@
+{
+  "scope": "429.65\u2013439.65 seconds in route 28. Frozen-trajectory sensitivity, not closed-loop simulation; preserves logged command residual and all non-friction terms. No firmware, configuration or repository changes.",
+  "window_samples": 996,
+  "learned_friction_range": [
+    0.13909119367599487,
+    0.13915595412254333
+  ],
+  "friction_local_slope_per_mps2": [
+    0.6954559683799744,
+    0.6956181675195694,
+    0.6957797706127167
+  ],
+  "P_gain_torque_error_p5_median_p95": [
+    1.706641548039164,
+    1.8429749369612194,
+    1.8677055731293986
+  ],
+  "P_effective_slope_per_mps2_p5_median_p95": [
+    0.9040702156191657,
+    0.9760983379942096,
+    0.9892887468191222
+  ],
+  "error_range_mps2": [
+    -0.10407958924770355,
+    0.07024040818214417
+  ],
+  "jerk_zero_samples": 986,
+  "variants": [
+    {
+      "error_multiplier": 1.0,
+      "compensation_band_rms": 0.01823419887738178,
+      "hypothetical_command_band_rms": 0.05173496974655494,
+      "max_abs_command_change": 0.0,
+      "mean_abs_command_change": 0.0,
+      "command_change_rms": 0.0,
+      "saturation_fraction": 0.0
+    },
+    {
+      "error_multiplier": 0.85,
+      "compensation_band_rms": 0.015497786586994591,
+      "hypothetical_command_band_rms": 0.04925250403482059,
+      "max_abs_command_change": 0.010858304398887693,
+      "mean_abs_command_change": 0.0026839185256122195,
+      "command_change_rms": 0.0033103148282396925,
+      "saturation_fraction": 0.0
+    },
+    {
+      "error_multiplier": 0.7,
+      "compensation_band_rms": 0.012761384803181605,
+      "hypothetical_command_band_rms": 0.046798369472940075,
+      "max_abs_command_change": 0.02171660879777538,
+      "mean_abs_command_change": 0.005367837051224439,
+      "command_change_rms": 0.006620629656479383,
+      "saturation_fraction": 0.0
+    },
+    {
+      "error_multiplier": 0.5,
+      "compensation_band_rms": 0.009112881793728286,
+      "hypothetical_command_band_rms": 0.043578526393779383,
+      "max_abs_command_change": 0.036194347996292286,
+      "mean_abs_command_change": 0.008946395085374063,
+      "command_change_rms": 0.011034382760798968,
+      "saturation_fraction": 0.0
+    },
+    {
+      "error_multiplier": 0.0,
+      "compensation_band_rms": 7.168180445607511e-05,
+      "hypothetical_command_band_rms": 0.035889702540391304,
+      "max_abs_command_change": 0.07238869599258457,
+      "mean_abs_command_change": 0.017892790170748126,
+      "command_change_rms": 0.022068765521597936,
+      "saturation_fraction": 0.0
+    }
+  ]
+}

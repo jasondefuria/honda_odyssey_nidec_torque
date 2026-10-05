@@ -1,0 +1,25 @@
+curve stock 1 PASS 3.4
+PD stock 1 PASS 8.5
+injection stock 1 PASS
+curve stock 2 PASS 11.9
+PD stock 2 PASS 17.2
+injection stock 2 PASS
+curve stock 3 PASS 20.5
+PD stock 3 PASS 25.6
+injection stock 3 PASS
+curve stock 7 PASS 29.0
+PD stock 7 PASS 34.2
+injection stock 7 PASS
+curve r2 1 PASS 37.5
+PD r2 1 PASS 42.7
+injection r2 1 PASS
+curve r2 2 PASS 46.2
+PD r2 2 PASS 51.4
+injection r2 2 PASS
+curve r2 3 PASS 54.9
+PD r2 3 PASS 60.1
+injection r2 3 PASS
+curve r2 7 PASS 63.5
+PD r2 7 PASS 68.7
+injection r2 7 PASS
+COMPLETE 68.7

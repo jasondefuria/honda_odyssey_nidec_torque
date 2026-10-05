@@ -1,0 +1,223 @@
+RANGE 0x6b3cc 0x6b800
+0006b3cc: fmov.s @r15, fr15
+0006b3ce: bsr 0x6b48a
+0006b3d0: mov.l @(0x14,r15),r0
+0006b3d2: mov.l @(0x1c,r15),r2
+0006b3d4: mulr r0, r2
+0006b3d6: cmp/pz r2
+0006b3d8: bt 0x6b3dc
+0006b3da: neg r2,r2
+0006b3dc: mov #0x8,r6
+0006b3de: cmp/gt r6,r2
+0006b3e0: bf 0x6b3e8
+0006b3e2: movt r2
+0006b3e4: mov.l r2, @(0x8c, r15)
+0006b3e8: mov.l @(0x4,r15),r14
+0006b3ea: mov.w @(0x30, r15), r9
+0006b3ee: mov.w @(0x74, r15), r10
+0006b3f2: mov r14,r2
+0006b3f4: add r9,r2
+0006b3f6: mov.l @(0x6b5a0,pc),r5 ; literal=fff8b060
+0006b3f8: cmp/eq r10,r2
+0006b3fa: bt/s 0x6b404
+0006b3fc: mov.l r2,@r5
+0006b3fe: mov #0x1,r2
+0006b400: mov.l r2, @(0x90, r15)
+0006b404: mov #0x34,r0
+0006b406: mov.w @(r0,r15),r5
+0006b408: movi20 #-0x7fff, r4
+0006b40c: cmp/ge r4,r5
+0006b40e: bt/s 0x6b416
+0006b410: exts.w r5,r6
+0006b412: movi20 #-0x7fff, r6
+0006b416: exts.w r6,r6
+0006b418: cmp/pz r6
+0006b41a: bt 0x6b424
+0006b41c: neg r6,r0
+0006b41e: mov.l @(0x6b5a4,pc),r5 ; literal=fff8b064
+0006b420: bra 0x6b428
+0006b422: mov.w r0,@r5
+0006b424: mov.l @(0x6b5a4,pc),r5 ; literal=fff8b064
+0006b426: mov.w r6,@r5
+0006b428: mov.l @(0x6b5a4,pc),r5 ; literal=fff8b064
+0006b42a: mov.w @(0x38, r15), r13
+0006b42e: mov.w @r5,r0
+0006b430: cmp/eq r13,r0
+0006b432: bt 0x6b43a
+0006b434: mov #0x1,r2
+0006b436: mov.l r2, @(0x94, r15)
+0006b43a: mov.l @(0x6b5a8,pc),r9 ; literal=fff82f04
+0006b43c: mov.l @r9,r0
+0006b43e: mov.l @(0x6b5ac,pc),r2 ; literal=00067c98
+0006b440: shll r0
+0006b442: mov.w @(r0,r2),r11
+0006b444: mov.l r11,@-r15
+0006b446: mov.l @(0x6b5b0,pc),r4 ; literal=00067c96
+0006b448: mov.w @(r0,r4),r12
+0006b44a: mov.l r12,@-r15
+0006b44c: add -0x4,r15
+0006b44e: mov #0x9,r6
+0006b450: mov.w @(0x4c, r15), r1
+0006b454: mov.l @(0x6b5b4,pc),r5 ; literal=00067c84
+0006b456: mov.l @(0x6b5b8,pc),r4 ; literal=00067c72
+0006b458: mov.w @(0x48, r15), r7
+0006b45c: mov.l r1,@r15
+0006b45e: add r0,r5
+0006b460: mov.l @(0x6b5bc,pc),r10 ; literal=00030a52
+0006b462: jsr @r10
+0006b464: add r0,r4
+0006b466: add 0xc,r15
+0006b468: mov.l @(0x44, r15), r4
+0006b46c: mov.l @(0x48, r15), r8
+0006b470: shll2 r4
+0006b472: shll r4
+0006b474: mov.l @(0x6b5c0,pc),r7 ; literal=fff8b078
+0006b476: mov.l r4,@r7
+0006b478: sub r8,r4
+0006b47a: cmp/pz r4
+0006b47c: mov.l r0, @(0xc8, r15)
+0006b480: bt 0x6b484
+0006b482: neg r4,r4
+0006b484: mov.l @(0x6b5a8,pc),r13 ; literal=fff82f04
+0006b486: mov.l @r13,r2
+0006b488: mov.l @(0x6b5c4,pc),r1 ; literal=00067cc2
+0006b48a: shll r2
+0006b48c: mov r1,r0
+0006b48e: mov.w @(r0,r2),r2
+0006b490: shll2 r2
+0006b492: shll r2
+0006b494: cmp/ge r2,r4
+0006b496: bf 0x6b49e
+0006b498: mov #0x1,r2
+0006b49a: mov.l r2, @(0x98, r15)
+0006b49e: mov #0x48,r0
+0006b4a0: mov.l @(0x2c,r15),r13
+0006b4a2: mov.l @(r0,r15),r6
+0006b4a4: sub r13,r14
+0006b4a6: tst r6,r6
+0006b4a8: bt/s 0x6b4ee
+0006b4aa: mov #0x40,r0
+0006b4ac: mov.w @(r0,r15),r6
+0006b4ae: tst r6,r6
+0006b4b0: bt 0x6b4e4
+0006b4b2: mov.l @(0x48, r15), r5
+0006b4b6: mov.w @(0x40, r15), r0
+0006b4ba: shll2 r5
+0006b4bc: shll r5
+0006b4be: divs r0, r5
+0006b4c0: mov.l @(0x6b5c8,pc),r11 ; literal=fff8b068
+0006b4c2: mov.l r5,@r11
+0006b4c4: sub r14,r5
+0006b4c6: cmp/pz r5
+0006b4c8: bt 0x6b4cc
+0006b4ca: neg r5,r5
+0006b4cc: mov.l @(0x6b5a8,pc),r13 ; literal=fff82f04
+0006b4ce: mov.l @r13,r2
+0006b4d0: mov r1,r0
+0006b4d2: shll r2
+0006b4d4: mov.w @(r0,r2),r2
+0006b4d6: cmp/ge r2,r5
+0006b4d8: bf 0x6b506
+0006b4da: movt r2
+0006b4dc: mov.l r2, @(0x98, r15)
+0006b4e0: bra 0x6b506
+0006b4e2: nop 
+0006b4e4: movt r2
+0006b4e6: mov.l r2, @(0x98, r15)
+0006b4ea: bra 0x6b506
+0006b4ec: nop 
+0006b4ee: mov.w @(r0,r15),r2
+0006b4f0: mov r14,r0
+0006b4f2: mulr r0, r2
+0006b4f4: cmp/pz r2
+0006b4f6: bt 0x6b4fa
+0006b4f8: neg r2,r2
+0006b4fa: mov #0x8,r6
+0006b4fc: cmp/gt r6,r2
+0006b4fe: bf 0x6b506
+0006b500: movt r2
+0006b502: mov.l r2, @(0x98, r15)
+0006b506: mov.w @(0x4c, r15), r6
+0006b50a: cmp/pz r6
+0006b50c: bt/s 0x6b512
+0006b50e: mov r6,r1
+0006b510: neg r6,r1
+0006b512: mov.l @(0x6b5a8,pc),r13 ; literal=fff82f04
+0006b514: mov.l @r13,r5
+0006b516: mov.l @(0x6b5cc,pc),r2 ; literal=00067bec
+0006b518: shll r5
+0006b51a: mov r2,r0
+0006b51c: mov.w @(r0,r5),r6
+0006b51e: cmp/gt r6,r1
+0006b520: bf 0x6b52c
+0006b522: movt r2
+0006b524: mov.l r2, @(0x9c, r15)
+0006b528: bra 0x6b57e
+0006b52a: nop 
+0006b52c: mov.l @r13,r5
+0006b52e: shll r5
+0006b530: mov.w @(r0,r5),r4
+0006b532: mov #0x44,r0
+0006b534: cmp/ge r4,r1
+0006b536: bt/s 0x6b55e
+0006b538: mov.l @(r0,r15),r6
+0006b53a: mov.w @(0x4c, r15), r5
+0006b53e: sub r6,r5
+0006b540: cmp/pz r5
+0006b542: bt 0x6b546
+0006b544: neg r5,r5
+0006b546: mov.l @(0x6b5a8,pc),r13 ; literal=fff82f04
+0006b548: mov.l @r13,r6
+0006b54a: mov.l @(0x6b5d0,pc),r0 ; literal=00067cc4
+0006b54c: shll r6
+0006b54e: mov.w @(r0,r6),r6
+0006b550: cmp/gt r6,r5
+0006b552: bf 0x6b57e
+0006b554: movt r2
+0006b556: mov.l r2, @(0x9c, r15)
+0006b55a: bra 0x6b57e
+0006b55c: nop 
+0006b55e: cmp/pz r6
+0006b560: bt 0x6b568
+0006b562: mov.l @(r0,r15),r6
+0006b564: bra 0x6b56a
+0006b566: neg r6,r4
+0006b568: mov.l @(r0,r15),r4
+0006b56a: mov.l @(0x6b5a8,pc),r13 ; literal=fff82f04
+0006b56c: mov.l @r13,r6
+0006b56e: mov r2,r0
+0006b570: shll r6
+0006b572: mov.w @(r0,r6),r12
+0006b574: cmp/ge r12,r4
+0006b576: bt 0x6b57e
+0006b578: movrt r2
+0006b57a: mov.l r2, @(0x9c, r15)
+0006b57e: mov #0x34,r0
+0006b580: mov.w @(r0,r15),r5
+0006b582: movi20 #-0x7fff, r4
+0006b586: cmp/ge r4,r5
+0006b588: bt/s 0x6b590
+0006b58a: exts.w r5,r6
+0006b58c: movi20 #-0x7fff, r6
+0006b590: exts.w r6,r6
+0006b592: cmp/pz r6
+0006b594: bt 0x6b5d8
+0006b596: neg r6,r2
+0006b598: mov.l @(0x6b5d4,pc),r5 ; literal=fff8b06c
+0006b59a: bra 0x6b5dc
+0006b59c: mov.w r2,@r5
+0006b59e: movi20 #0xfff8, r0
+0006b5a2: bsr 0x6b666
+0006b5a4: fmov.s @r15, fr15
+0006b5a6: bsr 0x6b672
+0006b5a8: fmov.s @r15, fr15
+0006b5aa: mov.b r0,@-r15
+0006b5ac: mov.l r0,@(r0,r0)
+0006b5ae: add -0x68,r12
+0006b5b0: mov.l r0,@(r0,r0)
+0006b5b2: add -0x6a,r12
+0006b5b4: mov.l r0,@(r0,r0)
+0006b5b6: add -0x7c,r12
+0006b5b8: mov.l r0,@(r0,r0)
+0006b5ba: add 0x72,r12
+0006b5bc: bsrf r0

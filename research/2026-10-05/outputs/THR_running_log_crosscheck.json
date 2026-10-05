@@ -1,0 +1,84 @@
+{
+  "log_sha256": "f93c4aac6aabaeb5dc138d4e24325518c2ab406a50a857a7f2dabb1a044e86d4",
+  "alias_pointer_table_matches": [
+    true,
+    true,
+    true
+  ],
+  "profiles": [
+    {
+      "index": 0,
+      "key_hex": "0000000000",
+      "selector": 1
+    },
+    {
+      "index": 1,
+      "key_hex": "5448524130",
+      "selector": 1
+    },
+    {
+      "index": 2,
+      "key_hex": "5448524330",
+      "selector": 1
+    },
+    {
+      "index": 3,
+      "key_hex": "5448524131",
+      "selector": 2
+    },
+    {
+      "index": 4,
+      "key_hex": "5448524132",
+      "selector": 2
+    },
+    {
+      "index": 5,
+      "key_hex": "5448524133",
+      "selector": 2
+    },
+    {
+      "index": 6,
+      "key_hex": "5448524134",
+      "selector": 3
+    },
+    {
+      "index": 7,
+      "key_hex": "5448525830",
+      "selector": 3
+    },
+    {
+      "index": 8,
+      "key_hex": "5448525930",
+      "selector": 3
+    },
+    {
+      "index": 9,
+      "key_hex": "0000000000",
+      "selector": 1
+    },
+    {
+      "index": 10,
+      "key_hex": "0000000000",
+      "selector": 1
+    },
+    {
+      "index": 11,
+      "key_hex": "0000000000",
+      "selector": 1
+    },
+    {
+      "index": 12,
+      "key_hex": "0000000000",
+      "selector": 1
+    },
+    {
+      "index": 13,
+      "key_hex": "0000000000",
+      "selector": 1
+    }
+  ],
+  "r2_magic": "4837",
+  "r2_complement": "b7c8",
+  "r2_magic_complement_sum": "0xffff",
+  "logged_decrypt_formula_matches_lookup": true
+}

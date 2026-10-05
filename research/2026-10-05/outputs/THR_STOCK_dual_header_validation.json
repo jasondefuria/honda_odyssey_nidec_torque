@@ -1,0 +1,21 @@
+{
+  "file": "39990-THR-A020_STOCK_DUAL_ID.rwd",
+  "sha256": "90cb1d23d8a27f4c45d52fcbc0a6f08813fb2ae87a0c2f9069f552edd7715edb",
+  "bytes": 475213,
+  "source_sha256": "5fb7dbc298cfc4c897644f100d664aaa2a55a6c9b46355cd8e13a5f3fd782c4c",
+  "supported_identities": [
+    "39990-THR-A020",
+    "39990-THR,A020"
+  ],
+  "security_entries": 2,
+  "encryption_key_entries": 1,
+  "payload_unchanged": true,
+  "stock_decode_exact": true,
+  "payload_offset": 73,
+  "download_start": "0xc000",
+  "download_length": "0x74000",
+  "checksum_A": "d0ca",
+  "checksum_C": "a6e0",
+  "checks": "Container checksum, firmware checksums, parser and both identity matches pass; unrelated identity rejected",
+  "note": "Header compatibility metadata only. No live ECU acceptance or recovery tested; not flashed."
+}

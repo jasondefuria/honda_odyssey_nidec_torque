@@ -1,0 +1,16 @@
+[
+  {
+    "file": "mod25xv1-39990-THR,A020.rwd",
+    "stored": "0x0455567B",
+    "recomputed": "0x0455567B",
+    "trailing_bytes": "7b 56 55 04",
+    "match": true
+  },
+  {
+    "file": "stock_39990-THR-A020.rwd",
+    "stored": "0x045553B8",
+    "recomputed": "0x045553B8",
+    "trailing_bytes": "b8 53 55 04",
+    "match": true
+  }
+]

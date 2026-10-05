@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/mod25xv2_crc_fixed/mod25xv3-39990-THR,A020.rwd",
+      "sha256": "1b1da8bd79114c87f77f98bb69d1574777df0fe709d40fea7863fd9c52ac6ac9",
+      "bytes": 475237,
+      "blocks": [
+        {
+          "start": 49152,
+          "length": 475136
+        }
+      ],
+      "headers_hex": [
+        [
+          "00"
+        ],
+        [],
+        [
+          "30"
+        ],
+        [
+          "33393939302d5448522d413032300000",
+          "33393939302d5448522d413031300000",
+          "33393939302d5448522c413032300000"
+        ],
+        [
+          "011101121120",
+          "011101121120",
+          "011101121120"
+        ],
+        [
+          "010203"
+        ]
+      ],
+      "checks": [
+        {
+          "check": "CRC at 4FF7C",
+          "stored": "134AE5B1",
+          "computed": "134AE5B1",
+          "pass": true
+        },
+        {
+          "check": "CRC at 6FF7C",
+          "stored": "6956DAFD",
+          "computed": "6956DAFD",
+          "pass": true
+        },
+        {
+          "check": "A",
+          "stored": "0xc15d",
+          "computed": "0xc15d",
+          "pass": true
+        },
+        {
+          "check": "C",
+          "stored": "0xc5ba",
+          "computed": "0xc5ba",
+          "pass": true
+        },
+        {
+          "check": "container",
+          "stored": "0x455557e",
+          "computed": "0x455557e",
+          "pass": true
+        }
+      ],
+      "payload_sum": 0,
+      "marker_pair": [
+        "4837",
+        "B7C8"
+      ],
+      "cipher_roundtrip": true,
+      "identities": {
+        "39990-THR-A010": 0,
+        "39990-THR-A020": 0,
+        "39990-THR,A020": 14
+      }
+    },
+    {
+      "file": "/Users/jasondefuria/Downloads/mod25xv3-39990-THR_A020-minengage0-banks1-3(1).rwd",
+      "sha256": "a8c195b2894efb5c6db2e457bd79d4c9c99d5f0d506a5cf1b27a3f716209c630",
+      "bytes": 475237,
+      "blocks": [
+        {
+          "start": 49152,
+          "length": 475136
+        }
+      ],
+      "headers_hex": [
+        [
+          "00"
+        ],
+        [],
+        [
+          "30"
+        ],
+        [
+          "33393939302d5448522d413032300000",
+          "33393939302d5448522d413031300000",
+          "33393939302d5448522c413032300000"
+        ],
+        [
+          "011101121120",
+          "011101121120",
+          "011101121120"
+        ],
+        [
+          "010203"
+        ]
+      ],
+      "checks": [
+        {
+          "check": "CRC at 4FF7C",
+          "stored": "134AE5B1",
+          "computed": "134AE5B1",
+          "pass": true
+        },
+        {
+          "check": "CRC at 6FF7C",
+          "stored": "6956DAFD",
+          "computed": "DA5B0744",
+          "pass": false
+        },
+        {
+          "check": "A",
+          "stored": "0xc121",
+          "computed": "0xc121",
+          "pass": true
+        },
+        {
+          "check": "C",
+          "stored": "0xc632",
+          "computed": "0xc632",
+          "pass": true
+        },
+        {
+          "check": "container",
+          "stored": "0x45554c0",
+          "computed": "0x45554c0",
+          "pass": true
+        }
+      ],
+      "payload_sum": 0,
+      "marker_pair": [
+        "4837",
+        "B7C8"
+      ],
+      "cipher_roundtrip": true,
+      "identities": {
+        "39990-THR-A010": 0,
+        "39990-THR-A020": 0,
+        "39990-THR,A020": 14
+      }
+    }
+  ],
+  "headers_identical": true,
+  "changed_payload_bytes": 9,
+  "differences": [
+    {
+      "address": "0x57b01",
+      "length": 1,
+      "v3": "0a",
+      "supplied": "00"
+    },
+    {
+      "address": "0x57e01",
+      "length": 1,
+      "v3": "0a",
+      "supplied": "00"
+    },
+    {
+      "address": "0x58101",
+      "length": 1,
+      "v3": "0a",
+      "supplied": "00"
+    },
+    {
+      "address": "0x67b01",
+      "length": 1,
+      "v3": "0a",
+      "supplied": "00"
+    },
+    {
+      "address": "0x67e01",
+      "length": 1,
+      "v3": "0a",
+      "supplied": "00"
+    },
+    {
+      "address": "0x68101",
+      "length": 1,
+      "v3": "0a",
+      "supplied": "00"
+    },
+    {
+      "address": "0x7ff81",
+      "length": 1,
+      "v3": "5d",
+      "supplied": "21"
+    },
+    {
+      "address": "0x7fffe",
+      "length": 2,
+      "v3": "c5ba",
+      "supplied": "c632"
+    }
+  ],
+  "bank_minimum_raw_values": [
+    {
+      "bank": 1,
+      "main_address": "0x57b00",
+      "v3": 10,
+      "supplied": 0
+    },
+    {
+      "bank": 2,
+      "main_address": "0x57e00",
+      "v3": 10,
+      "supplied": 0
+    },
+    {
+      "bank": 3,
+      "main_address": "0x58100",
+      "v3": 10,
+      "supplied": 0
+    },
+    {
+      "bank": 4,
+      "main_address": "0x58400",
+      "v3": 70,
+      "supplied": 70
+    },
+    {
+      "bank": 5,
+      "main_address": "0x58700",
+      "v3": 70,
+      "supplied": 70
+    },
+    {
+      "bank": 6,
+      "main_address": "0x58a00",
+      "v3": 70,
+      "supplied": 70
+    },
+    {
+      "bank": 7,
+      "main_address": "0x58d00",
+      "v3": 70,
+      "supplied": 70
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "atan_base": "0x3A128",
+  "entries": 2049,
+  "atan_counts_per_turn": 16384,
+  "max_rounding_residual_counts": 0.4998343402814953,
+  "octant_base": "0x3B12A",
+  "octants": [
+    0,
+    -4096,
+    -16384,
+    12288,
+    -8192,
+    4096,
+    8192,
+    -12288
+  ],
+  "post_lookup_multiplier": 4,
+  "stored_phase_modulus": 65536,
+  "delta_input_phase_modulus_after_halving": 32768
+}

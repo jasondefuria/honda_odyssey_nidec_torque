@@ -1,0 +1,52 @@
+CAUTION: 0x757C0 region contains literals/data; linear disassembly is not executable-code evidence. 0x76000 has an identifiable function entry.
+RANGE 0x757c0 0x757f2
+000757c0: fmov.s @r15, fr15
+000757c2: mov.l @(0x0,r6),r4
+000757c4: fmov.s @r15, fr15
+000757c6: mov.l @(0x30,r1),r4
+000757c8: fmov.s @r15, fr15
+000757ca: sub r8,r4
+000757cc: fmov.s @r15, fr15
+000757ce: mov.l @(0x10,r12),r3
+000757d0: fmov.s @r15, fr15
+000757d2: mov.l @(0x20,r2),r4
+000757d4: fmov.s @r15, fr15
+000757d6: mov.l @(0x0,r3),r4
+000757d8: movi20 #0x0, r0
+000757dc: movi20 #0x0, r0
+000757e0: movi20 #0x0, r0
+000757e4: movi20 #0x0, r0
+000757e8: movi20 #0x0, r0
+000757ec: movi20 #0x0, r0
+000757f0: movi20 #0x0, r0
+RANGE 0x76000 0x76040
+00076000: mov.l @(0x76008,pc),r6 ; literal=fff88d28
+00076002: rts 
+00076004: mov.w @r6,r0
+00076006: movi20 #0xfff8, r0
+0007600a: bt/s 0x7605e
+0007600c: mov.l @(0x76068,pc),r6 ; literal=0005f981
+0007600e: mov.b @r6,r2
+00076010: tst r2,r2
+00076012: bt/s 0x7601a
+00076014: mov #0x1,r0
+00076016: mov.l @(0x7606c,pc),r6 ; literal=fff8343b
+00076018: mov.b @r6,r0
+0007601a: rts/n 
+0007601c: mov.l @(0x76070,pc),r1 ; literal=fff83430
+0007601e: mov.b @(0xb,r1),r0
+00076020: mov.b r0,@r4
+00076022: mov.b @(0xa,r1),r0
+00076024: mov.b r0,@(0x1,r4)
+00076026: mov.b @(0x2,r1),r0
+00076028: tst r0,r0
+0007602a: movrt r0
+0007602c: mov.b r0,@(0x2,r4)
+0007602e: mov.l @(0x76074,pc),r2 ; literal=fff83450
+00076030: mov.b @(0x1,r1),r0
+00076032: mov.b r0,@(0x3,r4)
+00076034: mov.b @(0x4,r1),r0
+00076036: movi20 #-0x7fff, r1
+0007603a: mov.b r0,@(0x4,r4)
+0007603c: mov.w @r2,r5
+0007603e: shll2 r5

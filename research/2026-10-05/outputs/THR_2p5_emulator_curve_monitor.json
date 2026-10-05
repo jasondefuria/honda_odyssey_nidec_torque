@@ -1,0 +1,4650 @@
+[
+  {
+    "image": "stock",
+    "bank": 1,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "stock",
+    "bank": 1,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "stock",
+    "bank": 1,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3194
+  },
+  {
+    "image": "stock",
+    "bank": 1,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "stock",
+    "bank": 1,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3134
+  },
+  {
+    "image": "stock",
+    "bank": 1,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3234
+  },
+  {
+    "image": "stock",
+    "bank": 1,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3174
+  },
+  {
+    "image": "stock",
+    "bank": 2,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "stock",
+    "bank": 2,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "stock",
+    "bank": 2,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3194
+  },
+  {
+    "image": "stock",
+    "bank": 2,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "stock",
+    "bank": 2,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3134
+  },
+  {
+    "image": "stock",
+    "bank": 2,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3234
+  },
+  {
+    "image": "stock",
+    "bank": 2,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3174
+  },
+  {
+    "image": "stock",
+    "bank": 3,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "stock",
+    "bank": 3,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2019,
+        "snapshot": [
+          128,
+          128,
+          2019,
+          2019
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "stock",
+    "bank": 3,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4025,
+        "snapshot": [
+          400,
+          400,
+          4025,
+          4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3194
+  },
+  {
+    "image": "stock",
+    "bank": 3,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          896,
+          896,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "stock",
+    "bank": 3,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4864,
+        "snapshot": [
+          1024,
+          1024,
+          4864,
+          4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3134
+  },
+  {
+    "image": "stock",
+    "bank": 3,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4025,
+        "snapshot": [
+          -400,
+          -400,
+          4025,
+          -4025
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3234
+  },
+  {
+    "image": "stock",
+    "bank": 3,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4864,
+        "snapshot": [
+          -1024,
+          -1024,
+          4864,
+          -4864
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3174
+  },
+  {
+    "image": "stock",
+    "bank": 7,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "stock",
+    "bank": 7,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 2994
+  },
+  {
+    "image": "stock",
+    "bank": 7,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "stock",
+    "bank": 7,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3024
+  },
+  {
+    "image": "stock",
+    "bank": 7,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3024
+  },
+  {
+    "image": "stock",
+    "bank": 7,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3264
+  },
+  {
+    "image": "stock",
+    "bank": 7,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3064
+  },
+  {
+    "image": "candidate",
+    "bank": 1,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "candidate",
+    "bank": 1,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3230
+  },
+  {
+    "image": "candidate",
+    "bank": 1,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3200
+  },
+  {
+    "image": "candidate",
+    "bank": 1,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3230
+  },
+  {
+    "image": "candidate",
+    "bank": 1,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3140
+  },
+  {
+    "image": "candidate",
+    "bank": 1,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3240
+  },
+  {
+    "image": "candidate",
+    "bank": 1,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3180
+  },
+  {
+    "image": "candidate",
+    "bank": 2,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "candidate",
+    "bank": 2,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3230
+  },
+  {
+    "image": "candidate",
+    "bank": 2,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3200
+  },
+  {
+    "image": "candidate",
+    "bank": 2,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3230
+  },
+  {
+    "image": "candidate",
+    "bank": 2,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3140
+  },
+  {
+    "image": "candidate",
+    "bank": 2,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3240
+  },
+  {
+    "image": "candidate",
+    "bank": 2,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3180
+  },
+  {
+    "image": "candidate",
+    "bank": 3,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "candidate",
+    "bank": 3,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 3968,
+        "snapshot": [
+          128,
+          128,
+          3968,
+          3968
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3230
+  },
+  {
+    "image": "candidate",
+    "bank": 3,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 10064,
+        "snapshot": [
+          400,
+          400,
+          10064,
+          10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3200
+  },
+  {
+    "image": "candidate",
+    "bank": 3,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          896,
+          896,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3230
+  },
+  {
+    "image": "candidate",
+    "bank": 3,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": 12160,
+        "snapshot": [
+          1024,
+          1024,
+          12160,
+          12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3140
+  },
+  {
+    "image": "candidate",
+    "bank": 3,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -10064,
+        "snapshot": [
+          -400,
+          -400,
+          10064,
+          -10064
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3240
+  },
+  {
+    "image": "candidate",
+    "bank": 3,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          86,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          172,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      },
+      {
+        "output": -12160,
+        "snapshot": [
+          -1024,
+          -1024,
+          12160,
+          -12160
+        ],
+        "counters": [
+          0,
+          255,
+          0
+        ],
+        "flags": 2
+      }
+    ],
+    "steps": 3180
+  },
+  {
+    "image": "candidate",
+    "bank": 7,
+    "raw": 0,
+    "runs": [
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 0,
+        "snapshot": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3009
+  },
+  {
+    "image": "candidate",
+    "bank": 7,
+    "raw": 128,
+    "runs": [
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 988,
+        "snapshot": [
+          128,
+          128,
+          988,
+          988
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 2994
+  },
+  {
+    "image": "candidate",
+    "bank": 7,
+    "raw": 400,
+    "runs": [
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 2622,
+        "snapshot": [
+          400,
+          400,
+          2622,
+          2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3224
+  },
+  {
+    "image": "candidate",
+    "bank": 7,
+    "raw": 896,
+    "runs": [
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 3755,
+        "snapshot": [
+          896,
+          896,
+          3755,
+          3755
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3024
+  },
+  {
+    "image": "candidate",
+    "bank": 7,
+    "raw": 1024,
+    "runs": [
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": 4006,
+        "snapshot": [
+          1024,
+          1024,
+          4006,
+          4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3024
+  },
+  {
+    "image": "candidate",
+    "bank": 7,
+    "raw": -400,
+    "runs": [
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -2622,
+        "snapshot": [
+          -400,
+          -400,
+          2622,
+          -2622
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3264
+  },
+  {
+    "image": "candidate",
+    "bank": 7,
+    "raw": -1024,
+    "runs": [
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      },
+      {
+        "output": -4006,
+        "snapshot": [
+          -1024,
+          -1024,
+          4006,
+          -4006
+        ],
+        "counters": [
+          0,
+          0,
+          0
+        ],
+        "flags": 0
+      }
+    ],
+    "steps": 3064
+  }
+]

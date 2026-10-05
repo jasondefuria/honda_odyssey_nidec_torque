@@ -1,0 +1,402 @@
+{
+  "files": [
+    {
+      "file": "39990-TG7-A060-STOCK.rwd",
+      "sha256": "f13d6b28e60ed5a39d2117c461c0c759a3d8b742b39ea9bfd6861ed7cc9fe184",
+      "start": "0x10000",
+      "length": "0x50000",
+      "headers": [
+        [
+          "00"
+        ],
+        [],
+        [
+          "30"
+        ],
+        [
+          "33393939302d5447372d413036300000"
+        ],
+        [
+          "001100121020"
+        ],
+        [
+          "010203"
+        ]
+      ],
+      "container_checksum_valid": true
+    },
+    {
+      "file": "39990-TG7-A060-2X (2019 Honda Pilot)",
+      "sha256": "6ef205bceb5128f48e27182fa4e128173f2f6c0995192efd57809c237b81e40f",
+      "start": "0x10000",
+      "length": "0x50000",
+      "headers": [
+        [
+          "00"
+        ],
+        [],
+        [
+          "30"
+        ],
+        [
+          "33393939302d5447372d413036300000"
+        ],
+        [
+          "001100121020"
+        ],
+        [
+          "010203"
+        ]
+      ],
+      "container_checksum_valid": true
+    },
+    {
+      "file": "39990-THR-A020_R2_2p5_PEAK_EXPERIMENTAL.rwd",
+      "sha256": "dbfe61804b35c6ff8855c0c02115c72c5fdd26d6f82e5e2209cf72bbae120311",
+      "start": "0xc000",
+      "length": "0x74000",
+      "headers": [
+        [
+          "00"
+        ],
+        [],
+        [
+          "30"
+        ],
+        [
+          "33393939302d5448522d413032300000"
+        ],
+        [
+          "011101121120"
+        ],
+        [
+          "010203"
+        ]
+      ],
+      "container_checksum_valid": true
+    }
+  ],
+  "pilot_stock_decodes_exactly_to_raw": true,
+  "pilot_changed_bytes": 1894,
+  "pilot_cumulative_le32_checks": {
+    "pilot_stock": [
+      0,
+      0,
+      0
+    ],
+    "pilot_2x": [
+      0,
+      0,
+      0
+    ]
+  },
+  "pilot_banks": [
+    {
+      "base": "0x21fb2",
+      "curve_samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "limits": {
+        "D": [
+          80,
+          80
+        ],
+        "P": [
+          128,
+          190
+        ],
+        "combined": [
+          160,
+          190
+        ],
+        "final": [
+          409,
+          486
+        ],
+        "dynamic": [
+          40960,
+          48640
+        ],
+        "status_threshold": [
+          20,
+          1
+        ]
+      }
+    },
+    {
+      "base": "0x21130",
+      "curve_samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "limits": {
+        "D": [
+          80,
+          80
+        ],
+        "P": [
+          128,
+          190
+        ],
+        "combined": [
+          160,
+          190
+        ],
+        "final": [
+          409,
+          486
+        ],
+        "dynamic": [
+          40960,
+          48640
+        ],
+        "status_threshold": [
+          20,
+          1
+        ]
+      }
+    },
+    {
+      "base": "0x202ae",
+      "curve_samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "limits": {
+        "D": [
+          80,
+          80
+        ],
+        "P": [
+          128,
+          190
+        ],
+        "combined": [
+          160,
+          190
+        ],
+        "final": [
+          409,
+          486
+        ],
+        "dynamic": [
+          40960,
+          48640
+        ],
+        "status_threshold": [
+          20,
+          1
+        ]
+      }
+    },
+    {
+      "base": "0x1f42c",
+      "curve_samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "limits": {
+        "D": [
+          80,
+          80
+        ],
+        "P": [
+          128,
+          190
+        ],
+        "combined": [
+          160,
+          190
+        ],
+        "final": [
+          409,
+          486
+        ],
+        "dynamic": [
+          40960,
+          48640
+        ],
+        "status_threshold": [
+          20,
+          1
+        ]
+      }
+    },
+    {
+      "base": "0x1e5aa",
+      "curve_samples": [
+        {
+          "index": 0,
+          "stock": 0,
+          "modified": 0
+        },
+        {
+          "index": 65,
+          "stock": 3067,
+          "modified": 3067
+        },
+        {
+          "index": 66,
+          "stock": 3087,
+          "modified": 3104
+        },
+        {
+          "index": 128,
+          "stock": 4307,
+          "modified": 5626
+        },
+        {
+          "index": 192,
+          "stock": 5120,
+          "modified": 8314
+        },
+        {
+          "index": 255,
+          "stock": 5120,
+          "modified": 10246
+        }
+      ],
+      "limits": {
+        "D": [
+          80,
+          80
+        ],
+        "P": [
+          128,
+          190
+        ],
+        "combined": [
+          160,
+          190
+        ],
+        "final": [
+          409,
+          486
+        ],
+        "dynamic": [
+          40960,
+          48640
+        ],
+        "status_threshold": [
+          20,
+          1
+        ]
+      }
+    }
+  ],
+  "trim_identity": "2019 Pilot source label; Elite trim not independently verified",
+  "method": "Fresh container decoding and raw table reads; functional roles from existing Pilot disassembly reports; no new Pilot emulation"
+}

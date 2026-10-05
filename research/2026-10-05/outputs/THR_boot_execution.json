@@ -1,0 +1,48 @@
+{
+  "method": "Captured boot prefix plus existing R2 image; synthetic RAM; SH-2A research interpreter. No hardware or CAN.",
+  "actual_0a00_with_reconstructed_key_stage_matches_all_256": true,
+  "11be_return": 0,
+  "range_tests": [
+    {
+      "start": "0xc000",
+      "length": "0x74000",
+      "return": 0
+    },
+    {
+      "start": "0xc000",
+      "length": "0x10",
+      "return": 0
+    },
+    {
+      "start": "0xbfff",
+      "length": "0x10",
+      "return": 0
+    },
+    {
+      "start": "0x80000",
+      "length": "0x10",
+      "return": 1
+    },
+    {
+      "start": "0xc000",
+      "length": "0x74001",
+      "return": 0
+    }
+  ],
+  "decrypt": {
+    "status": "completed",
+    "return": 0,
+    "steps": 9707,
+    "all_256_match": true
+  },
+  "checksum": {
+    "status": "completed",
+    "return": 0,
+    "steps": 12895770
+  },
+  "ff01": {
+    "status": "completed",
+    "return": 0,
+    "steps": 12896047
+  }
+}

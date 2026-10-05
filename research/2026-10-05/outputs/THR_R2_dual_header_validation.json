@@ -1,0 +1,20 @@
+{
+  "file": "39990-THR,A020_R2_DUAL_ID_EXPERIMENTAL.rwd",
+  "sha256": "7086b01cf9c78b4a094662d8f9f0c9fb915d1ea497d90d56f21c0224c986b9b8",
+  "size": 475213,
+  "source": "39990-THR,A020_R2_IDENTITY_EXPERIMENTAL.rwd",
+  "supported_identities": [
+    "39990-THR-A020",
+    "39990-THR,A020"
+  ],
+  "security_entry_count": 2,
+  "encryption_key_count": 1,
+  "encrypted_payload_unchanged": true,
+  "download_start": "0xc000",
+  "download_length": "0x74000",
+  "payload_offset": 73,
+  "checksum_A": "685c",
+  "checksum_C": "77bc",
+  "parser_and_identity_matching": "PASS; unrelated TG7 identity rejected",
+  "note": "Existing flasher normalizes comma and hyphen already. Explicit dual entries do not prove ECU acceptance. Not flashed."
+}

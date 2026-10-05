@@ -1,0 +1,6932 @@
+[
+  {
+    "image": "stock",
+    "from_bank": 1,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": 491,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23933
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28464
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32995
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 1,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": 491,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23933
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28464
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32995
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 1,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 1,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 1,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 1,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 2,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": 491,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23933
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28464
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32995
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 2,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": 491,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23933
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28464
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32995
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 2,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 2,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 2,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 2,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 3,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": 491,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23933
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28464
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32995
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 3,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": 491,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23933
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28464
+      },
+      {
+        "out": 489,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32995
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 3,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 3,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 3,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 3,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10341
+      },
+      {
+        "out": 494,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14872
+      },
+      {
+        "out": 492,
+        "target": 4025,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19403
+      },
+      {
+        "out": -29,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23950
+      },
+      {
+        "out": 320,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28491
+      },
+      {
+        "out": 336,
+        "target": 3399,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33032
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 4,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 4,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 4,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 4,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 4,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 4,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 5,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 5,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 5,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 5,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 5,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 5,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 6,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 6,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 6,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 6,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 6,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 6,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 7,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 7,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 7,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1016,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23946
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28462
+      },
+      {
+        "out": 376,
+        "target": 4013,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32978
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 7,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 7,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "stock",
+    "from_bank": 7,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 1,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 1245,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23930
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28461
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32991
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 1,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 1245,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23930
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28461
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32991
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 1,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 1,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 1,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 1,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 2,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 1245,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23930
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28461
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32991
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 2,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 1245,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23930
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28461
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32991
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 2,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 2,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 2,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 2,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 3,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 1245,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23930
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28461
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32991
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 3,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 1245,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23930
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28461
+      },
+      {
+        "out": 1244,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32991
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 3,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 3,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 3,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 3,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1896,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10338
+      },
+      {
+        "out": 1249,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14868
+      },
+      {
+        "out": 1247,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19399
+      },
+      {
+        "out": 247,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23938
+      },
+      {
+        "out": 859,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 875,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33020
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 4,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 4,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 4,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 4,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 4,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 4,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 5,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 5,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 5,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 5,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 5,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 5,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 6,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 6,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 6,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 6,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 6,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 6,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 7,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 7,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 7,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 1763,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23945
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28460
+      },
+      {
+        "out": 1123,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 32975
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 7,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 7,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "v4",
+    "from_bank": 7,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 665,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10333
+      },
+      {
+        "out": 209,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14874
+      },
+      {
+        "out": 227,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19415
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 23954
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28479
+      },
+      {
+        "out": 228,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33004
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 1,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24219
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 1011,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33425
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 1,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24219
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 1011,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33425
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 1,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 1,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 1,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 1,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 2,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24219
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 1011,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33425
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 2,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24219
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 1011,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33425
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 2,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 2,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 2,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 2,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 3,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24219
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 1011,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33425
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 3,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24219
+      },
+      {
+        "out": 1012,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 1011,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33425
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 3,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 3,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 3,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 3,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 1532,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 1014,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15014
+      },
+      {
+        "out": 1013,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19617
+      },
+      {
+        "out": 303,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24228
+      },
+      {
+        "out": 916,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28839
+      },
+      {
+        "out": 931,
+        "target": 7233,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33451
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 4,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 4,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 4,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 4,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 4,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 4,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 5,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 5,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 5,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 5,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 5,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 5,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 6,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 6,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 6,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 6,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 6,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 6,
+    "to_bank": 7,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 7,
+    "to_bank": 1,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 7,
+    "to_bank": 2,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 7,
+    "to_bank": 3,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 1431,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24230
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28817
+      },
+      {
+        "out": 919,
+        "target": 9983,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33404
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 7,
+    "to_bank": 4,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 7,
+    "to_bank": 5,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  },
+  {
+    "image": "PTM",
+    "from_bank": 7,
+    "to_bank": 6,
+    "ticks": [
+      {
+        "out": 685,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10404
+      },
+      {
+        "out": 229,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15016
+      },
+      {
+        "out": 247,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19628
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24238
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28834
+      },
+      {
+        "out": 248,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33430
+      }
+    ]
+  }
+]

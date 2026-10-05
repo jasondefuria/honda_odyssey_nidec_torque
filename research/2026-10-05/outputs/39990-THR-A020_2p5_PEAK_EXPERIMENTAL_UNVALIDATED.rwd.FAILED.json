@@ -1,0 +1,19 @@
+{
+  "status": "FAILED_EMULATION_DO_NOT_FLASH",
+  "rwd_sha256": "4a8965d4c5991afa14e250b068d38a268e805699398c51674dfa016200d431eb",
+  "failure": {
+    "method": "Ghidra SuperH:BE:32:SH-2A SLEIGH via pypcode 4.0.0 and local p-code interpreter",
+    "hooks_in_sweep": false,
+    "stock_cases": 2057,
+    "stock_monitor_failures": 0,
+    "candidate_cases": 2057,
+    "candidate_monitor_failures": 2056,
+    "fault_after_evaluations": 3,
+    "flag_address": "0xFFF8A5DB",
+    "flag_value": "0x02",
+    "cause": "Main command curve changed; independent reference at 0x67BD6 remained stock",
+    "source_rwd_sha256": "4a8965d4c5991afa14e250b068d38a268e805699398c51674dfa016200d431eb",
+    "report": "THR_2p5_EMULATOR_REPORT.md"
+  },
+  "physical_torque_validation": "NOT_PERFORMED"
+}

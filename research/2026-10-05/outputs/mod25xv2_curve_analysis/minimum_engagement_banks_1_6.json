@@ -1,0 +1,50 @@
+[
+  {
+    "bank": 1,
+    "address": "0x57b00",
+    "stock_counts": 10,
+    "mod25xv2_counts": 10,
+    "km_h": 5.0,
+    "mph": 3.1068559611866697
+  },
+  {
+    "bank": 2,
+    "address": "0x57e00",
+    "stock_counts": 10,
+    "mod25xv2_counts": 10,
+    "km_h": 5.0,
+    "mph": 3.1068559611866697
+  },
+  {
+    "bank": 3,
+    "address": "0x58100",
+    "stock_counts": 10,
+    "mod25xv2_counts": 10,
+    "km_h": 5.0,
+    "mph": 3.1068559611866697
+  },
+  {
+    "bank": 4,
+    "address": "0x58400",
+    "stock_counts": 70,
+    "mod25xv2_counts": 70,
+    "km_h": 35.0,
+    "mph": 21.747991728306687
+  },
+  {
+    "bank": 5,
+    "address": "0x58700",
+    "stock_counts": 70,
+    "mod25xv2_counts": 70,
+    "km_h": 35.0,
+    "mph": 21.747991728306687
+  },
+  {
+    "bank": 6,
+    "address": "0x58a00",
+    "stock_counts": 70,
+    "mod25xv2_counts": 70,
+    "km_h": 35.0,
+    "mph": 21.747991728306687
+  }
+]

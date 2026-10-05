@@ -1,0 +1,26 @@
+[
+  {
+    "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/corrected_A010_A020_MOD_headers/stock_39990-THR-A020.rwd",
+    "header_ids": [
+      "39990-THR-A020",
+      "39990-THR-A010",
+      "39990-THR,A020"
+    ],
+    "security_entry_count": 3,
+    "payload_unchanged": true,
+    "checksums_valid": true,
+    "sha256": "09604ecb9132666261bb966a8cefc5f8b7f7ec628fcd350a652cbcf947abfa14"
+  },
+  {
+    "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/corrected_A010_A020_MOD_headers/mod25xv1-39990-THR,A020.rwd",
+    "header_ids": [
+      "39990-THR-A020",
+      "39990-THR-A010",
+      "39990-THR,A020"
+    ],
+    "security_entry_count": 3,
+    "payload_unchanged": true,
+    "checksums_valid": true,
+    "sha256": "8cd9aea75bff1e1b66ba0f7f8e5b794c9f77fa3329571adc2d1c34f802985dc1"
+  }
+]

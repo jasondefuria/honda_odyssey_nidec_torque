@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Preserve firmware and binary analysis artifacts byte-for-byte.
+*.rwd -text
+*.bin -text
+*.npz -text
+*.rwd -diff
+*.bin -diff
+*.npz -diff
+# This archival snapshot preserves original line endings and generated text.
+research/2026-10-05/** -text

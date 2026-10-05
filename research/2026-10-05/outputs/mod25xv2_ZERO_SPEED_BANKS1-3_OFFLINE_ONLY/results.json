@@ -1,0 +1,8966 @@
+{
+  "scope": "Isolated 0x72DDC idle-to-ramp transition, synthetic clean RAM, R2 base ROM. Banks 1\u20133 thresholds changed only in host memory. No ROM/RWD written; no vehicle access.",
+  "case_count": 896,
+  "cases": [
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "baseline",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 1,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 2,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 3,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 4,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 5,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 6,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 1
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 0,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 1,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 9,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 10,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 69,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 70,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 2,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 400,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 0,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 0,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 0,
+      "state": 1,
+      "standstill_marker": 0
+    },
+    {
+      "variant": "banks1_3_zero_only",
+      "bank": 7,
+      "speed_counts": 401,
+      "standstill_permit": 1,
+      "request": 1,
+      "inhibit": 1,
+      "state": 1,
+      "standstill_marker": 0
+    }
+  ]
+}

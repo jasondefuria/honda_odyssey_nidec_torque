@@ -1,0 +1,66 @@
+{
+  "rwd_sha256": "5fb7dbc298cfc4c897644f100d664aaa2a55a6c9b46355cd8e13a5f3fd782c4c",
+  "headers_hex": [
+    [
+      "00"
+    ],
+    [],
+    [
+      "30"
+    ],
+    [
+      "33393939302d5448522d413032300000"
+    ],
+    [
+      "011101121120"
+    ],
+    [
+      "010203"
+    ]
+  ],
+  "headers_text": [
+    [
+      "\u0000"
+    ],
+    [],
+    [
+      "0"
+    ],
+    [
+      "39990-THR-A020\u0000\u0000"
+    ],
+    [
+      "\u0001\u0011\u0001\u0012\u0011 "
+    ],
+    [
+      "\u0001\u0002\u0003"
+    ]
+  ],
+  "start": "0xc000",
+  "length": "0x74000",
+  "exact_container_length": true,
+  "trailer_matches": true,
+  "rdx_transform_matches_stock_window": false,
+  "different_bytes": 377704,
+  "checksum_A_stored": "0xd0ca",
+  "checksum_A_calculated": "0xd0ca",
+  "magic": "0xb7c8",
+  "checksum_C_stored": "0xa6e0",
+  "checksum_C_calculated": "0xa6e0",
+  "payload_word_sum": "0x0",
+  "normal_banks_equal": true,
+  "stock_clamps_D_P_u": [
+    640,
+    1024,
+    1024
+  ],
+  "untransformed_payload_matches_stock": false,
+  "untransformed_different_bytes": 378278,
+  "tla_lookup_source": "https://raw.githubusercontent.com/jpancotti/rwd-xray/master/tools/eps_tool.py",
+  "tla_lookup_matches_stock": true,
+  "tla_different_bytes": 0,
+  "tla_reencoding_matches": true,
+  "decoded_payload_sha256": "84bef32f4d6f99460dc0a42dda2aa681356370e8094d41a84f0f2a93fa8731d3",
+  "range_record_hex": "0100000000000000c00000074000",
+  "security_constant_matches": true
+}

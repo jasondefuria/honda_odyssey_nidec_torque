@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/jasondefuria/openpilot_ody",
+  "branch": "nrdr-clean",
+  "base_commit": "b3366b5b56512805be8f0bf832b4981bfd958072",
+  "changed_files": [
+    "opendbc_repo/opendbc/sunnypilot/car/honda/fingerprints_ext.py",
+    "opendbc_repo/opendbc/sunnypilot/car/honda/test_honda.py"
+  ],
+  "change": "Add exact Honda Odyssey EPS fingerprint 39990-THR,A020 with two trailing NUL bytes. Existing comma detection sets EPS_MODIFIED. No controller changes.",
+  "test": "3 passed, 4 deselected, 6 subtests passed",
+  "published": false
+}

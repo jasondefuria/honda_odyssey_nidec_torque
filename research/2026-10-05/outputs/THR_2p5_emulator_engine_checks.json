@@ -1,0 +1,52 @@
+[
+  {
+    "name": "signed arithmetic",
+    "result": "PASS",
+    "return_value": 4,
+    "translation_steps": 5
+  },
+  {
+    "name": "rts delay slot executes",
+    "result": "PASS",
+    "return_value": 3,
+    "translation_steps": 2
+  },
+  {
+    "name": "SH-2A signed division truncates toward zero",
+    "result": "PASS",
+    "return_value": -2,
+    "translation_steps": 5
+  },
+  {
+    "name": "SH-2A MULR low word",
+    "result": "PASS",
+    "return_value": -21,
+    "translation_steps": 5
+  },
+  {
+    "name": "MOVI20 sign extension",
+    "result": "PASS",
+    "return_value": -268,
+    "translation_steps": 2
+  },
+  {
+    "name": "SHAD negative count arithmetic right",
+    "result": "PASS",
+    "return_value": -2,
+    "translation_steps": 5
+  },
+  {
+    "name": "BRA delay slot and target",
+    "result": "PASS",
+    "return_value": 7,
+    "translation_steps": 4
+  },
+  {
+    "name": "ROM writes fail",
+    "result": "PASS"
+  },
+  {
+    "name": "unmapped reads fail",
+    "result": "PASS"
+  }
+]

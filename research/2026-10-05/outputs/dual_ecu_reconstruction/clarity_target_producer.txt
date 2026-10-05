@@ -1,0 +1,143 @@
+RANGE 0x29d16 0x29e3e
+00029d16: mov.l @(0x29ec0,pc),r9 ; literal=fff87b76
+00029d18: movu.b @(0x6, r9), r4
+00029d1c: mov.l @(0xb8,gbr),r0
+00029d1e: mov #0x8,r7
+00029d20: mov.w r14,@r5
+00029d22: shll2 r4
+00029d24: mov.l @(0x4,r0),r6
+00029d26: shll2 r4
+00029d28: mov.l @r0,r5
+00029d2a: add r4,r6
+00029d2c: add r4,r5
+00029d2e: mov.l @(0x29eac,pc),r11 ; literal=0003add6
+00029d30: jsr @r11
+00029d32: mov r14,r4
+00029d34: exts.w r0,r8
+00029d36: mov.l @(0xb8,gbr),r0
+00029d38: movu.b @(0x6, r9), r1
+00029d3c: mov.l @(0xc,r0),r6
+00029d3e: mov #0x8,r7
+00029d40: shll2 r1
+00029d42: mov.l @(0x8,r0),r5
+00029d44: shll2 r1
+00029d46: add r1,r6
+00029d48: add r1,r5
+00029d4a: jsr @r11
+00029d4c: mov r14,r4
+00029d4e: muls.w r8,r13
+00029d50: exts.w r0,r9
+00029d52: sts macl,r13
+00029d54: muls.w r9,r10
+00029d56: sts macl,r2
+00029d58: add r2,r13
+00029d5a: cmp/pz r13
+00029d5c: bt 0x29d64
+00029d5e: movi20 #0x3fff, r6
+00029d62: add r6,r13
+00029d64: mov.l @(0x29ec4,pc),r10 ; literal=fff87b7c
+00029d66: movu.b @(0x0, r10), r7
+00029d6a: mov #0xc,r0
+00029d6c: mov #-0xe,r4
+00029d6e: mulr r0, r7
+00029d70: mov.l @(0x29ec8,pc),r6 ; literal=000137b2
+00029d72: mov.l @(0x29ecc,pc),r5 ; literal=0001375e
+00029d74: shad r4, r13
+00029d76: add r7,r6
+00029d78: add r7,r5
+00029d7a: mov #0x6,r7
+00029d7c: jsr @r11
+00029d7e: mov r12,r4
+00029d80: exts.w r0,r2
+00029d82: mov r2,r0
+00029d84: mov r13,r5
+00029d86: mulr r0, r5
+00029d88: cmp/pz r5
+00029d8a: bt 0x29d92
+00029d8c: mov #-0x1,r4
+00029d8e: extu.b r4,r4
+00029d90: add r4,r5
+00029d92: mov.l @(0x29ed0,pc),r4 ; literal=0001375c
+00029d94: mov.w @r4,r11
+00029d96: exts.w r14,r14
+00029d98: mov #-0x8,r10
+00029d9a: mov #0x0,r1
+00029d9c: cmp/ge r11,r14
+00029d9e: bt/s 0x29da4
+00029da0: shad r10, r5
+00029da2: mov r5,r1
+00029da4: mov.w @(0x4,r15),r0
+00029da6: mov r0,r6
+00029da8: mov r1,r0
+00029daa: mulr r0, r6
+00029dac: cmp/pz r6
+00029dae: bt 0x29db6
+00029db0: mov #-0x1,r7
+00029db2: extu.b r7,r7
+00029db4: add r7,r6
+00029db6: mov #-0x8,r12
+00029db8: mov.l @(0xc,r15),r11
+00029dba: shad r12, r6
+00029dbc: cmp/ge r11,r6
+00029dbe: bt/s 0x29dc6
+00029dc0: mov r6,r4
+00029dc2: bra 0x29dd2
+00029dc4: mov.l @(0xc,r15),r4
+00029dc6: movi20 #0x7fff, r7
+00029dca: cmp/gt r7,r4
+00029dcc: bf 0x29dd2
+00029dce: movi20 #0x7fff, r4
+00029dd2: mov.l @(0x29ec0,pc),r10 ; literal=fff87b76
+00029dd4: mov.b @r10,r6
+00029dd6: tst r6,r6
+00029dd8: bf 0x29dec
+00029dda: mov.l @(0x29ed4,pc),r7 ; literal=fff87ba8
+00029ddc: mov.b @r7,r6
+00029dde: tst r6,r6
+00029de0: bf 0x29dec
+00029de2: mov.b @(0x8,r15),r0
+00029de4: tst r0,r0
+00029de6: bf 0x29dec
+00029de8: bra 0x29dee
+00029dea: mov r4,r6
+00029dec: mov #0x0,r6
+00029dee: mov.w @(0x2,r15),r0
+00029df0: mov r0,r12
+00029df2: mov.l @(0xf4,gbr),r0
+00029df4: mov.w r12,@r0
+00029df6: mov.l @(0xf4,gbr),r0
+00029df8: mov r0,r14
+00029dfa: mov r8,r0
+00029dfc: mov.w r0,@(0x2,r14)
+00029dfe: mov.l @(0xf4,gbr),r0
+00029e00: mov r0,r8
+00029e02: mov r2,r0
+00029e04: mov.w r0,@(0x6,r8)
+00029e06: mov.l @(0xf4,gbr),r0
+00029e08: mov.l r5,@(0x10,r0)
+00029e0a: mov.l @(0xf4,gbr),r0
+00029e0c: mov.l r1,@(0x14,r0)
+00029e0e: mov.l @(0xf4,gbr),r0
+00029e10: mov.l r4,@(0x18,r0)
+00029e12: mov.l @(0xf4,gbr),r0
+00029e14: mov r0,r10
+00029e16: mov r6,r0
+00029e18: mov.w r0,@(0x8,r10)
+00029e1a: mov.l @(0xf4,gbr),r0
+00029e1c: mov r0,r11
+00029e1e: mov r9,r0
+00029e20: mov.w r0,@(0x4,r11)
+00029e22: mov.l @(0xf4,gbr),r0
+00029e24: mov.l r13,@(0xc,r0)
+00029e26: add 0x10,r15
+00029e28: ldc.l @r15+,gbr
+00029e2a: lds.l @r15+,macl
+00029e2c: lds.l @r15+,pr
+00029e2e: mov.l @r15+,r14
+00029e30: mov.l @r15+,r13
+00029e32: mov.l @r15+,r12
+00029e34: mov.l @r15+,r11
+00029e36: mov.l @r15+,r10
+00029e38: mov.l @r15+,r9
+00029e3a: rts 
+00029e3c: mov.l @r15+,r8

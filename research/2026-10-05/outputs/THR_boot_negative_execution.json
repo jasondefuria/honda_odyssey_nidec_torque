@@ -1,0 +1,15 @@
+{
+  "corrupted_r2": {
+    "return": 1,
+    "nrc": "0x72",
+    "steps": 12895965
+  },
+  "record_flag_0": {
+    "return": 0,
+    "nrc": "0x0"
+  },
+  "record_flag_1": {
+    "return": 1,
+    "nrc": "0x22"
+  }
+}

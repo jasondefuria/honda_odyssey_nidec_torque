@@ -1,0 +1,9813 @@
+{
+  "status": "PASS_FOR_TESTED_SCOPES_ONLY",
+  "images": {
+    "stock": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+    "r2": "688f36d6fb0c3b0ae1a3c8d620c509f7279f015b5d74eb05fd98e2abf9b5847c"
+  },
+  "scope": "Actual ROM 7276A -> 74C9C, fade/curve/PD/mixer monitors and diagnostic callback; forced full weights, zero feedback/base assist, speed 60 counts, synthetic RAM. No engagement state machine, CAN hardware or physical plant.",
+  "case_count": 280,
+  "ticks_per_case": 5,
+  "elapsed_seconds": 19.47014024999953,
+  "cases": [
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42244
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -83,
+          "mixer": -83,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43598
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42387
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -83,
+          "mixer": -83,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43573
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42219
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42724
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43309
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -68,
+          "mixer": -68,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43713
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43307
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -68,
+          "mixer": -68,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43688
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43284
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42699
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42624
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43214
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42719
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43189
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42599
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43289
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 68,
+          "mixer": 68,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43583
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43171
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 68,
+          "mixer": 68,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43558
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43264
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42679
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42224
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42809
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 83,
+          "mixer": 83,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43458
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42245
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 83,
+          "mixer": 83,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43433
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42784
+    },
+    {
+      "image": "stock",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42199
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42244
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -83,
+          "mixer": -83,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43598
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42387
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -83,
+          "mixer": -83,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43573
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42219
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42724
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43309
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -68,
+          "mixer": -68,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43713
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43307
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -68,
+          "mixer": -68,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43688
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43284
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42699
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42624
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43214
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42719
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43189
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42599
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43289
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 68,
+          "mixer": 68,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43583
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43171
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 68,
+          "mixer": 68,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43558
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43264
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42679
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42224
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42809
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 83,
+          "mixer": 83,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43458
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42245
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 83,
+          "mixer": 83,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43433
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42784
+    },
+    {
+      "image": "stock",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42199
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42244
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -83,
+          "mixer": -83,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43598
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        },
+        {
+          "u": -836,
+          "mixer": -836,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42387
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -83,
+          "mixer": -83,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        },
+        {
+          "u": -23,
+          "mixer": -23,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43573
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42219
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42724
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43309
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -68,
+          "mixer": -68,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43713
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        },
+        {
+          "u": -611,
+          "mixer": -611,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43307
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -68,
+          "mixer": -68,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        },
+        {
+          "u": -8,
+          "mixer": -8,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43688
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43284
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42699
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42624
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43214
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42719
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43189
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42599
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43289
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 68,
+          "mixer": 68,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43583
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        },
+        {
+          "u": 611,
+          "mixer": 611,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43171
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 68,
+          "mixer": 68,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        },
+        {
+          "u": 8,
+          "mixer": 8,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43558
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43264
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42679
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42224
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42809
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 83,
+          "mixer": 83,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43458
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        },
+        {
+          "u": 836,
+          "mixer": 836,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42245
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 83,
+          "mixer": 83,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        },
+        {
+          "u": 23,
+          "mixer": 23,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43433
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42784
+    },
+    {
+      "image": "stock",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42199
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42564
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42564
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -169,
+          "mixer": -169,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42994
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42277
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -169,
+          "mixer": -169,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42969
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42539
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42539
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43044
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43044
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -69,
+          "mixer": -69,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43447
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -69,
+          "mixer": -69,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43019
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43019
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42944
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42944
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42919
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42919
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43024
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43024
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 69,
+          "mixer": 69,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43082
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43316
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 69,
+          "mixer": 69,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43057
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42999
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42999
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42544
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42544
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 169,
+          "mixer": 169,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42863
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42146
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 169,
+          "mixer": 169,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42838
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42519
+    },
+    {
+      "image": "stock",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42519
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42244
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -112,
+          "mixer": -112,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43598
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -2560,
+          "mixer": -2560,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42387
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -112,
+          "mixer": -112,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43573
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42219
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42724
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43309
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -77,
+          "mixer": -77,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43713
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -2167,
+          "mixer": -2167,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43308
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -77,
+          "mixer": -77,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43688
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43284
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42699
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42624
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43214
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42719
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43189
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42599
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43289
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 77,
+          "mixer": 77,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43578
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 2167,
+          "mixer": 2167,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43174
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 77,
+          "mixer": 77,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43553
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43264
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42679
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42224
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42809
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 112,
+          "mixer": 112,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43463
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 2560,
+          "mixer": 2560,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42245
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 112,
+          "mixer": 112,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43438
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42784
+    },
+    {
+      "image": "r2",
+      "bank": 1,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42199
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42244
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -112,
+          "mixer": -112,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43598
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -2560,
+          "mixer": -2560,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42387
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -112,
+          "mixer": -112,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43573
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42219
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42724
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43309
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -77,
+          "mixer": -77,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43713
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -2167,
+          "mixer": -2167,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43308
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -77,
+          "mixer": -77,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43688
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43284
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42699
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42624
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43214
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42719
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43189
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42599
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43289
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 77,
+          "mixer": 77,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43578
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 2167,
+          "mixer": 2167,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43174
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 77,
+          "mixer": 77,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43553
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43264
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42679
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42224
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42809
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 112,
+          "mixer": 112,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43463
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 2560,
+          "mixer": 2560,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42245
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 112,
+          "mixer": 112,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43438
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42784
+    },
+    {
+      "image": "r2",
+      "bank": 2,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42199
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42244
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -112,
+          "mixer": -112,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43598
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -2560,
+          "mixer": -2560,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        },
+        {
+          "u": -2090,
+          "mixer": -2090,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42387
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -112,
+          "mixer": -112,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        },
+        {
+          "u": -52,
+          "mixer": -52,
+          "after_fade": -192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43573
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42219
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42724
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43309
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -77,
+          "mixer": -77,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43713
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -2167,
+          "mixer": -2167,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        },
+        {
+          "u": -1527,
+          "mixer": -1527,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43308
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -77,
+          "mixer": -77,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        },
+        {
+          "u": -17,
+          "mixer": -17,
+          "after_fade": -96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43688
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43284
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42699
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42624
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43214
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42719
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43189
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42599
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43289
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 77,
+          "mixer": 77,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43578
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 2167,
+          "mixer": 2167,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        },
+        {
+          "u": 1527,
+          "mixer": 1527,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43174
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 77,
+          "mixer": 77,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        },
+        {
+          "u": 17,
+          "mixer": 17,
+          "after_fade": 96
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43553
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43264
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42679
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42224
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42809
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 112,
+          "mixer": 112,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43463
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 2560,
+          "mixer": 2560,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        },
+        {
+          "u": 2090,
+          "mixer": 2090,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42245
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 112,
+          "mixer": 112,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        },
+        {
+          "u": 52,
+          "mixer": 52,
+          "after_fade": 192
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43438
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42784
+    },
+    {
+      "image": "r2",
+      "bank": 3,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42199
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42564
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42564
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -169,
+          "mixer": -169,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42994
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        },
+        {
+          "u": -563,
+          "mixer": -563,
+          "after_fade": -1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42277
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -169,
+          "mixer": -169,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        },
+        {
+          "u": -46,
+          "mixer": -46,
+          "after_fade": -180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42969
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42539
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42539
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43044
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43044
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": -69,
+          "mixer": -69,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43209
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": -1024,
+          "mixer": -1024,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        },
+        {
+          "u": -418,
+          "mixer": -418,
+          "after_fade": -512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43447
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": -69,
+          "mixer": -69,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        },
+        {
+          "u": -15,
+          "mixer": -15,
+          "after_fade": -90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43184
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43019
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": -2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43019
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 0,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42944
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 0,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42944
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 0,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42829
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42704
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42804
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42919
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 0,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42919
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43024
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43024
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 69,
+          "mixer": 69,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43082
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        },
+        {
+          "u": 418,
+          "mixer": 418,
+          "after_fade": 512
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43316
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 69,
+          "mixer": 69,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        },
+        {
+          "u": 15,
+          "mixer": 15,
+          "after_fade": 90
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 43057
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42999
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 2048,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42999
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": -900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42544
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": -768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42544
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": -767,
+      "ticks": [
+        {
+          "u": 169,
+          "mixer": 169,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42863
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 0,
+      "ticks": [
+        {
+          "u": 1024,
+          "mixer": 1024,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        },
+        {
+          "u": 563,
+          "mixer": 563,
+          "after_fade": 1024
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42146
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 767,
+      "ticks": [
+        {
+          "u": 169,
+          "mixer": 169,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        },
+        {
+          "u": 46,
+          "mixer": 46,
+          "after_fade": 180
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42838
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 768,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42519
+    },
+    {
+      "image": "r2",
+      "bank": 7,
+      "command": 4096,
+      "driver_input": 900,
+      "ticks": [
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        },
+        {
+          "u": 0,
+          "mixer": 0,
+          "after_fade": 0
+        }
+      ],
+      "monitor_faults": 0,
+      "translation_steps": 42519
+    }
+  ]
+}

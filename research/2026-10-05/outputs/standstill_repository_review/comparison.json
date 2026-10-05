@@ -1,0 +1,16 @@
+{
+  "source": "https://github.com/nrdr/rwd-xray-2026/blob/master/tools/eps_tool.py",
+  "source_sha256": "f07dea326ec0fc2adc18e910594468cf301ac944f5f5b5a548a019d8b1d69cba",
+  "contains_THR_profile": false,
+  "source_findings": [
+    "Hardcoded model/hash profiles and scalar speed_clamp_lo edits; no THR profile found.",
+    "0x80000 input selects 0x6C000 payload; packaging starts at 0x4000. THR RWD starts at 0xC000 with 0x74000 payload.",
+    "Checksum writing loop uses sum/negative sum; no repair of the identified THR runtime CRC slots in this script."
+  ],
+  "local_evidence": [
+    "outputs/mod25xv2_ZERO_SPEED_BANKS1-3_OFFLINE_ONLY/results.json",
+    "outputs/mod25xv2_THRESHOLD_1_BANKS1-3_OFFLINE_ONLY/results.json",
+    "outputs/zero_speed_offline/release.json"
+  ],
+  "conclusion": "No demonstrated THR-specific zero-speed implementation preserving special standstill entry/release behavior. Existing THR special path is distinct from lowering normal minimum speed. No firmware modified."
+}

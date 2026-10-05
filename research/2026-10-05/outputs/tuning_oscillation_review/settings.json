@@ -1,0 +1,134 @@
+[
+  {
+    "route": "00000023--b5e1d64a14",
+    "parameters": {
+      "BlinkerLateralReengageDelay": "0",
+      "BlinkerMinLateralControlSpeed": "20",
+      "BlinkerPauseLateralControl": "0",
+      "CustomTorqueParams": "0",
+      "EnforceTorqueControl": "1",
+      "LagdToggleDelay": "0.2",
+      "LateralJerkTorqueController": "1",
+      "LiveTorqueParameters": "",
+      "LiveTorqueParamsToggle": "1",
+      "MadsSteeringMode": "0",
+      "NeuralNetworkLateralControl": "0",
+      "TeslaCoopSteering": "0",
+      "TorqueBar": "1",
+      "TorqueControlTune": "0.0",
+      "TorqueParamsOverrideEnabled": "0",
+      "TorqueParamsOverrideFriction": "0.1",
+      "TorqueParamsOverrideLatAccelFactor": "2.5"
+    },
+    "torque_versions": [
+      0
+    ],
+    "delay_count": 1578,
+    "delay_first": [
+      [
+        0.29064884781837463,
+        0.29064884781837463,
+        0.0,
+        "estimated",
+        23
+      ]
+    ],
+    "delay_last": [
+      [
+        0.29064884781837463,
+        0.29064884781837463,
+        0.0,
+        "estimated",
+        23
+      ]
+    ]
+  },
+  {
+    "route": "00000024--7d54f74e8e",
+    "parameters": {
+      "BlinkerLateralReengageDelay": "0",
+      "BlinkerMinLateralControlSpeed": "20",
+      "BlinkerPauseLateralControl": "0",
+      "CustomTorqueParams": "0",
+      "EnforceTorqueControl": "1",
+      "LagdToggleDelay": "0.2",
+      "LateralJerkTorqueController": "1",
+      "LiveTorqueParameters": "",
+      "LiveTorqueParamsToggle": "1",
+      "MadsSteeringMode": "0",
+      "NeuralNetworkLateralControl": "0",
+      "TeslaCoopSteering": "0",
+      "TorqueBar": "1",
+      "TorqueControlTune": "0.0",
+      "TorqueParamsOverrideEnabled": "0",
+      "TorqueParamsOverrideFriction": "0.1",
+      "TorqueParamsOverrideLatAccelFactor": "2.5"
+    },
+    "torque_versions": [
+      0
+    ],
+    "delay_count": 1716,
+    "delay_first": [
+      [
+        0.29064884781837463,
+        0.29064884781837463,
+        0.0,
+        "estimated",
+        23
+      ]
+    ],
+    "delay_last": [
+      [
+        0.29064884781837463,
+        0.29064884781837463,
+        0.0,
+        "estimated",
+        23
+      ]
+    ]
+  },
+  {
+    "route": "00000028--c139047a03",
+    "parameters": {
+      "BlinkerLateralReengageDelay": "0",
+      "BlinkerMinLateralControlSpeed": "20",
+      "BlinkerPauseLateralControl": "0",
+      "CustomTorqueParams": "0",
+      "EnforceTorqueControl": "1",
+      "LagdToggleDelay": "0.2",
+      "LateralJerkTorqueController": "1",
+      "LiveTorqueParameters": "",
+      "LiveTorqueParamsToggle": "1",
+      "MadsSteeringMode": "0",
+      "NeuralNetworkLateralControl": "0",
+      "TeslaCoopSteering": "0",
+      "TorqueBar": "1",
+      "TorqueControlTune": "0.0",
+      "TorqueParamsOverrideEnabled": "0",
+      "TorqueParamsOverrideFriction": "0.1",
+      "TorqueParamsOverrideLatAccelFactor": "2.5"
+    },
+    "torque_versions": [
+      0
+    ],
+    "delay_count": 2929,
+    "delay_first": [
+      [
+        0.29064884781837463,
+        0.29064884781837463,
+        0.0,
+        "estimated",
+        23
+      ]
+    ],
+    "delay_last": [
+      [
+        0.29064884781837463,
+        0.29064884781837463,
+        0.0,
+        "estimated",
+        23
+      ]
+    ]
+  }
+]

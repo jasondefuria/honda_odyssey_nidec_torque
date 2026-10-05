@@ -1,0 +1,836 @@
+baseline complete
+bank1_zero_only complete
+[
+  {
+    "variant": "baseline",
+    "test": "engage_release",
+    "bank": 1,
+    "speed": 0,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 1,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "baseline",
+    "test": "engage_release",
+    "bank": 1,
+    "speed": 10,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 2,
+        "path": 1,
+        "R": 16,
+        "W": 16,
+        "marker": 0
+      },
+      {
+        "tick": 1024,
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "baseline",
+    "test": "engage_release",
+    "bank": 2,
+    "speed": 0,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 1,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "baseline",
+    "test": "engage_release",
+    "bank": 2,
+    "speed": 10,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 2,
+        "path": 1,
+        "R": 16,
+        "W": 16,
+        "marker": 0
+      },
+      {
+        "tick": 1024,
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "baseline",
+    "test": "engage_release",
+    "bank": 7,
+    "speed": 0,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 1,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "baseline",
+    "test": "engage_release",
+    "bank": 7,
+    "speed": 70,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 2,
+        "path": 1,
+        "R": 16,
+        "W": 16,
+        "marker": 0
+      },
+      {
+        "tick": 1024,
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "baseline",
+    "test": "system",
+    "speed": 10,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 4,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "baseline",
+    "test": "monitor3",
+    "speed": 10,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 4,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "baseline",
+    "test": "inhibit",
+    "speed": 10,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "baseline",
+    "test": "config_off",
+    "speed": 10,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "baseline",
+    "test": "synthetic_bank_switch",
+    "target": 2,
+    "speed": 10,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "baseline",
+    "test": "synthetic_bank_switch",
+    "target": 7,
+    "speed": 10,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": {
+      "state": 2,
+      "path": 2,
+      "R": 16320,
+      "W": 16320,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "engage_release",
+    "bank": 1,
+    "speed": 0,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 2,
+        "path": 1,
+        "R": 16,
+        "W": 16,
+        "marker": 0
+      },
+      {
+        "tick": 1024,
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "engage_release",
+    "bank": 1,
+    "speed": 10,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 2,
+        "path": 1,
+        "R": 16,
+        "W": 16,
+        "marker": 0
+      },
+      {
+        "tick": 1024,
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "engage_release",
+    "bank": 2,
+    "speed": 0,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 1,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "engage_release",
+    "bank": 2,
+    "speed": 10,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 2,
+        "path": 1,
+        "R": 16,
+        "W": 16,
+        "marker": 0
+      },
+      {
+        "tick": 1024,
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "engage_release",
+    "bank": 7,
+    "speed": 0,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 1,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "engage_release",
+    "bank": 7,
+    "speed": 70,
+    "transitions": [
+      {
+        "tick": 0,
+        "state": 2,
+        "path": 1,
+        "R": 16,
+        "W": 16,
+        "marker": 0
+      },
+      {
+        "tick": 1024,
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ],
+    "engaged": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "released": {
+      "state": 1,
+      "path": 0,
+      "R": 0,
+      "W": 0,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "system",
+    "speed": 0,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 4,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "monitor3",
+    "speed": 0,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 4,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 5,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "inhibit",
+    "speed": 0,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 16384,
+        "W": 16384,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "config_off",
+    "speed": 0,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": [
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      },
+      {
+        "state": 3,
+        "path": 0,
+        "R": 0,
+        "W": 0,
+        "marker": 0
+      }
+    ]
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "synthetic_bank_switch",
+    "target": 2,
+    "speed": 0,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": {
+      "state": 2,
+      "path": 2,
+      "R": 16320,
+      "W": 16320,
+      "marker": 0
+    }
+  },
+  {
+    "variant": "bank1_zero_only",
+    "test": "synthetic_bank_switch",
+    "target": 7,
+    "speed": 0,
+    "before": {
+      "state": 3,
+      "path": 0,
+      "R": 16384,
+      "W": 16384,
+      "marker": 0
+    },
+    "after": {
+      "state": 2,
+      "path": 2,
+      "R": 16320,
+      "W": 16320,
+      "marker": 0
+    }
+  }
+]

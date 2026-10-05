@@ -1,0 +1,16 @@
+{"image": "stock", "a": 1024, "ref": 0, "curve": 4864, "ticks": [{"u": 1024, "mixer_return": 1024}, {"u": 836, "mixer_return": 836}, {"u": 836, "mixer_return": 836}], "steps": 11804, "visited": 1827}
+{"image": "stock", "a": -1024, "ref": 0, "curve": -4864, "ticks": [{"u": -1024, "mixer_return": -1024}, {"u": -836, "mixer_return": -836}, {"u": -836, "mixer_return": -836}], "steps": 11838, "visited": 1853}
+{"image": "stock", "a": 400, "ref": 0, "curve": 4025, "ticks": [{"u": 1024, "mixer_return": 1024}, {"u": 503, "mixer_return": 503}, {"u": 503, "mixer_return": 503}], "steps": 11846, "visited": 1845}
+{"image": "stock", "a": 1024, "ref": 2000, "curve": 4864, "ticks": [{"u": 1024, "mixer_return": 1024}, {"u": 492, "mixer_return": 492}, {"u": 492, "mixer_return": 492}], "steps": 11804, "visited": 1827}
+{"image": "stock", "a": 1024, "ref": -1000, "curve": 4864, "ticks": [{"u": 1024, "mixer_return": 1024}, {"u": 1007, "mixer_return": 1007}, {"u": 1007, "mixer_return": 1007}], "steps": 11804, "visited": 1827}
+{"image": "stock", "a": 1024, "ref": 4864, "curve": 4864, "ticks": [{"u": 0, "mixer_return": 0}, {"u": 0, "mixer_return": 0}, {"u": 0, "mixer_return": 0}], "steps": 11798, "visited": 1821}
+{"image": "stock", "a": -1024, "ref": -2000, "curve": -4864, "ticks": [{"u": -1024, "mixer_return": -1024}, {"u": -492, "mixer_return": -492}, {"u": -492, "mixer_return": -492}], "steps": 11838, "visited": 1853}
+{"image": "stock", "a": 1024, "ref": -32765, "curve": 4864, "ticks": [{"u": 1024, "mixer_return": 1024}, {"u": 1024, "mixer_return": 1024}, {"u": 1024, "mixer_return": 1024}], "steps": 11813, "visited": 1830}
+{"image": "candidate", "a": 1024, "ref": 0, "curve": 12160, "ticks": [{"u": 2560, "mixer_return": 2560}, {"u": 2090, "mixer_return": 2090}, {"u": 2090, "mixer_return": 2090}], "steps": 11804, "visited": 1827}
+{"image": "candidate", "a": -1024, "ref": 0, "curve": -12160, "ticks": [{"u": -2560, "mixer_return": -2560}, {"u": -2090, "mixer_return": -2090}, {"u": -2090, "mixer_return": -2090}], "steps": 11838, "visited": 1853}
+{"image": "candidate", "a": 400, "ref": 0, "curve": 10064, "ticks": [{"u": 1898, "mixer_return": 1898}, {"u": 1258, "mixer_return": 1258}, {"u": 1258, "mixer_return": 1258}], "steps": 11843, "visited": 1842}
+{"image": "candidate", "a": 1024, "ref": 2000, "curve": 12160, "ticks": [{"u": 2386, "mixer_return": 2386}, {"u": 1746, "mixer_return": 1746}, {"u": 1746, "mixer_return": 1746}], "steps": 11801, "visited": 1824}
+{"image": "candidate", "a": 1024, "ref": -1000, "curve": 12160, "ticks": [{"u": 2560, "mixer_return": 2560}, {"u": 2261, "mixer_return": 2261}, {"u": 2261, "mixer_return": 2261}], "steps": 11804, "visited": 1827}
+{"image": "candidate", "a": 1024, "ref": 4864, "curve": 12160, "ticks": [{"u": 1894, "mixer_return": 1894}, {"u": 1254, "mixer_return": 1254}, {"u": 1254, "mixer_return": 1254}], "steps": 11801, "visited": 1824}
+{"image": "candidate", "a": -1024, "ref": -2000, "curve": -12160, "ticks": [{"u": -2386, "mixer_return": -2386}, {"u": -1746, "mixer_return": -1746}, {"u": -1746, "mixer_return": -1746}], "steps": 11839, "visited": 1849}
+{"image": "candidate", "a": 1024, "ref": -32765, "curve": 12160, "ticks": [{"u": 2560, "mixer_return": 2560}, {"u": 2560, "mixer_return": 2560}, {"u": 2560, "mixer_return": 2560}], "steps": 11813, "visited": 1830}

@@ -1,0 +1,2592 @@
+{
+  "scope": "Synthetic speed=0, bank1 baseline versus in-memory minimum zero. Dispatcher/ramp + preprocessing/fade/PD/mixer + four consistency monitors and aggregation. Zero feedback/base assist. No full boot, CAN parsing, hardware, actual bank-selection policy or motor plant. Injected flags do not test fault detection generation.",
+  "base_rom_sha256": "688f36d6fb0c3b0ae1a3c8d620c509f7279f015b5d74eb05fd98e2abf9b5847c",
+  "cases": [
+    {
+      "variant": "baseline",
+      "case": "engagement",
+      "ticks": 1030,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2560,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 100,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 512,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1023,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1024,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "inhibit",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": -640,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "driver767",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": -7,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "driver768",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": -57,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "driver_negative768",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": -57,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "system_fault",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "monitor3",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": -640,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "config_off",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "request_off",
+      "ticks": 1030,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "bank2",
+      "ticks": 1030,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "bank7",
+      "ticks": 1030,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": -28,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "reverse_command",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2560,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "baseline",
+      "case": "zero_command",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": -640,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "engagement",
+      "ticks": 1030,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 2,
+          "path": 1,
+          "authority": 16,
+          "fade": 1024,
+          "controller": 2560,
+          "mixer": 2,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 2,
+          "path": 1,
+          "authority": 32,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 4,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 2,
+          "path": 1,
+          "authority": 48,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 6,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 100,
+          "state": 2,
+          "path": 1,
+          "authority": 1616,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 204,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 512,
+          "state": 2,
+          "path": 1,
+          "authority": 8208,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 1038,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1023,
+          "state": 2,
+          "path": 1,
+          "authority": 16384,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1024,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "inhibit",
+      "ticks": 8,
+      "peak_abs_mixer": 640,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": -640,
+          "mixer": -640,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "driver767",
+      "ticks": 8,
+      "peak_abs_mixer": 52,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": -7,
+          "mixer": -7,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 52,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 52,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 52,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 52,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 52,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 52,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 192,
+          "controller": 52,
+          "mixer": 52,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "driver768",
+      "ticks": 8,
+      "peak_abs_mixer": 57,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": -57,
+          "mixer": -57,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "driver_negative768",
+      "ticks": 8,
+      "peak_abs_mixer": 57,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": -57,
+          "mixer": -57,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "system_fault",
+      "ticks": 8,
+      "peak_abs_mixer": 12,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 4,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 2,
+          "path": 1,
+          "authority": 16,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 2,
+          "path": 1,
+          "authority": 32,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 4,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 2,
+          "path": 1,
+          "authority": 48,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 6,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 2,
+          "path": 1,
+          "authority": 64,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 8,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 2,
+          "path": 1,
+          "authority": 80,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 10,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 2,
+          "path": 1,
+          "authority": 96,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 12,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "monitor3",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 4,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": -640,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 5,
+          "path": 0,
+          "authority": 0,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "config_off",
+      "ticks": 8,
+      "peak_abs_mixer": 0,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 3,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "request_off",
+      "ticks": 1030,
+      "peak_abs_mixer": 2081,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 2,
+          "path": 2,
+          "authority": 16368,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2070,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 2,
+          "path": 2,
+          "authority": 16352,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2068,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 2,
+          "path": 2,
+          "authority": 16336,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2066,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 2,
+          "path": 2,
+          "authority": 16320,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 2081,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 2,
+          "path": 2,
+          "authority": 16304,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2062,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 2,
+          "path": 2,
+          "authority": 16288,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2060,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 2,
+          "path": 2,
+          "authority": 16272,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2058,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 2,
+          "path": 2,
+          "authority": 16256,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 2073,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "bank2",
+      "ticks": 1030,
+      "peak_abs_mixer": 2081,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 2,
+          "path": 2,
+          "authority": 16368,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2070,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 2,
+          "path": 2,
+          "authority": 16352,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2068,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 2,
+          "path": 2,
+          "authority": 16336,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2066,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 2,
+          "path": 2,
+          "authority": 16320,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 2081,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 2,
+          "path": 2,
+          "authority": 16304,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2062,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 2,
+          "path": 2,
+          "authority": 16288,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2060,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 2,
+          "path": 2,
+          "authority": 16272,
+          "fade": 1024,
+          "controller": 2073,
+          "mixer": 2058,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 2,
+          "path": 2,
+          "authority": 16256,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 2073,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 2090,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "bank7",
+      "ticks": 1030,
+      "peak_abs_mixer": 609,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 2,
+          "path": 2,
+          "authority": 16368,
+          "fade": 1024,
+          "controller": -27,
+          "mixer": -26,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 2,
+          "path": 2,
+          "authority": 16352,
+          "fade": 1024,
+          "controller": 607,
+          "mixer": 605,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 2,
+          "path": 2,
+          "authority": 16336,
+          "fade": 1024,
+          "controller": 607,
+          "mixer": 605,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 2,
+          "path": 2,
+          "authority": 16320,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 609,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 2,
+          "path": 2,
+          "authority": 16304,
+          "fade": 1024,
+          "controller": 607,
+          "mixer": 604,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 2,
+          "path": 2,
+          "authority": 16288,
+          "fade": 1024,
+          "controller": 607,
+          "mixer": 603,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 2,
+          "path": 2,
+          "authority": 16272,
+          "fade": 1024,
+          "controller": 607,
+          "mixer": 602,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 2,
+          "path": 2,
+          "authority": 16256,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 607,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1029,
+          "state": 1,
+          "path": 0,
+          "authority": 0,
+          "fade": 1024,
+          "controller": 612,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "reverse_command",
+      "ticks": 8,
+      "peak_abs_mixer": 2560,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2560,
+          "mixer": -2560,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": -2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": -2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": -2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": -2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": -2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": -2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": -1024,
+          "controller": -2090,
+          "mixer": -2090,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    },
+    {
+      "variant": "bank1_zero_only",
+      "case": "zero_command",
+      "ticks": 8,
+      "peak_abs_mixer": 640,
+      "monitor_nonzero_ticks": 0,
+      "samples": [
+        {
+          "tick": 0,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": -640,
+          "mixer": -640,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 1,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 2,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 3,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 4,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 5,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 6,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        },
+        {
+          "tick": 7,
+          "state": 3,
+          "path": 0,
+          "authority": 16384,
+          "fade": 0,
+          "controller": 0,
+          "mixer": 0,
+          "diagnostic": 0,
+          "monitor_bytes": 0
+        }
+      ]
+    }
+  ]
+}

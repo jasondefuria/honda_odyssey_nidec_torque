@@ -1,0 +1,104 @@
+[
+  {
+    "file": "39990-THR-A020_pure_stock_A010-A020.rwd",
+    "sha256": "b734c504baa389763520940df41fdd64fe3ed2aad1f2c187891818880987e53e",
+    "headers_hex": [
+      [
+        "00"
+      ],
+      [],
+      [
+        "30"
+      ],
+      [
+        "33 39 39 39 30 2d 54 48 52 2d 41 30 32 30 00 00",
+        "33 39 39 39 30 2d 54 48 52 2d 41 30 31 30 00 00"
+      ],
+      [
+        "01 11 01 12 11 20",
+        "01 11 01 12 11 20"
+      ],
+      [
+        "01 02 03"
+      ]
+    ],
+    "ids": [
+      "39990-THR-A020",
+      "39990-THR-A010"
+    ],
+    "address": "0xc000",
+    "length": "0x74000",
+    "layout_valid": true,
+    "outer_checksum_valid": true,
+    "encrypted_payload_matches_previous_stock": true,
+    "decoded_identity_counts": {
+      "39990-THR-A010": 0,
+      "39990-THR-A020": 14,
+      "39990-THR,A020": 0
+    }
+  },
+  {
+    "file": "stock_39990-THR-A020.rwd",
+    "sha256": "90cb1d23d8a27f4c45d52fcbc0a6f08813fb2ae87a0c2f9069f552edd7715edb",
+    "headers_hex": [
+      [
+        "00"
+      ],
+      [],
+      [
+        "30"
+      ],
+      [
+        "33 39 39 39 30 2d 54 48 52 2d 41 30 32 30 00 00",
+        "33 39 39 39 30 2d 54 48 52 2c 41 30 32 30 00 00"
+      ],
+      [
+        "01 11 01 12 11 20",
+        "01 11 01 12 11 20"
+      ],
+      [
+        "01 02 03"
+      ]
+    ],
+    "ids": [
+      "39990-THR-A020",
+      "39990-THR,A020"
+    ],
+    "address": "0xc000",
+    "length": "0x74000",
+    "layout_valid": true,
+    "outer_checksum_valid": true
+  },
+  {
+    "file": "mod25xv1-39990-THR,A020.rwd",
+    "sha256": "7086b01cf9c78b4a094662d8f9f0c9fb915d1ea497d90d56f21c0224c986b9b8",
+    "headers_hex": [
+      [
+        "00"
+      ],
+      [],
+      [
+        "30"
+      ],
+      [
+        "33 39 39 39 30 2d 54 48 52 2d 41 30 32 30 00 00",
+        "33 39 39 39 30 2d 54 48 52 2c 41 30 32 30 00 00"
+      ],
+      [
+        "01 11 01 12 11 20",
+        "01 11 01 12 11 20"
+      ],
+      [
+        "01 02 03"
+      ]
+    ],
+    "ids": [
+      "39990-THR-A020",
+      "39990-THR,A020"
+    ],
+    "address": "0xc000",
+    "length": "0x74000",
+    "layout_valid": true,
+    "outer_checksum_valid": true
+  }
+]

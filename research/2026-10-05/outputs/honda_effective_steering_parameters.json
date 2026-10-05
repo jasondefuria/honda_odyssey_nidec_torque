@@ -1,0 +1,1080 @@
+[
+  {
+    "car": "HONDA_NBOX_2G",
+    "modified": false,
+    "kf": 3.6e-06,
+    "kfBP": [
+      0.0,
+      11.175000190734863,
+      11.175999641418457,
+      22.351999282836914
+    ],
+    "kfV": [
+      2.4000000848900527e-06,
+      1.7999999499807018e-06,
+      3.5999998999614036e-06,
+      6.000000212225132e-06
+    ],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_NBOX_2G",
+    "modified": true,
+    "kf": 3.6e-06,
+    "kfBP": [
+      0.0,
+      11.175000190734863,
+      11.175999641418457,
+      22.351999282836914
+    ],
+    "kfV": [
+      2.4000000848900527e-06,
+      1.7999999499807018e-06,
+      3.5999998999614036e-06,
+      6.000000212225132e-06
+    ],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ACCORD",
+    "modified": false,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ACCORD",
+    "modified": true,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ACCORD_11G",
+    "modified": false,
+    "kf": 3.5000001e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      12789
+    ],
+    "V": [
+      0,
+      12789
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_ACCORD_11G",
+    "modified": true,
+    "kf": 3.5000001e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      12789
+    ],
+    "V": [
+      0,
+      12789
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_CIVIC_BOSCH",
+    "modified": false,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CIVIC_BOSCH",
+    "modified": true,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CIVIC_BOSCH_DIESEL",
+    "modified": false,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CIVIC_BOSCH_DIESEL",
+    "modified": true,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CIVIC_2022",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      5120
+    ],
+    "V": [
+      0,
+      5120
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CIVIC_2022",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      2564,
+      8000
+    ],
+    "V": [
+      0,
+      2564,
+      3840
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_5G",
+    "modified": false,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_5G",
+    "modified": true,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_6G",
+    "modified": false,
+    "kf": 0.0,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      5100
+    ],
+    "V": [
+      0,
+      5100
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_CRV_6G",
+    "modified": true,
+    "kf": 0.0,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      5100
+    ],
+    "V": [
+      0,
+      5100
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_CRV_HYBRID",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_HYBRID",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_HRV_3G",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_HRV_3G",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CITY_7G",
+    "modified": false,
+    "kf": 0.0,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      3840
+    ],
+    "V": [
+      0,
+      3840
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_CITY_7G",
+    "modified": true,
+    "kf": 0.0,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      3840
+    ],
+    "V": [
+      0,
+      3840
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_INSIGHT",
+    "modified": false,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_INSIGHT",
+    "modified": true,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_E",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_E",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_E_ADVANCE",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_E_ADVANCE",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_PILOT_4G",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_PILOT_4G",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_PILOT_4G_MMR",
+    "modified": false,
+    "kf": 3.5000001e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      12789
+    ],
+    "V": [
+      0,
+      12789
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_PILOT_4G_MMR",
+    "modified": true,
+    "kf": 3.5000001e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      12789
+    ],
+    "V": [
+      0,
+      12789
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_PASSPORT_4G",
+    "modified": false,
+    "kf": 3.5000001e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      12789
+    ],
+    "V": [
+      0,
+      12789
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_PASSPORT_4G",
+    "modified": true,
+    "kf": 3.5000001e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      12789
+    ],
+    "V": [
+      0,
+      12789
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_PRELUDE_6G",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_PRELUDE_6G",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ODYSSEY_5G_MMR",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_ODYSSEY_5G_MMR",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_FIT_4G",
+    "modified": false,
+    "kf": 0.0,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_FIT_4G",
+    "modified": true,
+    "kf": 0.0,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.15
+  },
+  {
+    "car": "HONDA_CRV",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      1000
+    ],
+    "V": [
+      0,
+      1000
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      1000
+    ],
+    "V": [
+      0,
+      1000
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_EU",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      1000
+    ],
+    "V": [
+      0,
+      1000
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_EU",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      1000
+    ],
+    "V": [
+      0,
+      1000
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_SA",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      1000
+    ],
+    "V": [
+      0,
+      1000
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CRV_SA",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      1000
+    ],
+    "V": [
+      0,
+      1000
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_FIT",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_FIT",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_FREED",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_FREED",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_HRV",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_HRV",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ODYSSEY",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ODYSSEY",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ODYSSEY_TWN",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      32767
+    ],
+    "V": [
+      0,
+      32767
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ODYSSEY_TWN",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      32767
+    ],
+    "V": [
+      0,
+      32767
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_PILOT",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_PILOT",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_RIDGELINE",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_RIDGELINE",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      4096
+    ],
+    "V": [
+      0,
+      4096
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CIVIC",
+    "modified": false,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      3840
+    ],
+    "V": [
+      0,
+      3840
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CIVIC",
+    "modified": true,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      3840
+    ],
+    "V": [
+      0,
+      3840
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_ACCORD_9G",
+    "modified": false,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      239
+    ],
+    "V": [
+      0,
+      239
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_ACCORD_9G",
+    "modified": true,
+    "kf": 5.9999998e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      239
+    ],
+    "V": [
+      0,
+      239
+    ],
+    "delay": 0.3
+  },
+  {
+    "car": "HONDA_CLARITY",
+    "modified": false,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      3840
+    ],
+    "V": [
+      0,
+      3840
+    ],
+    "delay": 0.1
+  },
+  {
+    "car": "HONDA_CLARITY",
+    "modified": true,
+    "kf": 1.2e-05,
+    "kfBP": [],
+    "kfV": [],
+    "BP": [
+      0,
+      3840
+    ],
+    "V": [
+      0,
+      3840
+    ],
+    "delay": 0.1
+  }
+]

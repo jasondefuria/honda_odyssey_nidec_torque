@@ -1,0 +1,30 @@
+[
+  {
+    "file": "stock_39990-THR-A020.rwd",
+    "sha256": "90cb1d23d8a27f4c45d52fcbc0a6f08813fb2ae87a0c2f9069f552edd7715edb",
+    "raw_file_counts": {
+      "39990-THR-A010": 0,
+      "39990-THR-A020": 1,
+      "39990-THR,A020": 1
+    },
+    "decoded_payload_counts": {
+      "39990-THR-A010": 0,
+      "39990-THR-A020": 14,
+      "39990-THR,A020": 0
+    }
+  },
+  {
+    "file": "mod25xv1-39990-THR,A020.rwd",
+    "sha256": "7086b01cf9c78b4a094662d8f9f0c9fb915d1ea497d90d56f21c0224c986b9b8",
+    "raw_file_counts": {
+      "39990-THR-A010": 0,
+      "39990-THR-A020": 1,
+      "39990-THR,A020": 1
+    },
+    "decoded_payload_counts": {
+      "39990-THR-A010": 0,
+      "39990-THR-A020": 0,
+      "39990-THR,A020": 14
+    }
+  }
+]

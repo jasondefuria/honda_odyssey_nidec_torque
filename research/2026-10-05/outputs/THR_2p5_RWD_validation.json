@@ -1,0 +1,148 @@
+{
+  "rwd_name": "39990-THR-A020_2p5_PEAK_EXPERIMENTAL_UNVALIDATED.rwd",
+  "rwd_size_bytes": 475189,
+  "rwd_sha256": "4a8965d4c5991afa14e250b068d38a268e805699398c51674dfa016200d431eb",
+  "stock_bin_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "stock_rwd_sha256": "5fb7dbc298cfc4c897644f100d664aaa2a55a6c9b46355cd8e13a5f3fd782c4c",
+  "reconstructed_candidate_sha256": "04b48282b8350c2f987af2efe5c59bc73d62fe6bc3ddfbf01eed06b5d27f5189",
+  "download_start": "0xC000",
+  "download_length": "0x74000",
+  "payload_offset": 49,
+  "headers_unchanged": true,
+  "decoded_payload_matches_candidate": true,
+  "lookup_independently_recovered_from_stock": true,
+  "rom_checksum_A": "2393",
+  "rom_checksum_C": "014e",
+  "application_word_sum": 0,
+  "container_byte_sum_trailer": "04554eef",
+  "identity_records_unchanged": true,
+  "banks_4_to_8_unchanged": true,
+  "firmware_changed_bytes": 58,
+  "container_changed_bytes": 60,
+  "deterministic_rebuild": true,
+  "negative_tests": [
+    {
+      "name": "wrong stock hash",
+      "result": "PASS"
+    },
+    {
+      "name": "wrong template hash",
+      "result": "PASS"
+    },
+    {
+      "name": "unreviewed candidate",
+      "result": "PASS"
+    },
+    {
+      "name": "nonbijective lookup",
+      "result": "PASS"
+    },
+    {
+      "name": "incorrect patch preimage",
+      "result": "PASS"
+    },
+    {
+      "name": "incomplete manifest",
+      "result": "PASS"
+    },
+    {
+      "name": "overlapping patch words",
+      "result": "PASS"
+    },
+    {
+      "name": "bad container signature",
+      "result": "PASS"
+    },
+    {
+      "name": "corrupted encrypted payload",
+      "result": "PASS"
+    },
+    {
+      "name": "truncated container",
+      "result": "PASS"
+    },
+    {
+      "name": "trailing data",
+      "result": "PASS"
+    },
+    {
+      "name": "wrong declared length despite valid trailer",
+      "result": "PASS"
+    },
+    {
+      "name": "bad ROM A word",
+      "result": "PASS"
+    },
+    {
+      "name": "bad ROM final sum",
+      "result": "PASS"
+    },
+    {
+      "name": "bad family magic",
+      "result": "PASS"
+    }
+  ],
+  "physical_torque_validation": {
+    "status": "NOT_PERFORMED",
+    "reason": "User confirmed no physical measurements available",
+    "ratio_established": false
+  },
+  "rom_emulation": "FAILED: independent curve consistency monitor",
+  "ecu_programming_acceptance": "NOT_TESTED",
+  "closed_loop_stability": "NOT_TESTED",
+  "road_use_suitability": "NOT_ESTABLISHED",
+  "formula_only_feedback_examples": [
+    {
+      "ref_counts": 0,
+      "stock_u": 836,
+      "candidate_u": 2090,
+      "ratio": 2.5
+    },
+    {
+      "ref_counts": 2000,
+      "stock_u": 492,
+      "candidate_u": 1746,
+      "ratio": 3.548780487804878
+    },
+    {
+      "ref_counts": 4864,
+      "stock_u": 0,
+      "candidate_u": 1254,
+      "ratio": null
+    },
+    {
+      "ref_counts": 6000,
+      "stock_u": -196,
+      "candidate_u": 1058,
+      "ratio": -5.3979591836734695
+    },
+    {
+      "ref_counts": -1000,
+      "stock_u": 1007,
+      "candidate_u": 2261,
+      "ratio": 2.2452830188679247
+    },
+    {
+      "ref_counts": -8000,
+      "stock_u": 1024,
+      "candidate_u": 2560,
+      "ratio": 2.5
+    }
+  ],
+  "interpretation": "2.5 refers only to the modeled zero-feedback steady peak controller output. It is not a verified physical torque ratio or uniform controller multiplier.",
+  "emulator_result": {
+    "method": "Ghidra SuperH:BE:32:SH-2A SLEIGH via pypcode 4.0.0 and local p-code interpreter",
+    "hooks_in_sweep": false,
+    "stock_cases": 2057,
+    "stock_monitor_failures": 0,
+    "candidate_cases": 2057,
+    "candidate_monitor_failures": 2056,
+    "fault_after_evaluations": 3,
+    "flag_address": "0xFFF8A5DB",
+    "flag_value": "0x02",
+    "cause": "Main command curve changed; independent reference at 0x67BD6 remained stock",
+    "source_rwd_sha256": "4a8965d4c5991afa14e250b068d38a268e805699398c51674dfa016200d431eb",
+    "report": "THR_2p5_EMULATOR_REPORT.md"
+  },
+  "release_status": "REJECTED_AFTER_EMULATION_DO_NOT_FLASH"
+}

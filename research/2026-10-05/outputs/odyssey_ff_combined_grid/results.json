@@ -1,0 +1,10586 @@
+[
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 754,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1035,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1089,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -245,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 255,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 569,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 781,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -822,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 192,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 658,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 903,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -950,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -214,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 222,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1894,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2560,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2560,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -617,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 640,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1894,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2560,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2560,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -617,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 640,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1894,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2560,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2560,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -617,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 640,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 754,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1035,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1089,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -245,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 255,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 569,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 781,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -822,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 192,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 658,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 903,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -950,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -214,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 222,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 443,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 609,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -144,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 150,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 340,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 467,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -491,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -110,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 115,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 384,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 527,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -555,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -125,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 130,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1131,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1553,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1633,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -368,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 382,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1131,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1553,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1633,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -368,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 382,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1124,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1543,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1623,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 380,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 443,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 609,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -144,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 150,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 340,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 467,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -491,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -110,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 115,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 384,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 527,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -555,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -125,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 130,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 754,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1035,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1089,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -245,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 255,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 569,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 781,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -822,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 192,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 658,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 903,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -950,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -214,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 222,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1894,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2560,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2560,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -617,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 640,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1894,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2560,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2560,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -617,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 640,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1894,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2560,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2560,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -617,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 640,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 754,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1035,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1089,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -245,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 255,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 569,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 781,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -822,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 192,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 658,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 903,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -950,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -214,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 222,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 443,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 609,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -144,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 150,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 340,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 467,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -491,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -110,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 115,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 384,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 527,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -555,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -125,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 130,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1131,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1553,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1633,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -368,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 382,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1131,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1553,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1633,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -368,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 382,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1124,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1543,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1623,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 380,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 443,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 609,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -144,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 150,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 340,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 467,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -491,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -110,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 115,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 384,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 527,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -555,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -125,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 130,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -101,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 113,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 113,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 57,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 110,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -181,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 61,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 24,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -101,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 176,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 341,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -559,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 190,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 176,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 341,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -559,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 190,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 176,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 341,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -559,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 190,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 306,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 591,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -967,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 329,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 131,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 306,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 591,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -967,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 329,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 131,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 306,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 591,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -967,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 329,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 131,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 176,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 341,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -559,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 190,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 176,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 341,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -559,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 190,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 176,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 341,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -559,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 190,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 115,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 223,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 124,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 115,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 223,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 124,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 115,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 223,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 124,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 202,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 390,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -638,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 217,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 86,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 202,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 390,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -638,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 217,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 86,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 200,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 387,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -634,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 215,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 85,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 115,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 223,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 124,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 115,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 223,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 124,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 115,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 223,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -366,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 124,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -101,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 113,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 113,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -185,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 57,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 110,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -181,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 61,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 24,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 64,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "native",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -101,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 610,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 845,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -848,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -203,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 204,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 460,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 638,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -153,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 154,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 532,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 737,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -740,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -177,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 178,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1531,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2048,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2048,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -510,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 512,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1531,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2048,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2048,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -510,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 512,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1531,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2048,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2048,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -510,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 512,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 610,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 845,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -848,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -203,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 204,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 460,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 638,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -153,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 154,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 532,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 737,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -740,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -177,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 178,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 358,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 497,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -498,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -119,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 120,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 275,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 381,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -382,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -91,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 92,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 310,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 431,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -432,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -103,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 915,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1268,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1272,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -304,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 915,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1268,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1272,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -304,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 909,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1259,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1264,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -302,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 304,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 358,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 497,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -498,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -119,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 120,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 275,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 381,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -382,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -91,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 92,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 310,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 431,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -432,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -103,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 1,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 610,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 845,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -848,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -203,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 204,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 460,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 638,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -153,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 154,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 532,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 737,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -740,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -177,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 178,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1531,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2048,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2048,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -510,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 512,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1531,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2048,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2048,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -510,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 512,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 1531,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 2048,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -2048,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -510,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 512,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 610,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 845,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -848,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -203,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 204,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 460,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 638,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -640,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -153,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 154,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 532,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 737,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -740,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -177,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 178,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 358,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 497,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -498,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -119,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 120,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 275,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 381,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -382,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -91,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 92,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 310,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 431,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -432,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -103,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 915,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1268,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1272,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -304,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 915,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1268,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1272,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -304,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 909,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 1259,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -1264,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -302,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 304,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 358,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 497,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -498,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -119,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 120,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 275,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 381,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -382,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -91,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 92,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 310,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 431,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -432,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": -103,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 3,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 65,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 119,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -191,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 119,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -191,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 61,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -187,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 57,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 24,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": -2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 65,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 188,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 359,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -577,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 178,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 188,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 359,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -577,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 178,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 188,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 359,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -577,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 178,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 326,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 622,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -999,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 308,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 131,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 326,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 622,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -999,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 308,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 131,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 326,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 622,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -999,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 308,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 131,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 188,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 359,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -577,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 178,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 188,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 359,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -577,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 178,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 0,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 188,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 359,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -577,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 178,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 75,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 123,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 235,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -378,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 123,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 235,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -378,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 123,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 235,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -378,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 215,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 410,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -659,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 203,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 86,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 215,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 410,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -659,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 203,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 86,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 213,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 408,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -655,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 202,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 85,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 123,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 235,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -378,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 123,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 235,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -378,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 512,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 123,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 235,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -378,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 49,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": -320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 65,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 119,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -191,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 62,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 119,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -191,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 58,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 25,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 0,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 61,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 116,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -187,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 57,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 24,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      16384,
+      0,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      0,
+      16384,
+      16384
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 35,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 68,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -109,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 33,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 14,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "mode": "combined8",
+    "bank": 7,
+    "schedule": 2176,
+    "rate": 320,
+    "weights": [
+      8192,
+      8192,
+      8192
+    ],
+    "ticks": [
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 0,
+        "flags": 0
+      },
+      {
+        "command": 400,
+        "feedback": 2000,
+        "out": 34,
+        "flags": 0
+      },
+      {
+        "command": 1024,
+        "feedback": 2000,
+        "out": 65,
+        "flags": 0
+      },
+      {
+        "command": -1024,
+        "feedback": -2000,
+        "out": -105,
+        "flags": 0
+      },
+      {
+        "command": -400,
+        "feedback": -2000,
+        "out": 32,
+        "flags": 0
+      },
+      {
+        "command": 0,
+        "feedback": 0,
+        "out": 13,
+        "flags": 0
+      }
+    ]
+  }
+]

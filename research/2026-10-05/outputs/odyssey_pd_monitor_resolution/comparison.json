@@ -1,0 +1,54 @@
+{
+  "controller_outputs_identical": true,
+  "changed_monitor_observations": 180,
+  "results": [
+    {
+      "config": "stock",
+      "ticks": 240,
+      "before_flagged": 0,
+      "after_flagged": 0
+    },
+    {
+      "config": "v4",
+      "ticks": 240,
+      "before_flagged": 0,
+      "after_flagged": 0
+    },
+    {
+      "config": "P_minus_25pct",
+      "ticks": 240,
+      "before_flagged": 72,
+      "after_flagged": 0
+    },
+    {
+      "config": "D_plus_25pct",
+      "ticks": 240,
+      "before_flagged": 36,
+      "after_flagged": 0
+    },
+    {
+      "config": "tracker_minus_25pct",
+      "ticks": 240,
+      "before_flagged": 0,
+      "after_flagged": 0
+    },
+    {
+      "config": "tracker_plus_25pct",
+      "ticks": 240,
+      "before_flagged": 0,
+      "after_flagged": 0
+    },
+    {
+      "config": "limits_minus_20pct",
+      "ticks": 240,
+      "before_flagged": 0,
+      "after_flagged": 0
+    },
+    {
+      "config": "combined_exploratory",
+      "ticks": 240,
+      "before_flagged": 72,
+      "after_flagged": 0
+    }
+  ]
+}

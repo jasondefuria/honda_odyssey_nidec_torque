@@ -1,0 +1,632 @@
+{
+  "scope": "Offline exploratory profile, checksum bytes not repaired, not a flash file",
+  "source_sha256": "9e1af08d018ef905d87bc6db39cea8a740afbcadadd89fe66eaf01ee96e06fc7",
+  "image_length": 524288,
+  "changes": [
+    {
+      "address": "0x57bd3",
+      "original": "9a",
+      "replacement": "34"
+    },
+    {
+      "address": "0x57bd7",
+      "original": "800a",
+      "replacement": "0008"
+    },
+    {
+      "address": "0x57bda",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57c5f",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57c61",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57c63",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57c65",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57c67",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57c69",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57c6b",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x57c6d",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x57c6f",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x57c85",
+      "original": "04",
+      "replacement": "03"
+    },
+    {
+      "address": "0x57c87",
+      "original": "06",
+      "replacement": "04"
+    },
+    {
+      "address": "0x57c89",
+      "original": "08",
+      "replacement": "06"
+    },
+    {
+      "address": "0x57c8b",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57c8d",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57c8f",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57c91",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57c93",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57ed3",
+      "original": "9a",
+      "replacement": "34"
+    },
+    {
+      "address": "0x57ed7",
+      "original": "800a",
+      "replacement": "0008"
+    },
+    {
+      "address": "0x57eda",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57f5f",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57f61",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57f63",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57f65",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57f67",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57f69",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x57f6b",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x57f6d",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x57f6f",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x57f85",
+      "original": "04",
+      "replacement": "03"
+    },
+    {
+      "address": "0x57f87",
+      "original": "06",
+      "replacement": "04"
+    },
+    {
+      "address": "0x57f89",
+      "original": "08",
+      "replacement": "06"
+    },
+    {
+      "address": "0x57f8b",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57f8d",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57f8f",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57f91",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x57f93",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x581d3",
+      "original": "9a",
+      "replacement": "34"
+    },
+    {
+      "address": "0x581d7",
+      "original": "800a",
+      "replacement": "0008"
+    },
+    {
+      "address": "0x581da",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x5825f",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x58261",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x58263",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x58265",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x58267",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x58269",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x5826b",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x5826d",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x5826f",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x58285",
+      "original": "04",
+      "replacement": "03"
+    },
+    {
+      "address": "0x58287",
+      "original": "06",
+      "replacement": "04"
+    },
+    {
+      "address": "0x58289",
+      "original": "08",
+      "replacement": "06"
+    },
+    {
+      "address": "0x5828b",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x5828d",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x5828f",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x58291",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x58293",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67bed",
+      "original": "800a",
+      "replacement": "0008"
+    },
+    {
+      "address": "0x67bf0",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67c85",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67c87",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67c89",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67c8b",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67c8d",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67c8f",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67c91",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x67c93",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x67c95",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x67caf",
+      "original": "04",
+      "replacement": "03"
+    },
+    {
+      "address": "0x67cb1",
+      "original": "06",
+      "replacement": "04"
+    },
+    {
+      "address": "0x67cb3",
+      "original": "08",
+      "replacement": "06"
+    },
+    {
+      "address": "0x67cb5",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67cb7",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67cb9",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67cbb",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67cbd",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67eed",
+      "original": "800a",
+      "replacement": "0008"
+    },
+    {
+      "address": "0x67ef0",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67f85",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67f87",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67f89",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67f8b",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67f8d",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67f8f",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x67f91",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x67f93",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x67f95",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x67faf",
+      "original": "04",
+      "replacement": "03"
+    },
+    {
+      "address": "0x67fb1",
+      "original": "06",
+      "replacement": "04"
+    },
+    {
+      "address": "0x67fb3",
+      "original": "08",
+      "replacement": "06"
+    },
+    {
+      "address": "0x67fb5",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67fb7",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67fb9",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67fbb",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x67fbd",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x681ed",
+      "original": "800a",
+      "replacement": "0008"
+    },
+    {
+      "address": "0x681f0",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x68285",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x68287",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x68289",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x6828b",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x6828d",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x6828f",
+      "original": "20",
+      "replacement": "28"
+    },
+    {
+      "address": "0x68291",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x68293",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x68295",
+      "original": "10",
+      "replacement": "14"
+    },
+    {
+      "address": "0x682af",
+      "original": "04",
+      "replacement": "03"
+    },
+    {
+      "address": "0x682b1",
+      "original": "06",
+      "replacement": "04"
+    },
+    {
+      "address": "0x682b3",
+      "original": "08",
+      "replacement": "06"
+    },
+    {
+      "address": "0x682b5",
+      "original": "0a",
+      "replacement": "08"
+    },
+    {
+      "address": "0x682b7",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x682b9",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x682bb",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x682bd",
+      "original": "0b",
+      "replacement": "08"
+    },
+    {
+      "address": "0x6b718",
+      "original": "3ef1601736f1502662e332d8",
+      "replacement": "2f36d301432b63f600075900"
+    },
+    {
+      "address": "0x74a98",
+      "original": "628f661f30f16034326c3f21203f4280",
+      "replacement": "2f36d301432b63f60007580000090009"
+    },
+    {
+      "address": "0x75800",
+      "original": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "replacement": "628f661f30f16034326c2f062f162f462f562f664f1264f3747f74296441d50d254f041ae5f6445c324cd40b324389006243d50a3523890062534f1666f665f664f661f660f63f21203f42802f36d304432b63f600000008"
+    },
+    {
+      "address": "0x7585a",
+      "original": "ffffffffff",
+      "replacement": "800100007f"
+    },
+    {
+      "address": "0x75860",
+      "original": "ffffffff",
+      "replacement": "00074aa8"
+    },
+    {
+      "address": "0x75900",
+      "original": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "replacement": "3ef1601736f1502662d3326c2f062f162f462f562f664f1264f3747f740d6441d50d254f041ae5f6445c324cd40b324389006243d50a3523890062534f1666f665f664f661f660f6622b32ec326c2f36d304432b63f6000900000008"
+    },
+    {
+      "address": "0x7595e",
+      "original": "ffffffffff",
+      "replacement": "800100007f"
+    },
+    {
+      "address": "0x75964",
+      "original": "ffffffff",
+      "replacement": "0006b724"
+    }
+  ]
+}

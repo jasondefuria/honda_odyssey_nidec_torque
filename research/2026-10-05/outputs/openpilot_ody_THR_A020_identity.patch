@@ -1,0 +1,61 @@
+diff --git a/opendbc_repo/opendbc/sunnypilot/car/honda/fingerprints_ext.py b/opendbc_repo/opendbc/sunnypilot/car/honda/fingerprints_ext.py
+index c1cd539..bba8a12 100644
+--- a/opendbc_repo/opendbc/sunnypilot/car/honda/fingerprints_ext.py
++++ b/opendbc_repo/opendbc/sunnypilot/car/honda/fingerprints_ext.py
+@@ -11,6 +11,11 @@ from opendbc.car.honda.values import CAR
+ Ecu = CarParams.Ecu
+ 
+ FW_VERSIONS_EXT = {
++  CAR.HONDA_ODYSSEY: {
++    (Ecu.eps, 0x18da30f1, None): [
++      b'39990-THR,A020\x00\x00',
++    ],
++  },
+   CAR.HONDA_ACCORD: {
+     (Ecu.eps, 0x18da30f1, None): [
+       b'39990-TVA,A150\x00\x00',
+diff --git a/opendbc_repo/opendbc/sunnypilot/car/honda/test_honda.py b/opendbc_repo/opendbc/sunnypilot/car/honda/test_honda.py
+index 2d9dfea..76459e9 100644
+--- a/opendbc_repo/opendbc/sunnypilot/car/honda/test_honda.py
++++ b/opendbc_repo/opendbc/sunnypilot/car/honda/test_honda.py
+@@ -12,9 +12,11 @@ from opendbc.car import gen_empty_fingerprint
+ from opendbc.car.common.conversions import Conversions as CV
+ from opendbc.car.structs import CarParams
+ from opendbc.car.car_helpers import interfaces
++from opendbc.car.fingerprints import FW_VERSIONS
++from opendbc.car.fw_versions import match_fw_to_car_exact
+ from opendbc.car.honda.values import CAR, HONDA_GAS_INTERCEPTOR_THRESHOLD_512
+ from opendbc.sunnypilot.car.honda.interface_ext import TORQUE_MOD_PID_CARS
+-from opendbc.sunnypilot.car.honda.values_ext import HondaSafetyFlagsSP
++from opendbc.sunnypilot.car.honda.values_ext import HondaFlagsSP, HondaSafetyFlagsSP
+ 
+ CarFw = CarParams.CarFw
+ 
+@@ -34,6 +36,27 @@ class TestHondaEpsMod(unittest.TestCase):
+     self.assertFalse(CP.dashcamOnly)
+ 
+ 
++  @parameterized("fw, modified", [(b'39990-THR-A020\x00\x00', False), (b'39990-THR,A020\x00\x00', True)])
++  def test_odyssey_eps_identity(self, fw, modified):
++    candidate = CAR.HONDA_ODYSSEY
++    live = {(addr, subaddr): {versions[0]} for (_, addr, subaddr), versions in FW_VERSIONS[candidate].items()}
++    live[(0x18da30f1, None)] = {fw}
++    self.assertEqual(match_fw_to_car_exact(live, match_brand="honda", log=False), {candidate})
++
++    fingerprint = gen_empty_fingerprint()
++    car_fw = [CarFw(ecu="eps", fwVersion=fw)]
++    interface = interfaces[candidate]
++    cp = interface.get_params(candidate, fingerprint, car_fw, False, False, False)
++    cp_sp = interface.get_params_sp(cp, candidate, fingerprint, car_fw, False, False, False)
++    self.assertEqual(bool(cp_sp.flags & HondaFlagsSP.EPS_MODIFIED), modified)
++
++  def test_odyssey_unknown_eps_identity(self):
++    candidate = CAR.HONDA_ODYSSEY
++    live = {(addr, subaddr): {versions[0]} for (_, addr, subaddr), versions in FW_VERSIONS[candidate].items()}
++    live[(0x18da30f1, None)] = {b'39990-THR,A999\x00\x00'}
++    self.assertNotIn(candidate, match_fw_to_car_exact(live, match_brand="honda", log=False))
++
++
+ class TestHondaGasInterceptor(unittest.TestCase):
+ 
+   @parameterized("car_name", [*HONDA_GAS_INTERCEPTOR_THRESHOLD_512, CAR.HONDA_CLARITY])

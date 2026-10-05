@@ -1,0 +1,88 @@
+[
+  {
+    "name": "v4",
+    "file": "/Users/jasondefuria/Downloads/mod4/mod25xv4-39990-THR,A020.rwd",
+    "sha256": "9e1af08d018ef905d87bc6db39cea8a740afbcadadd89fe66eaf01ee96e06fc7",
+    "checks": [
+      {
+        "name": "CRC 40000\u20134FF5F",
+        "address": "0x4ff7c",
+        "stored": "134AE5B1",
+        "computed": "134AE5B1",
+        "passed": true
+      },
+      {
+        "name": "CRC 60000\u20136FF5F",
+        "address": "0x6ff7c",
+        "stored": "DA5B0744",
+        "computed": "DA5B0744",
+        "passed": true
+      },
+      {
+        "name": "Application A",
+        "address": "0x7ff80",
+        "stored": "5E6D",
+        "computed": "5E6D",
+        "passed": true
+      },
+      {
+        "name": "Application C",
+        "address": "0x7fffe",
+        "stored": "8B9A",
+        "computed": "8B9A",
+        "passed": true
+      },
+      {
+        "name": "RWD container",
+        "stored": "045554EA",
+        "computed": "045554EA",
+        "passed": true
+      }
+    ],
+    "payload_word_sum": "0000",
+    "all_pass": true
+  },
+  {
+    "name": "PTM",
+    "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/odyssey_ptm_candidate/PTM-39990-THR,A020-EXPERIMENTAL.rwd",
+    "sha256": "1c45356e7dffd85a416d79ae262641756f2bdc37e99fe9f0422981f1a4e033f1",
+    "checks": [
+      {
+        "name": "CRC 40000\u20134FF5F",
+        "address": "0x4ff7c",
+        "stored": "134AE5B1",
+        "computed": "134AE5B1",
+        "passed": true
+      },
+      {
+        "name": "CRC 60000\u20136FF5F",
+        "address": "0x6ff7c",
+        "stored": "A7CE0AE2",
+        "computed": "A7CE0AE2",
+        "passed": true
+      },
+      {
+        "name": "Application A",
+        "address": "0x7ff80",
+        "stored": "1A33",
+        "computed": "1A33",
+        "passed": true
+      },
+      {
+        "name": "Application C",
+        "address": "0x7fffe",
+        "stored": "140E",
+        "computed": "140E",
+        "passed": true
+      },
+      {
+        "name": "RWD container",
+        "stored": "0454D4B7",
+        "computed": "0454D4B7",
+        "passed": true
+      }
+    ],
+    "payload_word_sum": "0000",
+    "all_pass": true
+  }
+]

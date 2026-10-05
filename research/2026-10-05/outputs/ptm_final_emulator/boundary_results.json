@@ -1,0 +1,1252 @@
+[
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -32768,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -32768,
+    "d": -640,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -32768,
+    "d": 0,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -32768,
+    "d": 640,
+    "expected": -32384,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -32768,
+    "d": 32767,
+    "expected": -257,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -2560,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -2560,
+    "d": -640,
+    "expected": -3456,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -2560,
+    "d": 0,
+    "expected": -2816,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -2560,
+    "d": 640,
+    "expected": -2176,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": -2560,
+    "d": 32767,
+    "expected": 29951,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 0,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 0,
+    "d": -640,
+    "expected": -896,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 0,
+    "d": 0,
+    "expected": -256,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 0,
+    "d": 640,
+    "expected": 384,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 0,
+    "d": 32767,
+    "expected": 32511,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 2560,
+    "d": -32768,
+    "expected": -30464,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 2560,
+    "d": -640,
+    "expected": 1664,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 2560,
+    "d": 0,
+    "expected": 2304,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 2560,
+    "d": 640,
+    "expected": 2944,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 2560,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 32767,
+    "d": -32768,
+    "expected": -257,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 32767,
+    "d": -640,
+    "expected": 31871,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 32767,
+    "d": 0,
+    "expected": 32511,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 32767,
+    "d": 640,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -32768,
+    "p": 32767,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -32768,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -32768,
+    "d": -640,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -32768,
+    "d": 0,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -32768,
+    "d": 640,
+    "expected": -32129,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -32768,
+    "d": 32767,
+    "expected": -2,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -2560,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -2560,
+    "d": -640,
+    "expected": -3201,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -2560,
+    "d": 0,
+    "expected": -2561,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -2560,
+    "d": 640,
+    "expected": -1921,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": -2560,
+    "d": 32767,
+    "expected": 30206,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 0,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 0,
+    "d": -640,
+    "expected": -641,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 0,
+    "d": 0,
+    "expected": -1,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 0,
+    "d": 640,
+    "expected": 639,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 0,
+    "d": 32767,
+    "expected": 32766,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 2560,
+    "d": -32768,
+    "expected": -30209,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 2560,
+    "d": -640,
+    "expected": 1919,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 2560,
+    "d": 0,
+    "expected": 2559,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 2560,
+    "d": 640,
+    "expected": 3199,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 2560,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 32767,
+    "d": -32768,
+    "expected": -2,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 32767,
+    "d": -640,
+    "expected": 32126,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 32767,
+    "d": 0,
+    "expected": 32766,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 32767,
+    "d": 640,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": -1,
+    "p": 32767,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -32768,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -32768,
+    "d": -640,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -32768,
+    "d": 0,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -32768,
+    "d": 640,
+    "expected": -32128,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -32768,
+    "d": 32767,
+    "expected": -1,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -2560,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -2560,
+    "d": -640,
+    "expected": -3200,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -2560,
+    "d": 0,
+    "expected": -2560,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -2560,
+    "d": 640,
+    "expected": -1920,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": -2560,
+    "d": 32767,
+    "expected": 30207,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 0,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 0,
+    "d": -640,
+    "expected": -640,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 0,
+    "d": 0,
+    "expected": 0,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 0,
+    "d": 640,
+    "expected": 640,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 0,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 2560,
+    "d": -32768,
+    "expected": -30208,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 2560,
+    "d": -640,
+    "expected": 1920,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 2560,
+    "d": 0,
+    "expected": 2560,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 2560,
+    "d": 640,
+    "expected": 3200,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 2560,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 32767,
+    "d": -32768,
+    "expected": -1,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 32767,
+    "d": -640,
+    "expected": 32127,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 32767,
+    "d": 0,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 32767,
+    "d": 640,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 0,
+    "p": 32767,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -32768,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -32768,
+    "d": -640,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -32768,
+    "d": 0,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -32768,
+    "d": 640,
+    "expected": -32128,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -32768,
+    "d": 32767,
+    "expected": -1,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -2560,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -2560,
+    "d": -640,
+    "expected": -3200,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -2560,
+    "d": 0,
+    "expected": -2560,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -2560,
+    "d": 640,
+    "expected": -1920,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": -2560,
+    "d": 32767,
+    "expected": 30207,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 0,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 0,
+    "d": -640,
+    "expected": -640,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 0,
+    "d": 0,
+    "expected": 0,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 0,
+    "d": 640,
+    "expected": 640,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 0,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 2560,
+    "d": -32768,
+    "expected": -30208,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 2560,
+    "d": -640,
+    "expected": 1920,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 2560,
+    "d": 0,
+    "expected": 2560,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 2560,
+    "d": 640,
+    "expected": 3200,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 2560,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 32767,
+    "d": -32768,
+    "expected": -1,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 32767,
+    "d": -640,
+    "expected": 32127,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 32767,
+    "d": 0,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 32767,
+    "d": 640,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 1,
+    "p": 32767,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -32768,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -32768,
+    "d": -640,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -32768,
+    "d": 0,
+    "expected": -32513,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -32768,
+    "d": 640,
+    "expected": -31873,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -32768,
+    "d": 32767,
+    "expected": 254,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -2560,
+    "d": -32768,
+    "expected": -32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -2560,
+    "d": -640,
+    "expected": -2945,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -2560,
+    "d": 0,
+    "expected": -2305,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -2560,
+    "d": 640,
+    "expected": -1665,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": -2560,
+    "d": 32767,
+    "expected": 30462,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 0,
+    "d": -32768,
+    "expected": -32513,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 0,
+    "d": -640,
+    "expected": -385,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 0,
+    "d": 0,
+    "expected": 255,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 0,
+    "d": 640,
+    "expected": 895,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 0,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 2560,
+    "d": -32768,
+    "expected": -29953,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 2560,
+    "d": -640,
+    "expected": 2175,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 2560,
+    "d": 0,
+    "expected": 2815,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 2560,
+    "d": 640,
+    "expected": 3455,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 2560,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 32767,
+    "d": -32768,
+    "expected": 254,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 32767,
+    "d": -640,
+    "expected": 32382,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 32767,
+    "d": 0,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 32767,
+    "d": 640,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  },
+  {
+    "gain": 8,
+    "target": 32767,
+    "p": 32767,
+    "d": 32767,
+    "expected": 32767,
+    "controller_pass": true,
+    "monitor_good_pass": true,
+    "monitor_corruption_detectable": true
+  }
+]

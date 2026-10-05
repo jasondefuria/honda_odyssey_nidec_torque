@@ -1,0 +1,6302 @@
+[
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2075,
+        "scaled": -8128,
+        "flags": 0
+      },
+      {
+        "out": -2071,
+        "scaled": -8113,
+        "flags": 0
+      },
+      {
+        "out": -2066,
+        "scaled": -8093,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2090,
+        "scaled": -8187,
+        "flags": 0
+      },
+      {
+        "out": -2090,
+        "scaled": -8187,
+        "flags": 0
+      },
+      {
+        "out": -2090,
+        "scaled": -8187,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2104,
+        "scaled": -8242,
+        "flags": 0
+      },
+      {
+        "out": -2108,
+        "scaled": -8258,
+        "flags": 0
+      },
+      {
+        "out": -2112,
+        "scaled": -8273,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -1894,
+        "scaled": -7419,
+        "flags": 0
+      },
+      {
+        "out": -1239,
+        "scaled": -4854,
+        "flags": 0
+      },
+      {
+        "out": -1236,
+        "scaled": -4842,
+        "flags": 0
+      },
+      {
+        "out": -1233,
+        "scaled": -4830,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1898,
+        "scaled": -7435,
+        "flags": 0
+      },
+      {
+        "out": -1258,
+        "scaled": -4928,
+        "flags": 0
+      },
+      {
+        "out": -1258,
+        "scaled": -4928,
+        "flags": 0
+      },
+      {
+        "out": -1258,
+        "scaled": -4928,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1901,
+        "scaled": -7447,
+        "flags": 0
+      },
+      {
+        "out": -1276,
+        "scaled": -4999,
+        "flags": 0
+      },
+      {
+        "out": -1279,
+        "scaled": -5010,
+        "flags": 0
+      },
+      {
+        "out": -1282,
+        "scaled": -5022,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1901,
+        "scaled": 7446,
+        "flags": 0
+      },
+      {
+        "out": 1276,
+        "scaled": 4998,
+        "flags": 0
+      },
+      {
+        "out": 1279,
+        "scaled": 5009,
+        "flags": 0
+      },
+      {
+        "out": 1282,
+        "scaled": 5021,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1898,
+        "scaled": 7434,
+        "flags": 0
+      },
+      {
+        "out": 1258,
+        "scaled": 4927,
+        "flags": 0
+      },
+      {
+        "out": 1258,
+        "scaled": 4927,
+        "flags": 0
+      },
+      {
+        "out": 1258,
+        "scaled": 4927,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 1894,
+        "scaled": 7418,
+        "flags": 0
+      },
+      {
+        "out": 1239,
+        "scaled": 4853,
+        "flags": 0
+      },
+      {
+        "out": 1236,
+        "scaled": 4841,
+        "flags": 0
+      },
+      {
+        "out": 1233,
+        "scaled": 4829,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2104,
+        "scaled": 8241,
+        "flags": 0
+      },
+      {
+        "out": 2108,
+        "scaled": 8257,
+        "flags": 0
+      },
+      {
+        "out": 2113,
+        "scaled": 8276,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2090,
+        "scaled": 8186,
+        "flags": 0
+      },
+      {
+        "out": 2090,
+        "scaled": 8186,
+        "flags": 0
+      },
+      {
+        "out": 2090,
+        "scaled": 8186,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2075,
+        "scaled": 8127,
+        "flags": 0
+      },
+      {
+        "out": 2071,
+        "scaled": 8112,
+        "flags": 0
+      },
+      {
+        "out": 2067,
+        "scaled": 8096,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2075,
+        "scaled": -8128,
+        "flags": 0
+      },
+      {
+        "out": -2071,
+        "scaled": -8113,
+        "flags": 0
+      },
+      {
+        "out": -2066,
+        "scaled": -8093,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2090,
+        "scaled": -8187,
+        "flags": 0
+      },
+      {
+        "out": -2090,
+        "scaled": -8187,
+        "flags": 0
+      },
+      {
+        "out": -2090,
+        "scaled": -8187,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2104,
+        "scaled": -8242,
+        "flags": 0
+      },
+      {
+        "out": -2108,
+        "scaled": -8258,
+        "flags": 0
+      },
+      {
+        "out": -2112,
+        "scaled": -8273,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -1894,
+        "scaled": -7419,
+        "flags": 0
+      },
+      {
+        "out": -1239,
+        "scaled": -4854,
+        "flags": 0
+      },
+      {
+        "out": -1236,
+        "scaled": -4842,
+        "flags": 0
+      },
+      {
+        "out": -1233,
+        "scaled": -4830,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1898,
+        "scaled": -7435,
+        "flags": 0
+      },
+      {
+        "out": -1258,
+        "scaled": -4928,
+        "flags": 0
+      },
+      {
+        "out": -1258,
+        "scaled": -4928,
+        "flags": 0
+      },
+      {
+        "out": -1258,
+        "scaled": -4928,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1901,
+        "scaled": -7447,
+        "flags": 0
+      },
+      {
+        "out": -1276,
+        "scaled": -4999,
+        "flags": 0
+      },
+      {
+        "out": -1279,
+        "scaled": -5010,
+        "flags": 0
+      },
+      {
+        "out": -1282,
+        "scaled": -5022,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1901,
+        "scaled": 7446,
+        "flags": 0
+      },
+      {
+        "out": 1276,
+        "scaled": 4998,
+        "flags": 0
+      },
+      {
+        "out": 1279,
+        "scaled": 5009,
+        "flags": 0
+      },
+      {
+        "out": 1282,
+        "scaled": 5021,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1898,
+        "scaled": 7434,
+        "flags": 0
+      },
+      {
+        "out": 1258,
+        "scaled": 4927,
+        "flags": 0
+      },
+      {
+        "out": 1258,
+        "scaled": 4927,
+        "flags": 0
+      },
+      {
+        "out": 1258,
+        "scaled": 4927,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 1894,
+        "scaled": 7418,
+        "flags": 0
+      },
+      {
+        "out": 1239,
+        "scaled": 4853,
+        "flags": 0
+      },
+      {
+        "out": 1236,
+        "scaled": 4841,
+        "flags": 0
+      },
+      {
+        "out": 1233,
+        "scaled": 4829,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2104,
+        "scaled": 8241,
+        "flags": 0
+      },
+      {
+        "out": 2108,
+        "scaled": 8257,
+        "flags": 0
+      },
+      {
+        "out": 2113,
+        "scaled": 8276,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2090,
+        "scaled": 8186,
+        "flags": 0
+      },
+      {
+        "out": 2090,
+        "scaled": 8186,
+        "flags": 0
+      },
+      {
+        "out": 2090,
+        "scaled": 8186,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2075,
+        "scaled": 8127,
+        "flags": 0
+      },
+      {
+        "out": 2071,
+        "scaled": 8112,
+        "flags": 0
+      },
+      {
+        "out": 2067,
+        "scaled": 8096,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -846,
+        "scaled": -3314,
+        "flags": 0
+      },
+      {
+        "out": -246,
+        "scaled": -964,
+        "flags": 0
+      },
+      {
+        "out": -279,
+        "scaled": -1093,
+        "flags": 0
+      },
+      {
+        "out": -282,
+        "scaled": -1105,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -879,
+        "scaled": -3444,
+        "flags": 0
+      },
+      {
+        "out": -847,
+        "scaled": -3318,
+        "flags": 0
+      },
+      {
+        "out": -844,
+        "scaled": -3306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -306,
+        "scaled": -1199,
+        "flags": 0
+      },
+      {
+        "out": -52,
+        "scaled": -204,
+        "flags": 0
+      },
+      {
+        "out": -84,
+        "scaled": -330,
+        "flags": 0
+      },
+      {
+        "out": -87,
+        "scaled": -341,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1008,
+        "scaled": -3949,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -685,
+        "scaled": -2684,
+        "flags": 0
+      },
+      {
+        "out": -652,
+        "scaled": -2554,
+        "flags": 0
+      },
+      {
+        "out": -649,
+        "scaled": -2543,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 344,
+        "scaled": 1347,
+        "flags": 0
+      },
+      {
+        "out": 85,
+        "scaled": 332,
+        "flags": 0
+      },
+      {
+        "out": 63,
+        "scaled": 246,
+        "flags": 0
+      },
+      {
+        "out": 62,
+        "scaled": 242,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -344,
+        "scaled": -1348,
+        "flags": 0
+      },
+      {
+        "out": -85,
+        "scaled": -333,
+        "flags": 0
+      },
+      {
+        "out": -63,
+        "scaled": -247,
+        "flags": 0
+      },
+      {
+        "out": -62,
+        "scaled": -243,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 685,
+        "scaled": 2683,
+        "flags": 0
+      },
+      {
+        "out": 652,
+        "scaled": 2553,
+        "flags": 0
+      },
+      {
+        "out": 649,
+        "scaled": 2542,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1008,
+        "scaled": 3948,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 306,
+        "scaled": 1198,
+        "flags": 0
+      },
+      {
+        "out": 52,
+        "scaled": 203,
+        "flags": 0
+      },
+      {
+        "out": 84,
+        "scaled": 329,
+        "flags": 0
+      },
+      {
+        "out": 87,
+        "scaled": 340,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 879,
+        "scaled": 3443,
+        "flags": 0
+      },
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 844,
+        "scaled": 3305,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "zero",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 246,
+        "scaled": 963,
+        "flags": 0
+      },
+      {
+        "out": 279,
+        "scaled": 1092,
+        "flags": 0
+      },
+      {
+        "out": 282,
+        "scaled": 1104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2170,
+        "scaled": -8500,
+        "flags": 0
+      },
+      {
+        "out": -2166,
+        "scaled": -8485,
+        "flags": 0
+      },
+      {
+        "out": -2161,
+        "scaled": -8465,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2199,
+        "scaled": -8614,
+        "flags": 0
+      },
+      {
+        "out": -2203,
+        "scaled": -8630,
+        "flags": 0
+      },
+      {
+        "out": -2207,
+        "scaled": -8645,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -1973,
+        "scaled": -7729,
+        "flags": 0
+      },
+      {
+        "out": -1318,
+        "scaled": -5163,
+        "flags": 0
+      },
+      {
+        "out": -1315,
+        "scaled": -5151,
+        "flags": 0
+      },
+      {
+        "out": -1312,
+        "scaled": -5140,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1977,
+        "scaled": -7744,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1980,
+        "scaled": -7756,
+        "flags": 0
+      },
+      {
+        "out": -1355,
+        "scaled": -5308,
+        "flags": 0
+      },
+      {
+        "out": -1358,
+        "scaled": -5320,
+        "flags": 0
+      },
+      {
+        "out": -1361,
+        "scaled": -5332,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1979,
+        "scaled": 7751,
+        "flags": 0
+      },
+      {
+        "out": 1354,
+        "scaled": 5303,
+        "flags": 0
+      },
+      {
+        "out": 1357,
+        "scaled": 5315,
+        "flags": 0
+      },
+      {
+        "out": 1360,
+        "scaled": 5327,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1976,
+        "scaled": 7739,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 1972,
+        "scaled": 7724,
+        "flags": 0
+      },
+      {
+        "out": 1317,
+        "scaled": 5158,
+        "flags": 0
+      },
+      {
+        "out": 1314,
+        "scaled": 5146,
+        "flags": 0
+      },
+      {
+        "out": 1311,
+        "scaled": 5135,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2199,
+        "scaled": 8613,
+        "flags": 0
+      },
+      {
+        "out": 2203,
+        "scaled": 8629,
+        "flags": 0
+      },
+      {
+        "out": 2208,
+        "scaled": 8648,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2170,
+        "scaled": 8499,
+        "flags": 0
+      },
+      {
+        "out": 2166,
+        "scaled": 8484,
+        "flags": 0
+      },
+      {
+        "out": 2162,
+        "scaled": 8468,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2170,
+        "scaled": -8500,
+        "flags": 0
+      },
+      {
+        "out": -2166,
+        "scaled": -8485,
+        "flags": 0
+      },
+      {
+        "out": -2161,
+        "scaled": -8465,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2199,
+        "scaled": -8614,
+        "flags": 0
+      },
+      {
+        "out": -2203,
+        "scaled": -8630,
+        "flags": 0
+      },
+      {
+        "out": -2207,
+        "scaled": -8645,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -1973,
+        "scaled": -7729,
+        "flags": 0
+      },
+      {
+        "out": -1318,
+        "scaled": -5163,
+        "flags": 0
+      },
+      {
+        "out": -1315,
+        "scaled": -5151,
+        "flags": 0
+      },
+      {
+        "out": -1312,
+        "scaled": -5140,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1977,
+        "scaled": -7744,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1980,
+        "scaled": -7756,
+        "flags": 0
+      },
+      {
+        "out": -1355,
+        "scaled": -5308,
+        "flags": 0
+      },
+      {
+        "out": -1358,
+        "scaled": -5320,
+        "flags": 0
+      },
+      {
+        "out": -1361,
+        "scaled": -5332,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1979,
+        "scaled": 7751,
+        "flags": 0
+      },
+      {
+        "out": 1354,
+        "scaled": 5303,
+        "flags": 0
+      },
+      {
+        "out": 1357,
+        "scaled": 5315,
+        "flags": 0
+      },
+      {
+        "out": 1360,
+        "scaled": 5327,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1976,
+        "scaled": 7739,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 1972,
+        "scaled": 7724,
+        "flags": 0
+      },
+      {
+        "out": 1317,
+        "scaled": 5158,
+        "flags": 0
+      },
+      {
+        "out": 1314,
+        "scaled": 5146,
+        "flags": 0
+      },
+      {
+        "out": 1311,
+        "scaled": 5135,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2199,
+        "scaled": 8613,
+        "flags": 0
+      },
+      {
+        "out": 2203,
+        "scaled": 8629,
+        "flags": 0
+      },
+      {
+        "out": 2208,
+        "scaled": 8648,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2170,
+        "scaled": 8499,
+        "flags": 0
+      },
+      {
+        "out": 2166,
+        "scaled": 8484,
+        "flags": 0
+      },
+      {
+        "out": 2162,
+        "scaled": 8468,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -846,
+        "scaled": -3314,
+        "flags": 0
+      },
+      {
+        "out": -246,
+        "scaled": -964,
+        "flags": 0
+      },
+      {
+        "out": -279,
+        "scaled": -1093,
+        "flags": 0
+      },
+      {
+        "out": -282,
+        "scaled": -1105,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -879,
+        "scaled": -3444,
+        "flags": 0
+      },
+      {
+        "out": -847,
+        "scaled": -3318,
+        "flags": 0
+      },
+      {
+        "out": -844,
+        "scaled": -3306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -306,
+        "scaled": -1199,
+        "flags": 0
+      },
+      {
+        "out": -52,
+        "scaled": -204,
+        "flags": 0
+      },
+      {
+        "out": -84,
+        "scaled": -330,
+        "flags": 0
+      },
+      {
+        "out": -87,
+        "scaled": -341,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1008,
+        "scaled": -3949,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -685,
+        "scaled": -2684,
+        "flags": 0
+      },
+      {
+        "out": -652,
+        "scaled": -2554,
+        "flags": 0
+      },
+      {
+        "out": -649,
+        "scaled": -2543,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 344,
+        "scaled": 1347,
+        "flags": 0
+      },
+      {
+        "out": 85,
+        "scaled": 332,
+        "flags": 0
+      },
+      {
+        "out": 63,
+        "scaled": 246,
+        "flags": 0
+      },
+      {
+        "out": 62,
+        "scaled": 242,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -344,
+        "scaled": -1348,
+        "flags": 0
+      },
+      {
+        "out": -85,
+        "scaled": -333,
+        "flags": 0
+      },
+      {
+        "out": -63,
+        "scaled": -247,
+        "flags": 0
+      },
+      {
+        "out": -62,
+        "scaled": -243,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 685,
+        "scaled": 2683,
+        "flags": 0
+      },
+      {
+        "out": 652,
+        "scaled": 2553,
+        "flags": 0
+      },
+      {
+        "out": 649,
+        "scaled": 2542,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1008,
+        "scaled": 3948,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 306,
+        "scaled": 1198,
+        "flags": 0
+      },
+      {
+        "out": 52,
+        "scaled": 203,
+        "flags": 0
+      },
+      {
+        "out": 84,
+        "scaled": 329,
+        "flags": 0
+      },
+      {
+        "out": 87,
+        "scaled": 340,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 879,
+        "scaled": 3443,
+        "flags": 0
+      },
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 844,
+        "scaled": 3305,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched8",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 246,
+        "scaled": 963,
+        "flags": 0
+      },
+      {
+        "out": 279,
+        "scaled": 1092,
+        "flags": 0
+      },
+      {
+        "out": 282,
+        "scaled": 1104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2337,
+        "scaled": -9155,
+        "flags": 0
+      },
+      {
+        "out": -1682,
+        "scaled": -6589,
+        "flags": 0
+      },
+      {
+        "out": -1679,
+        "scaled": -6577,
+        "flags": 0
+      },
+      {
+        "out": -1676,
+        "scaled": -6565,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2341,
+        "scaled": -9170,
+        "flags": 0
+      },
+      {
+        "out": -1701,
+        "scaled": -6663,
+        "flags": 0
+      },
+      {
+        "out": -1701,
+        "scaled": -6663,
+        "flags": 0
+      },
+      {
+        "out": -1701,
+        "scaled": -6663,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2344,
+        "scaled": -9182,
+        "flags": 0
+      },
+      {
+        "out": -1719,
+        "scaled": -6734,
+        "flags": 0
+      },
+      {
+        "out": -1722,
+        "scaled": -6746,
+        "flags": 0
+      },
+      {
+        "out": -1725,
+        "scaled": -6757,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2343,
+        "scaled": 9177,
+        "flags": 0
+      },
+      {
+        "out": 1718,
+        "scaled": 6729,
+        "flags": 0
+      },
+      {
+        "out": 1721,
+        "scaled": 6741,
+        "flags": 0
+      },
+      {
+        "out": 1724,
+        "scaled": 6752,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2340,
+        "scaled": 9165,
+        "flags": 0
+      },
+      {
+        "out": 1700,
+        "scaled": 6658,
+        "flags": 0
+      },
+      {
+        "out": 1700,
+        "scaled": 6658,
+        "flags": 0
+      },
+      {
+        "out": 1700,
+        "scaled": 6658,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2336,
+        "scaled": 9150,
+        "flags": 0
+      },
+      {
+        "out": 1681,
+        "scaled": 6584,
+        "flags": 0
+      },
+      {
+        "out": 1678,
+        "scaled": 6572,
+        "flags": 0
+      },
+      {
+        "out": 1675,
+        "scaled": 6560,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2337,
+        "scaled": -9155,
+        "flags": 0
+      },
+      {
+        "out": -1682,
+        "scaled": -6589,
+        "flags": 0
+      },
+      {
+        "out": -1679,
+        "scaled": -6577,
+        "flags": 0
+      },
+      {
+        "out": -1676,
+        "scaled": -6565,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2341,
+        "scaled": -9170,
+        "flags": 0
+      },
+      {
+        "out": -1701,
+        "scaled": -6663,
+        "flags": 0
+      },
+      {
+        "out": -1701,
+        "scaled": -6663,
+        "flags": 0
+      },
+      {
+        "out": -1701,
+        "scaled": -6663,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2344,
+        "scaled": -9182,
+        "flags": 0
+      },
+      {
+        "out": -1719,
+        "scaled": -6734,
+        "flags": 0
+      },
+      {
+        "out": -1722,
+        "scaled": -6746,
+        "flags": 0
+      },
+      {
+        "out": -1725,
+        "scaled": -6757,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2343,
+        "scaled": 9177,
+        "flags": 0
+      },
+      {
+        "out": 1718,
+        "scaled": 6729,
+        "flags": 0
+      },
+      {
+        "out": 1721,
+        "scaled": 6741,
+        "flags": 0
+      },
+      {
+        "out": 1724,
+        "scaled": 6752,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2340,
+        "scaled": 9165,
+        "flags": 0
+      },
+      {
+        "out": 1700,
+        "scaled": 6658,
+        "flags": 0
+      },
+      {
+        "out": 1700,
+        "scaled": 6658,
+        "flags": 0
+      },
+      {
+        "out": 1700,
+        "scaled": 6658,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2336,
+        "scaled": 9150,
+        "flags": 0
+      },
+      {
+        "out": 1681,
+        "scaled": 6584,
+        "flags": 0
+      },
+      {
+        "out": 1678,
+        "scaled": 6572,
+        "flags": 0
+      },
+      {
+        "out": 1675,
+        "scaled": 6560,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -846,
+        "scaled": -3314,
+        "flags": 0
+      },
+      {
+        "out": -246,
+        "scaled": -964,
+        "flags": 0
+      },
+      {
+        "out": -279,
+        "scaled": -1093,
+        "flags": 0
+      },
+      {
+        "out": -282,
+        "scaled": -1105,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -879,
+        "scaled": -3444,
+        "flags": 0
+      },
+      {
+        "out": -847,
+        "scaled": -3318,
+        "flags": 0
+      },
+      {
+        "out": -844,
+        "scaled": -3306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -306,
+        "scaled": -1199,
+        "flags": 0
+      },
+      {
+        "out": -52,
+        "scaled": -204,
+        "flags": 0
+      },
+      {
+        "out": -84,
+        "scaled": -330,
+        "flags": 0
+      },
+      {
+        "out": -87,
+        "scaled": -341,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1008,
+        "scaled": -3949,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -685,
+        "scaled": -2684,
+        "flags": 0
+      },
+      {
+        "out": -652,
+        "scaled": -2554,
+        "flags": 0
+      },
+      {
+        "out": -649,
+        "scaled": -2543,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 344,
+        "scaled": 1347,
+        "flags": 0
+      },
+      {
+        "out": 85,
+        "scaled": 332,
+        "flags": 0
+      },
+      {
+        "out": 63,
+        "scaled": 246,
+        "flags": 0
+      },
+      {
+        "out": 62,
+        "scaled": 242,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -344,
+        "scaled": -1348,
+        "flags": 0
+      },
+      {
+        "out": -85,
+        "scaled": -333,
+        "flags": 0
+      },
+      {
+        "out": -63,
+        "scaled": -247,
+        "flags": 0
+      },
+      {
+        "out": -62,
+        "scaled": -243,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 685,
+        "scaled": 2683,
+        "flags": 0
+      },
+      {
+        "out": 652,
+        "scaled": 2553,
+        "flags": 0
+      },
+      {
+        "out": 649,
+        "scaled": 2542,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1008,
+        "scaled": 3948,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 306,
+        "scaled": 1198,
+        "flags": 0
+      },
+      {
+        "out": 52,
+        "scaled": 203,
+        "flags": 0
+      },
+      {
+        "out": 84,
+        "scaled": 329,
+        "flags": 0
+      },
+      {
+        "out": 87,
+        "scaled": 340,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 879,
+        "scaled": 3443,
+        "flags": 0
+      },
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 844,
+        "scaled": 3305,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "matched45",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 246,
+        "scaled": 963,
+        "flags": 0
+      },
+      {
+        "out": 279,
+        "scaled": 1092,
+        "flags": 0
+      },
+      {
+        "out": 282,
+        "scaled": 1104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2265,
+        "scaled": -8872,
+        "flags": 0
+      },
+      {
+        "out": -2261,
+        "scaled": -8857,
+        "flags": 4
+      },
+      {
+        "out": -2256,
+        "scaled": -8837,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2280,
+        "scaled": -8931,
+        "flags": 0
+      },
+      {
+        "out": -2280,
+        "scaled": -8931,
+        "flags": 4
+      },
+      {
+        "out": -2280,
+        "scaled": -8931,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2294,
+        "scaled": -8986,
+        "flags": 0
+      },
+      {
+        "out": -2298,
+        "scaled": -9002,
+        "flags": 4
+      },
+      {
+        "out": -2302,
+        "scaled": -9017,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2052,
+        "scaled": -8038,
+        "flags": 0
+      },
+      {
+        "out": -1397,
+        "scaled": -5473,
+        "flags": 0
+      },
+      {
+        "out": -1394,
+        "scaled": -5461,
+        "flags": 4
+      },
+      {
+        "out": -1391,
+        "scaled": -5449,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2056,
+        "scaled": -8054,
+        "flags": 0
+      },
+      {
+        "out": -1416,
+        "scaled": -5547,
+        "flags": 0
+      },
+      {
+        "out": -1416,
+        "scaled": -5547,
+        "flags": 4
+      },
+      {
+        "out": -1416,
+        "scaled": -5547,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2059,
+        "scaled": -8066,
+        "flags": 0
+      },
+      {
+        "out": -1434,
+        "scaled": -5617,
+        "flags": 0
+      },
+      {
+        "out": -1437,
+        "scaled": -5629,
+        "flags": 4
+      },
+      {
+        "out": -1440,
+        "scaled": -5641,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2058,
+        "scaled": 8061,
+        "flags": 0
+      },
+      {
+        "out": 1433,
+        "scaled": 5613,
+        "flags": 0
+      },
+      {
+        "out": 1436,
+        "scaled": 5624,
+        "flags": 4
+      },
+      {
+        "out": 1439,
+        "scaled": 5636,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2055,
+        "scaled": 8049,
+        "flags": 0
+      },
+      {
+        "out": 1415,
+        "scaled": 5542,
+        "flags": 0
+      },
+      {
+        "out": 1415,
+        "scaled": 5542,
+        "flags": 4
+      },
+      {
+        "out": 1415,
+        "scaled": 5542,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2051,
+        "scaled": 8033,
+        "flags": 0
+      },
+      {
+        "out": 1396,
+        "scaled": 5468,
+        "flags": 0
+      },
+      {
+        "out": 1393,
+        "scaled": 5456,
+        "flags": 4
+      },
+      {
+        "out": 1390,
+        "scaled": 5444,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2294,
+        "scaled": 8985,
+        "flags": 0
+      },
+      {
+        "out": 2298,
+        "scaled": 9001,
+        "flags": 4
+      },
+      {
+        "out": 2303,
+        "scaled": 9020,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2280,
+        "scaled": 8930,
+        "flags": 0
+      },
+      {
+        "out": 2280,
+        "scaled": 8930,
+        "flags": 4
+      },
+      {
+        "out": 2280,
+        "scaled": 8930,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2265,
+        "scaled": 8871,
+        "flags": 0
+      },
+      {
+        "out": 2261,
+        "scaled": 8856,
+        "flags": 4
+      },
+      {
+        "out": 2257,
+        "scaled": 8840,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2265,
+        "scaled": -8872,
+        "flags": 0
+      },
+      {
+        "out": -2261,
+        "scaled": -8857,
+        "flags": 4
+      },
+      {
+        "out": -2256,
+        "scaled": -8837,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2280,
+        "scaled": -8931,
+        "flags": 0
+      },
+      {
+        "out": -2280,
+        "scaled": -8931,
+        "flags": 4
+      },
+      {
+        "out": -2280,
+        "scaled": -8931,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2294,
+        "scaled": -8986,
+        "flags": 0
+      },
+      {
+        "out": -2298,
+        "scaled": -9002,
+        "flags": 4
+      },
+      {
+        "out": -2302,
+        "scaled": -9017,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2052,
+        "scaled": -8038,
+        "flags": 0
+      },
+      {
+        "out": -1397,
+        "scaled": -5473,
+        "flags": 0
+      },
+      {
+        "out": -1394,
+        "scaled": -5461,
+        "flags": 4
+      },
+      {
+        "out": -1391,
+        "scaled": -5449,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2056,
+        "scaled": -8054,
+        "flags": 0
+      },
+      {
+        "out": -1416,
+        "scaled": -5547,
+        "flags": 0
+      },
+      {
+        "out": -1416,
+        "scaled": -5547,
+        "flags": 4
+      },
+      {
+        "out": -1416,
+        "scaled": -5547,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2059,
+        "scaled": -8066,
+        "flags": 0
+      },
+      {
+        "out": -1434,
+        "scaled": -5617,
+        "flags": 0
+      },
+      {
+        "out": -1437,
+        "scaled": -5629,
+        "flags": 4
+      },
+      {
+        "out": -1440,
+        "scaled": -5641,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2058,
+        "scaled": 8061,
+        "flags": 0
+      },
+      {
+        "out": 1433,
+        "scaled": 5613,
+        "flags": 0
+      },
+      {
+        "out": 1436,
+        "scaled": 5624,
+        "flags": 4
+      },
+      {
+        "out": 1439,
+        "scaled": 5636,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2055,
+        "scaled": 8049,
+        "flags": 0
+      },
+      {
+        "out": 1415,
+        "scaled": 5542,
+        "flags": 0
+      },
+      {
+        "out": 1415,
+        "scaled": 5542,
+        "flags": 4
+      },
+      {
+        "out": 1415,
+        "scaled": 5542,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2051,
+        "scaled": 8033,
+        "flags": 0
+      },
+      {
+        "out": 1396,
+        "scaled": 5468,
+        "flags": 0
+      },
+      {
+        "out": 1393,
+        "scaled": 5456,
+        "flags": 4
+      },
+      {
+        "out": 1390,
+        "scaled": 5444,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2294,
+        "scaled": 8985,
+        "flags": 0
+      },
+      {
+        "out": 2298,
+        "scaled": 9001,
+        "flags": 4
+      },
+      {
+        "out": 2303,
+        "scaled": 9020,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2280,
+        "scaled": 8930,
+        "flags": 0
+      },
+      {
+        "out": 2280,
+        "scaled": 8930,
+        "flags": 4
+      },
+      {
+        "out": 2280,
+        "scaled": 8930,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2265,
+        "scaled": 8871,
+        "flags": 0
+      },
+      {
+        "out": 2261,
+        "scaled": 8856,
+        "flags": 4
+      },
+      {
+        "out": 2257,
+        "scaled": 8840,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -846,
+        "scaled": -3314,
+        "flags": 0
+      },
+      {
+        "out": -246,
+        "scaled": -964,
+        "flags": 0
+      },
+      {
+        "out": -279,
+        "scaled": -1093,
+        "flags": 0
+      },
+      {
+        "out": -282,
+        "scaled": -1105,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -879,
+        "scaled": -3444,
+        "flags": 0
+      },
+      {
+        "out": -847,
+        "scaled": -3318,
+        "flags": 0
+      },
+      {
+        "out": -844,
+        "scaled": -3306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -306,
+        "scaled": -1199,
+        "flags": 0
+      },
+      {
+        "out": -52,
+        "scaled": -204,
+        "flags": 0
+      },
+      {
+        "out": -84,
+        "scaled": -330,
+        "flags": 0
+      },
+      {
+        "out": -87,
+        "scaled": -341,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1008,
+        "scaled": -3949,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -685,
+        "scaled": -2684,
+        "flags": 0
+      },
+      {
+        "out": -652,
+        "scaled": -2554,
+        "flags": 0
+      },
+      {
+        "out": -649,
+        "scaled": -2543,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 344,
+        "scaled": 1347,
+        "flags": 0
+      },
+      {
+        "out": 85,
+        "scaled": 332,
+        "flags": 0
+      },
+      {
+        "out": 63,
+        "scaled": 246,
+        "flags": 0
+      },
+      {
+        "out": 62,
+        "scaled": 242,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -344,
+        "scaled": -1348,
+        "flags": 0
+      },
+      {
+        "out": -85,
+        "scaled": -333,
+        "flags": 0
+      },
+      {
+        "out": -63,
+        "scaled": -247,
+        "flags": 0
+      },
+      {
+        "out": -62,
+        "scaled": -243,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 685,
+        "scaled": 2683,
+        "flags": 0
+      },
+      {
+        "out": 652,
+        "scaled": 2553,
+        "flags": 0
+      },
+      {
+        "out": 649,
+        "scaled": 2542,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1008,
+        "scaled": 3948,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 306,
+        "scaled": 1198,
+        "flags": 0
+      },
+      {
+        "out": 52,
+        "scaled": 203,
+        "flags": 0
+      },
+      {
+        "out": 84,
+        "scaled": 329,
+        "flags": 0
+      },
+      {
+        "out": 87,
+        "scaled": 340,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 879,
+        "scaled": 3443,
+        "flags": 0
+      },
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 844,
+        "scaled": 3305,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_controller",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 246,
+        "scaled": 963,
+        "flags": 0
+      },
+      {
+        "out": 279,
+        "scaled": 1092,
+        "flags": 0
+      },
+      {
+        "out": 282,
+        "scaled": 1104,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2170,
+        "scaled": -8500,
+        "flags": 0
+      },
+      {
+        "out": -2166,
+        "scaled": -8485,
+        "flags": 4
+      },
+      {
+        "out": -2161,
+        "scaled": -8465,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 4
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2199,
+        "scaled": -8614,
+        "flags": 0
+      },
+      {
+        "out": -2203,
+        "scaled": -8630,
+        "flags": 4
+      },
+      {
+        "out": -2207,
+        "scaled": -8645,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -1973,
+        "scaled": -7729,
+        "flags": 0
+      },
+      {
+        "out": -1318,
+        "scaled": -5163,
+        "flags": 0
+      },
+      {
+        "out": -1315,
+        "scaled": -5151,
+        "flags": 4
+      },
+      {
+        "out": -1312,
+        "scaled": -5140,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1977,
+        "scaled": -7744,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 4
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1980,
+        "scaled": -7756,
+        "flags": 0
+      },
+      {
+        "out": -1355,
+        "scaled": -5308,
+        "flags": 0
+      },
+      {
+        "out": -1358,
+        "scaled": -5320,
+        "flags": 4
+      },
+      {
+        "out": -1361,
+        "scaled": -5332,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1979,
+        "scaled": 7751,
+        "flags": 0
+      },
+      {
+        "out": 1354,
+        "scaled": 5303,
+        "flags": 0
+      },
+      {
+        "out": 1357,
+        "scaled": 5315,
+        "flags": 4
+      },
+      {
+        "out": 1360,
+        "scaled": 5327,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1976,
+        "scaled": 7739,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 4
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 1972,
+        "scaled": 7724,
+        "flags": 0
+      },
+      {
+        "out": 1317,
+        "scaled": 5158,
+        "flags": 0
+      },
+      {
+        "out": 1314,
+        "scaled": 5146,
+        "flags": 4
+      },
+      {
+        "out": 1311,
+        "scaled": 5135,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2199,
+        "scaled": 8613,
+        "flags": 0
+      },
+      {
+        "out": 2203,
+        "scaled": 8629,
+        "flags": 4
+      },
+      {
+        "out": 2208,
+        "scaled": 8648,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 4
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 1,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2170,
+        "scaled": 8499,
+        "flags": 0
+      },
+      {
+        "out": 2166,
+        "scaled": 8484,
+        "flags": 4
+      },
+      {
+        "out": 2162,
+        "scaled": 8468,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2170,
+        "scaled": -8500,
+        "flags": 0
+      },
+      {
+        "out": -2166,
+        "scaled": -8485,
+        "flags": 4
+      },
+      {
+        "out": -2161,
+        "scaled": -8465,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 0
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 4
+      },
+      {
+        "out": -2185,
+        "scaled": -8559,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -2560,
+        "scaled": -10028,
+        "flags": 0
+      },
+      {
+        "out": -2199,
+        "scaled": -8614,
+        "flags": 0
+      },
+      {
+        "out": -2203,
+        "scaled": -8630,
+        "flags": 4
+      },
+      {
+        "out": -2207,
+        "scaled": -8645,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -1973,
+        "scaled": -7729,
+        "flags": 0
+      },
+      {
+        "out": -1318,
+        "scaled": -5163,
+        "flags": 0
+      },
+      {
+        "out": -1315,
+        "scaled": -5151,
+        "flags": 4
+      },
+      {
+        "out": -1312,
+        "scaled": -5140,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1977,
+        "scaled": -7744,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 0
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 4
+      },
+      {
+        "out": -1337,
+        "scaled": -5238,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1980,
+        "scaled": -7756,
+        "flags": 0
+      },
+      {
+        "out": -1355,
+        "scaled": -5308,
+        "flags": 0
+      },
+      {
+        "out": -1358,
+        "scaled": -5320,
+        "flags": 4
+      },
+      {
+        "out": -1361,
+        "scaled": -5332,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 12,
+        "scaled": 47,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      },
+      {
+        "out": 13,
+        "scaled": 50,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -12,
+        "scaled": -48,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      },
+      {
+        "out": -13,
+        "scaled": -51,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1979,
+        "scaled": 7751,
+        "flags": 0
+      },
+      {
+        "out": 1354,
+        "scaled": 5303,
+        "flags": 0
+      },
+      {
+        "out": 1357,
+        "scaled": 5315,
+        "flags": 4
+      },
+      {
+        "out": 1360,
+        "scaled": 5327,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1976,
+        "scaled": 7739,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 0
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 4
+      },
+      {
+        "out": 1336,
+        "scaled": 5233,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 1972,
+        "scaled": 7724,
+        "flags": 0
+      },
+      {
+        "out": 1317,
+        "scaled": 5158,
+        "flags": 0
+      },
+      {
+        "out": 1314,
+        "scaled": 5146,
+        "flags": 4
+      },
+      {
+        "out": 1311,
+        "scaled": 5135,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2199,
+        "scaled": 8613,
+        "flags": 0
+      },
+      {
+        "out": 2203,
+        "scaled": 8629,
+        "flags": 4
+      },
+      {
+        "out": 2208,
+        "scaled": 8648,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 0
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 4
+      },
+      {
+        "out": 2185,
+        "scaled": 8558,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 3,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 2560,
+        "scaled": 10027,
+        "flags": 0
+      },
+      {
+        "out": 2170,
+        "scaled": 8499,
+        "flags": 0
+      },
+      {
+        "out": 2166,
+        "scaled": 8484,
+        "flags": 4
+      },
+      {
+        "out": 2162,
+        "scaled": 8468,
+        "flags": 4
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": -1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -846,
+        "scaled": -3314,
+        "flags": 0
+      },
+      {
+        "out": -246,
+        "scaled": -964,
+        "flags": 0
+      },
+      {
+        "out": -279,
+        "scaled": -1093,
+        "flags": 0
+      },
+      {
+        "out": -282,
+        "scaled": -1105,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      },
+      {
+        "out": -563,
+        "scaled": -2206,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": -1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -879,
+        "scaled": -3444,
+        "flags": 0
+      },
+      {
+        "out": -847,
+        "scaled": -3318,
+        "flags": 0
+      },
+      {
+        "out": -844,
+        "scaled": -3306,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": -400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": -306,
+        "scaled": -1199,
+        "flags": 0
+      },
+      {
+        "out": -52,
+        "scaled": -204,
+        "flags": 0
+      },
+      {
+        "out": -84,
+        "scaled": -330,
+        "flags": 0
+      },
+      {
+        "out": -87,
+        "scaled": -341,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": -400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": -1008,
+        "scaled": -3949,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      },
+      {
+        "out": -368,
+        "scaled": -1442,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": -400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -1024,
+        "scaled": -4011,
+        "flags": 0
+      },
+      {
+        "out": -685,
+        "scaled": -2684,
+        "flags": 0
+      },
+      {
+        "out": -652,
+        "scaled": -2554,
+        "flags": 0
+      },
+      {
+        "out": -649,
+        "scaled": -2543,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 0,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 344,
+        "scaled": 1347,
+        "flags": 0
+      },
+      {
+        "out": 85,
+        "scaled": 332,
+        "flags": 0
+      },
+      {
+        "out": 63,
+        "scaled": 246,
+        "flags": 0
+      },
+      {
+        "out": 62,
+        "scaled": 242,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 0,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      },
+      {
+        "out": 0,
+        "scaled": 0,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 0,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": -344,
+        "scaled": -1348,
+        "flags": 0
+      },
+      {
+        "out": -85,
+        "scaled": -333,
+        "flags": 0
+      },
+      {
+        "out": -63,
+        "scaled": -247,
+        "flags": 0
+      },
+      {
+        "out": -62,
+        "scaled": -243,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 400,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 685,
+        "scaled": 2683,
+        "flags": 0
+      },
+      {
+        "out": 652,
+        "scaled": 2553,
+        "flags": 0
+      },
+      {
+        "out": 649,
+        "scaled": 2542,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 400,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1008,
+        "scaled": 3948,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      },
+      {
+        "out": 368,
+        "scaled": 1441,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 400,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 306,
+        "scaled": 1198,
+        "flags": 0
+      },
+      {
+        "out": 52,
+        "scaled": 203,
+        "flags": 0
+      },
+      {
+        "out": 84,
+        "scaled": 329,
+        "flags": 0
+      },
+      {
+        "out": 87,
+        "scaled": 340,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 1024,
+    "feedback": -2000,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 879,
+        "scaled": 3443,
+        "flags": 0
+      },
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 844,
+        "scaled": 3305,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 0,
+    "ticks": [
+      {
+        "out": 1024,
+        "scaled": 4011,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      },
+      {
+        "out": 563,
+        "scaled": 2205,
+        "flags": 0
+      }
+    ]
+  },
+  {
+    "name": "bad_reference",
+    "bank": 7,
+    "command": 1024,
+    "feedback": 2000,
+    "ticks": [
+      {
+        "out": 847,
+        "scaled": 3317,
+        "flags": 0
+      },
+      {
+        "out": 246,
+        "scaled": 963,
+        "flags": 0
+      },
+      {
+        "out": 279,
+        "scaled": 1092,
+        "flags": 0
+      },
+      {
+        "out": 282,
+        "scaled": 1104,
+        "flags": 0
+      }
+    ]
+  }
+]

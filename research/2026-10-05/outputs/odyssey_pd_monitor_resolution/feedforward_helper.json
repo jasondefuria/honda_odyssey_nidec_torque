@@ -1,0 +1,252 @@
+{
+  "scope": "Isolated arithmetic helper, NOT inserted into Odyssey controller. Clamping, scheduling and independent monitor integration remain unimplemented.",
+  "opcode_hex": "254f001ae1f6401c000b0009",
+  "cases": [
+    {
+      "target": -32768,
+      "gain": 0,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": -32768,
+      "gain": 8,
+      "actual": -256,
+      "expected": -256,
+      "match": true
+    },
+    {
+      "target": -32768,
+      "gain": 16,
+      "actual": -512,
+      "expected": -512,
+      "match": true
+    },
+    {
+      "target": -32768,
+      "gain": 32,
+      "actual": -1024,
+      "expected": -1024,
+      "match": true
+    },
+    {
+      "target": -32768,
+      "gain": 45,
+      "actual": -1440,
+      "expected": -1440,
+      "match": true
+    },
+    {
+      "target": -12160,
+      "gain": 0,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": -12160,
+      "gain": 8,
+      "actual": -95,
+      "expected": -95,
+      "match": true
+    },
+    {
+      "target": -12160,
+      "gain": 16,
+      "actual": -190,
+      "expected": -190,
+      "match": true
+    },
+    {
+      "target": -12160,
+      "gain": 32,
+      "actual": -380,
+      "expected": -380,
+      "match": true
+    },
+    {
+      "target": -12160,
+      "gain": 45,
+      "actual": -535,
+      "expected": -535,
+      "match": true
+    },
+    {
+      "target": -1,
+      "gain": 0,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": -1,
+      "gain": 8,
+      "actual": -1,
+      "expected": -1,
+      "match": true
+    },
+    {
+      "target": -1,
+      "gain": 16,
+      "actual": -1,
+      "expected": -1,
+      "match": true
+    },
+    {
+      "target": -1,
+      "gain": 32,
+      "actual": -1,
+      "expected": -1,
+      "match": true
+    },
+    {
+      "target": -1,
+      "gain": 45,
+      "actual": -1,
+      "expected": -1,
+      "match": true
+    },
+    {
+      "target": 0,
+      "gain": 0,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 0,
+      "gain": 8,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 0,
+      "gain": 16,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 0,
+      "gain": 32,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 0,
+      "gain": 45,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 1,
+      "gain": 0,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 1,
+      "gain": 8,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 1,
+      "gain": 16,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 1,
+      "gain": 32,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 1,
+      "gain": 45,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 12160,
+      "gain": 0,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 12160,
+      "gain": 8,
+      "actual": 95,
+      "expected": 95,
+      "match": true
+    },
+    {
+      "target": 12160,
+      "gain": 16,
+      "actual": 190,
+      "expected": 190,
+      "match": true
+    },
+    {
+      "target": 12160,
+      "gain": 32,
+      "actual": 380,
+      "expected": 380,
+      "match": true
+    },
+    {
+      "target": 12160,
+      "gain": 45,
+      "actual": 534,
+      "expected": 534,
+      "match": true
+    },
+    {
+      "target": 32767,
+      "gain": 0,
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "target": 32767,
+      "gain": 8,
+      "actual": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "target": 32767,
+      "gain": 16,
+      "actual": 511,
+      "expected": 511,
+      "match": true
+    },
+    {
+      "target": 32767,
+      "gain": 32,
+      "actual": 1023,
+      "expected": 1023,
+      "match": true
+    },
+    {
+      "target": 32767,
+      "gain": 45,
+      "actual": 1439,
+      "expected": 1439,
+      "match": true
+    }
+  ],
+  "all_match": true
+}

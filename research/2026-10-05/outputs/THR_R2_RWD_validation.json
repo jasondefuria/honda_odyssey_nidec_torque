@@ -1,0 +1,33 @@
+{
+  "status": "PASS_OFFLINE_CHECKS_ONLY",
+  "rwd_name": "39990-THR-A020_R2_2p5_PEAK_EXPERIMENTAL.rwd",
+  "rwd_sha256": "dbfe61804b35c6ff8855c0c02115c72c5fdd26d6f82e5e2209cf72bbae120311",
+  "rwd_bytes": 475189,
+  "candidate_sha256": "688f36d6fb0c3b0ae1a3c8d620c509f7279f015b5d74eb05fd98e2abf9b5847c",
+  "stock_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "stock_rwd_sha256": "5fb7dbc298cfc4c897644f100d664aaa2a55a6c9b46355cd8e13a5f3fd782c4c",
+  "download_start": "0xC000",
+  "download_length": "0x74000",
+  "header_unchanged": true,
+  "roundtrip_exact": true,
+  "deterministic_rebuild": true,
+  "firmware_changed_bytes": 112,
+  "rwd_changed_bytes": 114,
+  "checksum_A": "765c",
+  "checksum_C": "5bbc",
+  "negative_tests_passed": [
+    "modified stock",
+    "unreviewed candidate",
+    "failed emulator report",
+    "mismatched pipeline image",
+    "incorrect patch preimage",
+    "lookup corruption",
+    "payload corruption",
+    "truncated RWD",
+    "trailing data",
+    "wrong length with recomputed trailer"
+  ],
+  "physical_torque": "NOT_MEASURED",
+  "ecu_acceptance": "NOT_TESTED",
+  "road_use_suitability": "NOT_ESTABLISHED"
+}

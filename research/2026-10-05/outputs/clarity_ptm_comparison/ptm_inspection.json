@@ -1,0 +1,22 @@
+{
+  "source": "/Users/jasondefuria/Downloads/ClarityMax-PTM.rwd",
+  "sha256": "d4fe903bcf347495f4321be65a3c650c8c931f1650c3bef6443721da0dd80f7d",
+  "bytes": 311421,
+  "blocks": [
+    {
+      "start": 16384,
+      "length": 311296
+    }
+  ],
+  "container_pass": true,
+  "A": {
+    "stored": "0x25b3",
+    "computed": "0x25b3"
+  },
+  "C": {
+    "stored": "0x5cbf",
+    "computed": "0x5cbf"
+  },
+  "sum": 0,
+  "scope": "PTM inspection only; stock counterpart not located"
+}

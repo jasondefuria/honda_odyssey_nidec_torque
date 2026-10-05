@@ -1,0 +1,236 @@
+{
+  "descriptor_address": "0x3E784",
+  "handler": "0x3489A",
+  "getter": "0x2F8E8",
+  "selected_record_ram": "0xFFF81F58",
+  "identity_ram": "0xFFF81F8F",
+  "selection": "0x2F8FC compares five-byte key against 14 records at 0x5EB00, stride 0x46; 0x2F95A copies selected record to RAM, defaulting to first record on failed/invalid selection. Key producer not traced here.",
+  "handler_bytes_identical": true,
+  "scope": "28 original-handler executions with synthetic selected-record RAM. No live UDS request, transport/session dispatcher execution or flash readback.",
+  "results": [
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 0,
+      "source_flash": "0x5eb37",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 1,
+      "source_flash": "0x5eb7d",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 2,
+      "source_flash": "0x5ebc3",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 3,
+      "source_flash": "0x5ec09",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 4,
+      "source_flash": "0x5ec4f",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 5,
+      "source_flash": "0x5ec95",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 6,
+      "source_flash": "0x5ecdb",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 7,
+      "source_flash": "0x5ed21",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 8,
+      "source_flash": "0x5ed67",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 9,
+      "source_flash": "0x5edad",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 10,
+      "source_flash": "0x5edf3",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 11,
+      "source_flash": "0x5ee39",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 12,
+      "source_flash": "0x5ee7f",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "record": 13,
+      "source_flash": "0x5eec5",
+      "response_hex": "33393939302d5448522d413032300000",
+      "identity": "39990-THR-A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 0,
+      "source_flash": "0x5eb37",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 1,
+      "source_flash": "0x5eb7d",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 2,
+      "source_flash": "0x5ebc3",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 3,
+      "source_flash": "0x5ec09",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 4,
+      "source_flash": "0x5ec4f",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 5,
+      "source_flash": "0x5ec95",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 6,
+      "source_flash": "0x5ecdb",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 7,
+      "source_flash": "0x5ed21",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 8,
+      "source_flash": "0x5ed67",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 9,
+      "source_flash": "0x5edad",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 10,
+      "source_flash": "0x5edf3",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 11,
+      "source_flash": "0x5ee39",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 12,
+      "source_flash": "0x5ee7f",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    },
+    {
+      "file": "mod25xv3-39990-THR,A020.rwd",
+      "record": 13,
+      "source_flash": "0x5eec5",
+      "response_hex": "33393939302d5448522c413032300000",
+      "identity": "39990-THR,A020",
+      "response_length": 16
+    }
+  ]
+}

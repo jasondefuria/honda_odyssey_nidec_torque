@@ -1,0 +1,337 @@
+RANGE 0x1c182 0x1c3c8
+0001c182: mov.l r11,@-r15
+0001c184: mov.l r12,@-r15
+0001c186: mov.l r13,@-r15
+0001c188: mov.l r14,@-r15
+0001c18a: sts.l macl,@-r15
+0001c18c: mov.w @(0x8,r4),r0
+0001c18e: mov #0x3,r2
+0001c190: mov.l @(0x1c2f8,pc),r1 ; literal=fff85480
+0001c192: mov r0,r6
+0001c194: mov.w @(0x8,r1),r0
+0001c196: mov r1,r12
+0001c198: mov r0,r5
+0001c19a: add 0x1,r5
+0001c19c: shll r0
+0001c19e: mov.w r6,@(r0,r1)
+0001c1a0: mov r5,r0
+0001c1a2: exts.w r5,r5
+0001c1a4: cmp/gt r2,r5
+0001c1a6: bf/s 0x1c1ae
+0001c1a8: mov.w r0,@(0x8,r1)
+0001c1aa: mov #0x0,r0
+0001c1ac: mov.w r0,@(0x8,r12)
+0001c1ae: mov.w @r1,r4
+0001c1b0: mov.w @(0x2,r1),r0
+0001c1b2: mov.l @(0x1c2f0,pc),r11 ; literal=fff85390
+0001c1b4: add r0,r4
+0001c1b6: mov.w @(0x4,r1),r0
+0001c1b8: mov.l @r11,r2
+0001c1ba: add r0,r4
+0001c1bc: mov.w @(0x6,r1),r0
+0001c1be: shll r2
+0001c1c0: mov.l @(0x1c2f4,pc),r6 ; literal=00050380
+0001c1c2: add r0,r4
+0001c1c4: mov r6,r0
+0001c1c6: mov.w @(r0,r2),r2
+0001c1c8: neg r2,r2
+0001c1ca: cmp/ge r2,r4
+0001c1cc: bt/s 0x1c1da
+0001c1ce: mov r4,r1
+0001c1d0: mov.l @r11,r5
+0001c1d2: shll r5
+0001c1d4: mov.w @(r0,r5),r1
+0001c1d6: bra 0x1c1ea
+0001c1d8: neg r1,r1
+0001c1da: mov.l @r11,r2
+0001c1dc: shll r2
+0001c1de: mov.w @(r0,r2),r5
+0001c1e0: cmp/gt r5,r1
+0001c1e2: bf 0x1c1ea
+0001c1e4: mov.l @r11,r5
+0001c1e6: shll r5
+0001c1e8: mov.w @(r0,r5),r1
+0001c1ea: mov.w @(0xa,r12),r0
+0001c1ec: exts.w r1,r13
+0001c1ee: mov.l @r11,r1
+0001c1f0: mov r13,r7
+0001c1f2: add r0,r7
+0001c1f4: mov.w @(0xc,r12),r0
+0001c1f6: shll r1
+0001c1f8: mov.l @(0x1c2fc,pc),r2 ; literal=00050382
+0001c1fa: shll r0
+0001c1fc: mov.l @(0x18,r12),r5
+0001c1fe: sub r0,r7
+0001c200: mov r1,r0
+0001c202: mov.w @(r0,r2),r0
+0001c204: mov #0xe,r4
+0001c206: mulr r0, r7
+0001c208: mov r1,r0
+0001c20a: mov.w @(r0,r6),r14
+0001c20c: neg r14,r14
+0001c20e: add r5,r7
+0001c210: shld r4, r14
+0001c212: cmp/ge r14,r7
+0001c214: bt 0x1c226
+0001c216: mov.l @r11,r2
+0001c218: mov r6,r0
+0001c21a: mov #0xe,r5
+0001c21c: shll r2
+0001c21e: mov.w @(r0,r2),r2
+0001c220: neg r2,r7
+0001c222: bra 0x1c23e
+0001c224: shld r5, r7
+0001c226: mov.l @r11,r2
+0001c228: mov r6,r0
+0001c22a: mov #0xe,r5
+0001c22c: shll r2
+0001c22e: mov.w @(r0,r2),r2
+0001c230: shld r5, r2
+0001c232: cmp/gt r2,r7
+0001c234: bf 0x1c23e
+0001c236: mov.l @r11,r2
+0001c238: shll r2
+0001c23a: mov.w @(r0,r2),r7
+0001c23c: shld r5, r7
+0001c23e: mov #-0xe,r1
+0001c240: mov r7,r14
+0001c242: shad r1, r14
+0001c244: mov.l r7,@(0x18,r12)
+0001c246: mov r13,r0
+0001c248: mov.w r0,@(0xa,r12)
+0001c24a: mov.w @(0xc,r12),r0
+0001c24c: exts.w r14,r14
+0001c24e: mov.l @r11,r1
+0001c250: mov r14,r7
+0001c252: add r0,r7
+0001c254: mov.w @(0xe,r12),r0
+0001c256: shll r1
+0001c258: mov.l @(0x1c,r12),r5
+0001c25a: shll r0
+0001c25c: mov #0xe,r4
+0001c25e: mov.l @(0x1c300,pc),r13 ; literal=00050384
+0001c260: sub r0,r7
+0001c262: mov r1,r0
+0001c264: mov.w @(r0,r13),r0
+0001c266: mulr r0, r7
+0001c268: mov r1,r0
+0001c26a: mov.w @(r0,r6),r2
+0001c26c: neg r2,r2
+0001c26e: add r5,r7
+0001c270: shld r4, r2
+0001c272: cmp/ge r2,r7
+0001c274: bt 0x1c286
+0001c276: mov.l @r11,r2
+0001c278: mov r6,r0
+0001c27a: mov #0xe,r5
+0001c27c: shll r2
+0001c27e: mov.w @(r0,r2),r2
+0001c280: neg r2,r7
+0001c282: bra 0x1c29e
+0001c284: shld r5, r7
+0001c286: mov.l @r11,r2
+0001c288: mov r6,r0
+0001c28a: mov #0xe,r5
+0001c28c: shll r2
+0001c28e: mov.w @(r0,r2),r2
+0001c290: shld r5, r2
+0001c292: cmp/gt r2,r7
+0001c294: bf 0x1c29e
+0001c296: mov.l @r11,r2
+0001c298: shll r2
+0001c29a: mov.w @(r0,r2),r7
+0001c29c: shld r5, r7
+0001c29e: mov #-0xe,r2
+0001c2a0: mov r7,r4
+0001c2a2: shad r2, r4
+0001c2a4: mov.l r7,@(0x1c,r12)
+0001c2a6: mov r14,r0
+0001c2a8: mov.w r0,@(0xc,r12)
+0001c2aa: sub r4,r14
+0001c2ac: mov r4,r0
+0001c2ae: mov.w r0,@(0xe,r12)
+0001c2b0: exts.w r14,r14
+0001c2b2: mov.w @(0x14,r12),r0
+0001c2b4: mov r14,r7
+0001c2b6: mov.l @r11,r1
+0001c2b8: add r0,r7
+0001c2ba: mov.w @(0x10,r12),r0
+0001c2bc: shll r1
+0001c2be: mov.l @(0x20,r12),r5
+0001c2c0: shll r0
+0001c2c2: mov.l @(0x1c304,pc),r2 ; literal=00050386
+0001c2c4: sub r0,r7
+0001c2c6: mov r1,r0
+0001c2c8: mov.w @(r0,r2),r0
+0001c2ca: mulr r0, r7
+0001c2cc: mov r1,r0
+0001c2ce: mov.w @(r0,r6),r13
+0001c2d0: mov #0xe,r1
+0001c2d2: neg r13,r13
+0001c2d4: add r5,r7
+0001c2d6: shld r1, r13
+0001c2d8: cmp/ge r13,r7
+0001c2da: bt 0x1c308
+0001c2dc: mov.l @r11,r2
+0001c2de: mov r6,r0
+0001c2e0: mov #0xe,r5
+0001c2e2: shll r2
+0001c2e4: mov.w @(r0,r2),r2
+0001c2e6: neg r2,r7
+0001c2e8: bra 0x1c320
+0001c2ea: shld r5, r7
+0001c2ec: fmov.s @r15, fr15
+RANGE 0x407ac 0x408f0
+000407ac: mov.l r11,@-r15
+000407ae: mov.l r12,@-r15
+000407b0: mov.l r13,@-r15
+000407b2: mov.l r14,@-r15
+000407b4: stc sr,r0
+000407b6: movi20 #-0xf1, r11
+000407ba: and r11,r0
+000407bc: or 0xa0,r0
+000407be: ldc r0,sr
+000407c0: mov.w @(0x2,r4),r0
+000407c2: mov.w @r4,r13
+000407c4: mov r0,r14
+000407c6: mov.w @(0x4,r4),r0
+000407c8: mov.l @(0xc,r4),r6
+000407ca: mov r0,r7
+000407cc: mov.w @(0x6,r4),r0
+000407ce: mov r0,r5
+000407d0: stc sr,r12
+000407d2: and r11,r12
+000407d4: ldc r12,sr
+000407d6: mov #0x0,r12
+000407d8: cmp/pz r6
+000407da: mov r12,r1
+000407dc: bt/s 0x407e2
+000407de: mov r6,r2
+000407e0: neg r6,r2
+000407e2: mov.l @(0x40904,pc),r11 ; literal=0006021c
+000407e4: mov.w @r11,r4
+000407e6: cmp/gt r4,r2
+000407e8: bf 0x407fa
+000407ea: cmp/pz r5
+000407ec: bt 0x407f0
+000407ee: neg r5,r5
+000407f0: mov.w @r11,r2
+000407f2: cmp/eq r2,r5
+000407f4: bt 0x40800
+000407f6: bra 0x40800
+000407f8: movrt r1
+000407fa: cmp/eq r6,r5
+000407fc: bt 0x40800
+000407fe: movrt r1
+00040800: mov #0xc,r2
+00040802: shld r2, r6
+00040804: mov.l @(0x40908,pc),r2 ; literal=fff80bb2
+00040806: mov.w @r2,r0
+00040808: movi20 #-0x7fff, r4
+0004080c: divs r0, r6
+0004080e: cmp/ge r4,r6
+00040810: bt/s 0x4081c
+00040812: mov r6,r5
+00040814: movi20 #-0x7fff, r5
+00040818: bra 0x40828
+0004081a: nop 
+0004081c: movi20 #0x7fff, r6
+00040820: cmp/gt r6,r5
+00040822: bf 0x40828
+00040824: movi20 #0x7fff, r5
+00040828: mov r5,r0
+0004082a: exts.w r5,r5
+0004082c: sub r7,r5
+0004082e: mov.l @(0x4090c,pc),r4 ; literal=fff883b0
+00040830: cmp/pz r5
+00040832: bt/s 0x40838
+00040834: mov.w r0,@(0x4,r4)
+00040836: neg r5,r5
+00040838: mov.l @(0x40910,pc),r11 ; literal=0006021a
+0004083a: mov.w @r11,r2
+0004083c: cmp/gt r2,r5
+0004083e: bf 0x40842
+00040840: mov #0x1,r1
+00040842: add r14,r7
+00040844: movi20 #0x7fff, r5
+00040848: cmp/gt r5,r7
+0004084a: bf 0x40856
+0004084c: mov #-0x80,r5
+0004084e: shll8 r5
+00040850: add r5,r7
+00040852: bra 0x40866
+00040854: mov.l r7,@r4
+00040856: cmp/pz r7
+00040858: bt 0x40864
+0004085a: movi20 #0x8000, r5
+0004085e: add r5,r7
+00040860: bra 0x40866
+00040862: mov.l r7,@r4
+00040864: mov.l r7,@r4
+00040866: mov.l @r4,r2
+00040868: sub r13,r2
+0004086a: cmp/pz r2
+0004086c: bt 0x40870
+0004086e: neg r2,r2
+00040870: mov.w @r11,r6
+00040872: cmp/gt r6,r2
+00040874: bf 0x40878
+00040876: mov #0x1,r12
+00040878: mov.l @(0x40914,pc),r13 ; literal=000398c0
+0004087a: mov.w @(0x4,r13),r0
+0004087c: mov.l @(0x40918,pc),r4 ; literal=fff88314
+0004087e: mov r0,r6
+00040880: mov r1,r0
+00040882: cmp/eq 0x1,r0
+00040884: mov.l @(0x4091c,pc),r7 ; literal=fff881e2
+00040886: mov.w @(0xa, r13), r5
+0004088a: bf/s 0x4089e
+0004088c: mov.w @r13,r14
+0004088e: mov.w @r4,r5
+00040890: add r6,r5
+00040892: mov.w r5,@r4
+00040894: exts.w r5,r5
+00040896: cmp/gt r14,r5
+00040898: bf 0x408ae
+0004089a: bra 0x408ae
+0004089c: mov.w r14,@r4
+0004089e: mov.w @r4,r6
+000408a0: sub r5,r6
+000408a2: mov.w r6,@r4
+000408a4: exts.w r6,r6
+000408a6: cmp/pz r6
+000408a8: bt 0x408ae
+000408aa: mov #0x0,r6
+000408ac: mov.w r6,@r4
+000408ae: mov.w @r4,r6
+000408b0: cmp/ge r14,r6
+000408b2: bf 0x408be
+000408b4: mov.w @r7,r2
+000408b6: mov #0x2,r5
+000408b8: shll8 r5
+000408ba: or r5,r2
+000408bc: mov.w r2,@r7
+000408be: mov.w @(0x4,r13),r0
+000408c0: mov.l @(0x40920,pc),r1 ; literal=fff88310
+000408c2: mov r0,r5
+000408c4: mov r12,r0
+000408c6: cmp/eq 0x1,r0
+000408c8: mov.w @(0xa, r13), r6
+000408cc: bf/s 0x408e0
+000408ce: mov.w @r13,r4
+000408d0: mov.w @r1,r6
+000408d2: add r5,r6
+000408d4: mov.w r6,@r1
+000408d6: mov.w @r1,r11
+000408d8: cmp/gt r4,r11
+000408da: bf 0x408f0
+000408dc: bra 0x408f0
+000408de: mov.w r4,@r1
+000408e0: mov.w @r1,r12
+000408e2: sub r6,r12
+000408e4: mov.w r12,@r1
+000408e6: mov.w @r1,r13
+000408e8: cmp/pz r13
+000408ea: bt 0x408f0
+000408ec: mov #0x0,r2
+000408ee: mov.w r2,@r1

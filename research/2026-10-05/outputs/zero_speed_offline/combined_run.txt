@@ -1,0 +1,26 @@
+baseline engagement {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0}
+baseline inhibit last {'state': 1, 'path': 0, 'authority': 0, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline driver767 last {'state': 1, 'path': 0, 'authority': 0, 'fade': 192, 'controller': 52, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline driver768 last {'state': 1, 'path': 0, 'authority': 0, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline driver_negative768 last {'state': 1, 'path': 0, 'authority': 0, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline system_fault last {'state': 5, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline monitor3 last {'state': 5, 'path': 0, 'authority': 0, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline config_off last {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline request_off last {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline bank2 last {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline bank7 last {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 612, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline reverse_command last {'state': 1, 'path': 0, 'authority': 0, 'fade': -1024, 'controller': -2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+baseline zero_command last {'state': 1, 'path': 0, 'authority': 0, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only engagement {'state': 3, 'path': 0, 'authority': 16384, 'fade': 1024, 'controller': 2090, 'mixer': 2090, 'diagnostic': 0, 'monitor_bytes': 0}
+bank1_zero_only inhibit last {'state': 3, 'path': 0, 'authority': 16384, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only driver767 last {'state': 3, 'path': 0, 'authority': 16384, 'fade': 192, 'controller': 52, 'mixer': 52, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only driver768 last {'state': 3, 'path': 0, 'authority': 16384, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only driver_negative768 last {'state': 3, 'path': 0, 'authority': 16384, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only system_fault last {'state': 2, 'path': 1, 'authority': 96, 'fade': 1024, 'controller': 2073, 'mixer': 12, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only monitor3 last {'state': 5, 'path': 0, 'authority': 0, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only config_off last {'state': 3, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only request_off last {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only bank2 last {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 2090, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only bank7 last {'state': 1, 'path': 0, 'authority': 0, 'fade': 1024, 'controller': 612, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only reverse_command last {'state': 3, 'path': 0, 'authority': 16384, 'fade': -1024, 'controller': -2090, 'mixer': -2090, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0
+bank1_zero_only zero_command last {'state': 3, 'path': 0, 'authority': 16384, 'fade': 0, 'controller': 0, 'mixer': 0, 'diagnostic': 0, 'monitor_bytes': 0} monitor_ticks 0

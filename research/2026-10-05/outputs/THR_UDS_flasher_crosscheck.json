@@ -1,0 +1,20 @@
+{
+  "source_hashes": {
+    "flash.py": "2fbd9c3032879c0471303ad25cbd154decd82eb36cf34d90899492fe27a665a7",
+    "eps-update.py": "f4e9637f4f34efd7accf7523a426082641ecb4cd9c582e1ee39d22931847b226"
+  },
+  "captured_resident_update_region_matches_baseline": true,
+  "updater_lookup_matches_thr": true,
+  "updater_has_thr_checksum_length": false,
+  "rwd_can_address": "0x18da30f1",
+  "resident_range_table": [
+    "0x0",
+    "0xc000",
+    "0x74000",
+    "0x0",
+    "0x5172",
+    "0x4fe8"
+  ],
+  "resident_security_constant": "011101121120",
+  "transfer_decrypt_call_literal": "000014ce"
+}

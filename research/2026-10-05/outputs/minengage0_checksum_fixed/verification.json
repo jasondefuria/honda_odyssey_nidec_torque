@@ -1,0 +1,39 @@
+{
+  "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/minengage0_checksum_fixed/mod25xv3-39990-THR_A020-minengage0-banks1-3-checksums-fixed.rwd",
+  "sha256": "9e1af08d018ef905d87bc6db39cea8a740afbcadadd89fe66eaf01ee96e06fc7",
+  "source_sha256": "2d63d6c8aedd543eb0f71473db8e7dbf148ff874bbf44054c37acb4a787f0ef2",
+  "bytes": 475237,
+  "runtime_crc_algorithm": "CRC-32/BZIP2",
+  "runtime_crc_checks": [
+    {
+      "slot": "0x4ff7c",
+      "stored": "134AE5B1",
+      "computed": "134AE5B1",
+      "pass": true
+    },
+    {
+      "slot": "0x6ff7c",
+      "stored": "DA5B0744",
+      "computed": "DA5B0744",
+      "pass": true
+    }
+  ],
+  "checksum_A": "5e6d",
+  "checksum_C": "8b9a",
+  "container_checksum": "0x45554ea",
+  "payload_word_sum": 0,
+  "changed_payload_addresses": [
+    "0x6ff7c",
+    "0x6ff7d",
+    "0x6ff7e",
+    "0x6ff7f",
+    "0x7ff80",
+    "0x7ff81",
+    "0x7fffe",
+    "0x7ffff"
+  ],
+  "header_unchanged": true,
+  "all_non_checksum_payload_bytes_unchanged": true,
+  "source_unchanged": true,
+  "scope": "Offline checksum repair and byte verification only; no ECU flash or runtime acceptance test."
+}

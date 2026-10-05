@@ -1,0 +1,17 @@
+{
+  "scope": "Gain8 assembly/serialization test, no release gain selected or RWD written",
+  "controller_address": "0x75800",
+  "controller_bytes": 100,
+  "monitor_address": "0x75900",
+  "monitor_bytes": 104,
+  "original_fill": "FF",
+  "reference_scan": [],
+  "scan_limit": "Raw encodings include possible data; indirect/computed targets and reserved ownership cannot be excluded",
+  "changed_code_bytes": 226,
+  "image_size": 524288,
+  "roundtrip_pass": true,
+  "checksum_A": "82c6",
+  "checksum_C": "42e8",
+  "crc60000": "b24c4dbb",
+  "container_sum": "afeb5404"
+}

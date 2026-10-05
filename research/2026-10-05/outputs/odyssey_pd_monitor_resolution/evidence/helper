@@ -1,0 +1,104 @@
+RANGE 0x30a52 0x30b40
+00030a52: mov.l r8,@-r15
+00030a54: mov.l r9,@-r15
+00030a56: mov.l r10,@-r15
+00030a58: mov.l r11,@-r15
+00030a5a: mov.l r12,@-r15
+00030a5c: mov.l r13,@-r15
+00030a5e: mov.l r14,@-r15
+00030a60: add -0x8,r15
+00030a62: mov.l @(0x24,r15),r2
+00030a64: mov r5,r1
+00030a66: exts.w r7,r8
+00030a68: mov.l @(0x28,r15),r5
+00030a6a: mov.w r2, @(0x26, r15)
+00030a6e: mov #0x0,r10
+00030a70: mov.w @r4,r2
+00030a72: exts.w r6,r9
+00030a74: mov.l @(0x2c,r15),r7
+00030a76: cmp/ge r2,r8
+00030a78: mov.w r5, @(0x2a, r15)
+00030a7c: mov.w r7, @(0x2e, r15)
+00030a80: bt/s 0x30a92
+00030a82: mov r10,r13
+00030a84: mov.w @r1,r2
+00030a86: mov.w @(0x26, r15), r6
+00030a8a: cmp/eq r2,r6
+00030a8c: bt 0x30a90
+00030a8e: mov #0x1,r10
+00030a90: mov #0x1,r13
+00030a92: mov #0x1,r12
+00030a94: exts.w r12,r12
+00030a96: cmp/ge r9,r12
+00030a98: bf 0x30a9e
+00030a9a: bra 0x30c3a
+00030a9c: nop 
+00030a9e: mov r12,r0
+00030aa0: shll r0
+00030aa2: mov r12,r6
+00030aa4: mov.w @(r0,r4),r14
+00030aa6: shll r6
+00030aa8: mov r0,r11
+00030aaa: mov #-0x2,r0
+00030aac: mov r6,r2
+00030aae: add r4,r2
+00030ab0: mov.w @(r0,r2),r7
+00030ab2: mov r11,r0
+00030ab4: mov.w @(r0,r1),r11
+00030ab6: add r1,r6
+00030ab8: mov #-0x2,r0
+00030aba: cmp/eq r7,r14
+00030abc: bf/s 0x30ac4
+00030abe: mov.w @(r0,r6),r5
+00030ac0: mov #0x1,r10
+00030ac2: mov r10,r13
+00030ac4: tst r13,r13
+00030ac6: bt 0x30acc
+00030ac8: bra 0x30c36
+00030aca: nop 
+00030acc: cmp/ge r14,r8
+00030ace: bf 0x30ad4
+00030ad0: bra 0x30c36
+00030ad2: nop 
+00030ad4: cmp/ge r7,r8
+00030ad6: bt 0x30adc
+00030ad8: bra 0x30c36
+00030ada: nop 
+00030adc: mov r8,r2
+00030ade: sub r7,r2
+00030ae0: movi20 #-0x7fff, r13
+00030ae4: cmp/ge r13,r2
+00030ae6: bt 0x30af0
+00030ae8: movi20 #-0x7fff, r2
+00030aec: bra 0x30afc
+00030aee: nop 
+00030af0: movi20 #0x7fff, r13
+00030af4: cmp/gt r13,r2
+00030af6: bf 0x30afc
+00030af8: movi20 #0x7fff, r2
+00030afc: mov #0xf,r13
+00030afe: sub r7,r14
+00030b00: shld r13, r2
+00030b02: mov r14,r0
+00030b04: divs r0, r2
+00030b06: movi20 #-0x7fff, r6
+00030b0a: cmp/ge r6,r2
+00030b0c: bt/s 0x30b18
+00030b0e: mov r2,r7
+00030b10: movi20 #-0x7fff, r7
+00030b14: bra 0x30b24
+00030b16: nop 
+00030b18: movi20 #0x7fff, r6
+00030b1c: cmp/gt r6,r7
+00030b1e: bf 0x30b24
+00030b20: movi20 #0x7fff, r7
+00030b24: mov.w @(0x26, r15), r2
+00030b28: movi20 #-0x7fff, r14
+00030b2c: sub r5,r2
+00030b2e: cmp/ge r14,r2
+00030b30: bt/s 0x30b3c
+00030b32: mov r2,r13
+00030b34: movi20 #-0x7fff, r2
+00030b38: bra 0x30b48
+00030b3a: nop 
+00030b3c: movi20 #0x7fff, r14

@@ -1,0 +1,26 @@
+RANGE 0x353d0 0x35406
+000353d0: shar r4
+000353d2: movi20 #0x7fff, r6
+000353d6: and r6,r4
+000353d8: mov.l @(0x3542c,pc),r5 ; literal=fff8983c
+000353da: mov.l @(0x35434,pc),r1 ; literal=0003aa68
+000353dc: jsr @r1
+000353de: mov #0x4,r6
+000353e0: exts.w r0,r2
+000353e2: cmp/pz r2
+000353e4: mov.l @(0x35438,pc),r12 ; literal=fff885be
+000353e6: bt 0x3543c
+000353e8: neg r2,r6
+000353ea: shal r6
+000353ec: exts.w r6,r6
+000353ee: bra 0x3543e
+000353f0: neg r6,r2
+000353f2: movi20 #0x4, r0
+000353f6: add -0x50,r12
+000353f8: mov.b r0,@(r0,r0)
+000353fa: add -0x44,r12
+000353fc: fmov.s @r15, fr15
+000353fe: cmp/eq -0x10,r0
+00035400: fmov.s @r15, fr15
+00035402: add -0x5c,r8
+00035404: bsrf r0

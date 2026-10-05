@@ -1,0 +1,14 @@
+{
+  "source": "/Users/jasondefuria/Downloads/firmware_mod/stock_39990-THR-A020.rwd",
+  "output": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/stock_39990-THR-A020_SINGLE_ID.rwd",
+  "sha256": "5fb7dbc298cfc4c897644f100d664aaa2a55a6c9b46355cd8e13a5f3fd782c4c",
+  "size": 475189,
+  "header_ids": [
+    "39990-THR-A020"
+  ],
+  "security_entries": 1,
+  "payload_unchanged": true,
+  "payload_stock_identity_count": 14,
+  "outer_checksum_valid": true,
+  "payload_word_sum": 0
+}

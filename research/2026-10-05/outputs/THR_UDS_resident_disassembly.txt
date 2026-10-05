@@ -1,0 +1,608 @@
+
+REGION 0x1438
+00001438 mov.l @(0x15f4,pc),r4
+0000143a mov.l @(0x15fc,pc),r5
+0000143c jsr/n @r5
+0000143e mov #-0x1,r7
+00001440 extu.b r0,r6
+00001442 extu.b r7,r7
+00001444 cmp/eq r7,r6
+00001446 bf 0x144c
+00001448 bra 0x147e
+0000144a movt r0
+0000144c mov #0x3,r1
+0000144e mov.l @r14,r2
+00001450 mov.l @(0x1600,pc),r6
+00001452 mov.w r1,@r6
+00001454 mov #0x0,r5
+00001456 mov #0x2,r1
+00001458 mov.l r2,@(0x8,r14)
+0000145a mov r5,r4
+0000145c mov.l @(0x1604,pc),r7
+0000145e extu.b r5,r2
+00001460 cmp/ge r1,r2
+00001462 bt 0x147a
+00001464 mov.l @r7,r6
+00001466 mov r4,r0
+00001468 mov.l @r14,r2
+0000146a add -0x1,r4
+0000146c add 0x3,r6
+0000146e add 0x1,r5
+00001470 mov.b r2,@(r0,r6)
+00001472 mov.l @r14,r6
+00001474 shlr8 r6
+00001476 bra 0x145e
+00001478 mov.l r6,@r14
+0000147a movrt r0
+0000147c mov.b r0,@r13
+0000147e lds.l @r15+,pr
+00001480 mov.l @r15+,r14
+00001482 rts 
+00001484 mov.l @r15+,r13
+00001486 sts.l pr,@-r15
+00001488 mov #0x1,r2
+0000148a mov #0x0,r4
+0000148c mov.l @(0x15f8,pc),r1
+0000148e mov.b r2,@r1
+00001490 mov #0x2,r6
+00001492 mov #0x4,r5
+00001494 mov.l @(0x1604,pc),r7
+00001496 extu.b r6,r2
+00001498 cmp/ge r5,r2
+0000149a bt 0x14ae
+0000149c mov.l @r7,r1
+0000149e extu.b r6,r0
+000014a0 shll8 r4
+000014a2 mov.b @(r0,r1),r2
+000014a4 add 0x1,r0
+000014a6 mov r0,r6
+000014a8 extu.b r2,r2
+000014aa bra 0x1496
+000014ac or r2,r4
+000014ae mov.l @(0x1608,pc),r5
+000014b0 jsr/n @r5
+000014b2 mov #-0x1,r7
+000014b4 extu.b r0,r6
+000014b6 extu.b r7,r7
+000014b8 cmp/eq r7,r6
+000014ba lds.l @r15+,pr
+000014bc rts 
+000014be movt r0
+000014c0 mov #0x0,r0
+000014c2 mov.l @(0x15f4,pc),r6
+000014c4 mov.l r0,@r6
+000014c6 rts 
+000014c8 mov.l r0,@(0x4,r6)
+000014ca rts 
+000014cc mov #0x0,r0
+000014ce mov.l r11,@-r15
+000014d0 mov.l r12,@-r15
+000014d2 mov.l r13,@-r15
+000014d4 mov.l r14,@-r15
+000014d6 sts.l pr,@-r15
+000014d8 mov.l @r4,r1
+000014da mov r4,r12
+000014dc mov.l @(0x160c,pc),r5
+000014de mov.l r1,@(0x8,r4)
+000014e0 mov.w @(0x4,r4),r0
+000014e2 mov.w r0,@(0xc,r4)
+000014e4 mov.w @r5,r0
+000014e6 tst 0x4,r0
+000014e8 bt/s 0x1528
+000014ea mov #0x1,r6
+000014ec mov.l @r12,r11
+000014ee mov #0x0,r14
+000014f0 movu.w @(0x4, r12), r0
+000014f4 extu.w r14,r6
+000014f6 cmp/ge r0,r6
+000014f8 bt 0x1526
+000014fa mov r14,r0
+000014fc tst 0xf,r0
+000014fe mov.l @(0x1610,pc),r13
+00001500 bf 0x1506
+00001502 mov.l @(0x1614,pc),r2
+00001504 jsr/n @r2
+00001506 extu.w r14,r14
+00001508 mov.b @r13,r7
+0000150a mov r14,r4
+0000150c add r11,r4
+0000150e mov.b @r4,r6
+00001510 add 0x1,r14
+00001512 mov.b @(0x1,r13),r0
+00001514 xor r7,r6
+00001516 xor r0,r6
+00001518 mov.b @(0x2,r13),r0
+0000151a add r0,r6
+0000151c mov.l @(0x1618,pc),r1
+0000151e jsr @r1
+00001520 mov.b r6,@r4
+00001522 bra 0x14f0
+00001524 nop 
+00001526 mov #0x0,r6
+00001528 lds.l @r15+,pr
+0000152a mov.l @r15+,r14
+0000152c mov.l @r15+,r13
+0000152e mov.l @r15+,r12
+00001530 mov.l @r15+,r11
+00001532 rtv/n r6
+
+REGION 0x2bc8
+00002bc8 sts.l pr,@-r15
+00002bca mov.l @(0x2cd4,pc),r1
+00002bcc mov.w @(0x6,r1),r0
+00002bce mov #0x2,r6
+00002bd0 cmp/hs r6,r0
+00002bd2 bt 0x2bdc
+00002bd4 mov #0x13,r2
+00002bd6 lds.l @r15+,pr
+00002bd8 rts 
+00002bda mov.b r2,@r1
+00002bdc mov.l @(0x2cd8,pc),r7
+00002bde mov.l @r7,r2
+00002be0 movi20 #0xf101, r4
+00002be4 movu.b @(0x1, r2), r6
+00002be8 movu.b @(0x2, r2), r0
+00002bec shll8 r6
+00002bee or r0,r6
+00002bf0 extu.w r6,r2
+00002bf2 cmp/eq r4,r2
+00002bf4 bt 0x2c02
+00002bf6 movi20 #0xf100, r5
+00002bfa cmp/eq r5,r2
+00002bfc bt 0x2c7e
+00002bfe bra 0x2d00
+00002c00 nop 
+00002c02 mov.w @(0x6,r1),r0
+00002c04 cmp/eq 0x5,r0
+00002c06 bt 0x2c10
+00002c08 mov #0x13,r2
+00002c0a lds.l @r15+,pr
+00002c0c rts 
+00002c0e mov.b r2,@r1
+00002c10 mov.w @(0x8,r1),r0
+00002c12 mov #0x4,r5
+00002c14 shll8 r5
+00002c16 and r5,r0
+00002c18 cmp/eq r5,r0
+00002c1a bt 0x2c24
+00002c1c mov #0x31,r2
+00002c1e lds.l @r15+,pr
+00002c20 rts 
+00002c22 mov.b r2,@r1
+00002c24 mov.l @r7,r4
+00002c26 mov.w @(0x6,r1),r0
+00002c28 add 0x1,r4
+00002c2a mov.l @(0x2ce0,pc),r7
+00002c2c jsr @r7
+00002c2e mov r0,r5
+00002c30 extu.b r0,r6
+00002c32 tst r6,r6
+00002c34 bt 0x2c46
+00002c36 mov.l @(0x2cd4,pc),r1
+00002c38 mov.b @r1,r2
+00002c3a tst r2,r2
+00002c3c bf 0x2d12
+00002c3e mov #0x22,r2
+00002c40 lds.l @r15+,pr
+00002c42 rts 
+00002c44 mov.b r2,@r1
+00002c46 mov #0x0,r5
+00002c48 mov #0x3,r4
+00002c4a extu.b r5,r2
+00002c4c cmp/ge r4,r2
+00002c4e bt 0x2c64
+00002c50 mov.l @(0x2cd8,pc),r7
+00002c52 mov.l @r7,r6
+00002c54 extu.b r5,r0
+00002c56 mov.l @(0x2ce4,pc),r2
+00002c58 add 0x3,r6
+00002c5a mov.b @(r0,r6),r6
+00002c5c mov.b r6,@(r0,r2)
+00002c5e add 0x1,r0
+00002c60 bra 0x2c4a
+00002c62 mov r0,r5
+00002c64 mov.l @(0x2cd4,pc),r1
+00002c66 movu.w @(0x8, r1), r0
+00002c6a movi20 #0x8000, r5
+00002c6e and r5,r0
+00002c70 cmp/eq r5,r0
+00002c72 bf 0x2c78
+00002c74 bset.b #0x2, @(0xb, r1)
+00002c78 mov #0x2,r4
+00002c7a bra 0x1de0
+00002c7c lds.l @r15+,pr
+00002c7e mov.w @(0x6,r1),r0
+
+REGION 0x2efc
+00002efc mov.l @r4,r6
+00002efe mov.b @(0x1,r6),r0
+00002f00 cmp/eq 0x1,r0
+00002f02 bt 0x2f10
+00002f04 mov #0x12,r0
+00002f06 mov.b r0,@(0x0,gbr)
+00002f08 add 0x8,r15
+00002f0a ldc.l @r15+,gbr
+00002f0c lds.l @r15+,pr
+00002f0e rts/n 
+00002f10 mov.w @(0x6,gbr),r0
+00002f12 cmp/eq 0x3,r0
+00002f14 bt 0x2f22
+00002f16 mov #0x13,r0
+00002f18 mov.b r0,@(0x0,gbr)
+00002f1a add 0x8,r15
+00002f1c ldc.l @r15+,gbr
+00002f1e lds.l @r15+,pr
+00002f20 rts/n 
+00002f22 mov.w @(0x8,gbr),r0
+00002f24 mov #0x4,r6
+00002f26 shll8 r6
+00002f28 and r6,r0
+00002f2a cmp/eq r6,r0
+00002f2c bt 0x2f3a
+00002f2e mov #0x31,r0
+00002f30 mov.b r0,@(0x0,gbr)
+00002f32 add 0x8,r15
+00002f34 ldc.l @r15+,gbr
+00002f36 lds.l @r15+,pr
+00002f38 rts/n 
+00002f3a mov.l @r4,r4
+00002f3c mov.w @(0x6,gbr),r0
+00002f3e add 0x1,r4
+00002f40 mov.l @(0x2f6c,pc),r1
+00002f42 jsr @r1
+00002f44 mov r0,r5
+00002f46 extu.b r0,r6
+00002f48 tst r6,r6
+00002f4a bt 0x2f94
+00002f4c mov.b @(0x0,gbr),r0
+00002f4e tst r0,r0
+00002f50 bf 0x3002
+00002f52 mov #0x22,r0
+00002f54 mov.b r0,@(0x0,gbr)
+00002f56 add 0x8,r15
+00002f58 ldc.l @r15+,gbr
+00002f5a lds.l @r15+,pr
+00002f5c rts/n 
+00002f5e movi20 #0xfff8, r0
+00002f62 movi20 #0x4fff8, r8
+00002f66 mov.l @(r0,r4),r12
+00002f68 movi20 #0x18cc, r0
+00002f6c movi20 #0x11be, r0
+00002f70 movi20 #0x11ba, r0
+00002f74 movi20 #0x13cc, r0
+00002f78 movi20 #0x37bc, r0
+00002f7c fmov.s @r15, fr15
+00002f7e movi20 #0x0, r0
+00002f82 mov.l @(0x10,r11),r2
+00002f84 fmov.s @r15, fr15
+00002f86 mov.l r0,@(0x30,r3)
+00002f88 movi20 #0x1bd8, r0
+00002f8c movi20 #0x1aa6, r0
+00002f90 movi20 #0x1de0, r0
+00002f94 mov.w @(0x8,gbr),r0
+00002f96 mov #0x40,r5
+00002f98 shll8 r5
+00002f9a and r5,r0
+00002f9c cmp/eq r5,r0
+00002f9e bf 0x2fe6
+00002fa0 mov.w @(0xa,gbr),r0
+00002fa2 tst 0x20,r0
+00002fa4 bt 0x2fe6
+00002fa6 mov.w @(0xa,gbr),r0
+00002fa8 tst 0x10,r0
+00002faa bt 0x2fb8
+00002fac mov #0x3,r4
+00002fae add 0x8,r15
+00002fb0 ldc.l @r15+,gbr
+00002fb2 mov.l @(0x3208,pc),r3
+00002fb4 jmp @r3
+00002fb6 lds.l @r15+,pr
+00002fb8 mov.l @(0x320c,pc),r7
+00002fba jsr/n @r7
+00002fbc extu.b r0,r1
+00002fbe tst r1,r1
+00002fc0 bt 0x2fd4
+00002fc2 mov.b @(0x0,gbr),r0
+00002fc4 tst r0,r0
+00002fc6 bf 0x3002
+00002fc8 mov #0x72,r0
+00002fca mov.b r0,@(0x0,gbr)
+00002fcc add 0x8,r15
+00002fce ldc.l @r15+,gbr
+00002fd0 lds.l @r15+,pr
+00002fd2 rts/n 
+00002fd4 mov.w @(0xa,gbr),r0
+00002fd6 mov #0x3,r4
+00002fd8 bset #0x4, r0
+00002fda mov.w r0,@(0xa,gbr)
+00002fdc add 0x8,r15
+00002fde ldc.l @r15+,gbr
+00002fe0 mov.l @(0x3208,pc),r3
+00002fe2 jmp @r3
+00002fe4 lds.l @r15+,pr
+00002fe6 mov #0x22,r0
+00002fe8 mov.b r0,@(0x0,gbr)
+00002fea add 0x8,r15
+00002fec ldc.l @r15+,gbr
+00002fee lds.l @r15+,pr
+00002ff0 rts/n 
+00002ff2 mov #0x3,r4
+00002ff4 add 0x8,r15
+00002ff6 ldc.l @r15+,gbr
+00002ff8 mov.l @(0x3208,pc),r3
+00002ffa jmp @r3
+00002ffc lds.l @r15+,pr
+00002ffe mov #0x31,r0
+
+REGION 0x325c
+0000325c mov.l r13,@-r15
+0000325e mov.l r14,@-r15
+00003260 sts.l pr,@-r15
+00003262 stc.l gbr,@-r15
+00003264 mov.l @(0x34ac,pc),r0
+00003266 ldc r0,gbr
+00003268 add -0x10,r15
+0000326a mov.l @(0x34b0,pc),r13
+0000326c mov.w @(0x6,r13),r0
+0000326e mov #0x2,r6
+00003270 cmp/hs r6,r0
+00003272 add -0x1,r0
+00003274 bt/s 0x3284
+00003276 mov r0,r14
+00003278 mov #0x13,r2
+0000327a mov.b r2,@r13
+0000327c bclr.b #0x3, @(0x9, r13)
+00003280 bra 0x340e
+00003282 nop 
+00003284 mov.w @(0x8,r13),r0
+00003286 tst 0x8,r0
+00003288 bf 0x3296
+0000328a mov #0x24,r2
+0000328c mov.b r2,@r13
+0000328e bclr.b #0x3, @(0x9, r13)
+00003292 bra 0x340e
+00003294 nop 
+00003296 mov #0x4,r6
+00003298 mov.l @(0x4,gbr),r0
+0000329a shll8 r6
+0000329c cmp/hi r6,r0
+0000329e bf 0x32b6
+000032a0 mov #0x4,r5
+000032a2 extu.w r14,r2
+000032a4 shll8 r5
+000032a6 cmp/eq r5,r2
+000032a8 bt 0x32ca
+000032aa mov #0x13,r2
+000032ac mov.b r2,@r13
+000032ae bclr.b #0x3, @(0x9, r13)
+000032b2 bra 0x340e
+000032b4 nop 
+000032b6 mov.l @(0x4,gbr),r0
+000032b8 extu.w r14,r2
+000032ba cmp/eq r0,r2
+000032bc bt 0x32ca
+000032be mov #0x13,r2
+000032c0 mov.b r2,@r13
+000032c2 bclr.b #0x3, @(0x9, r13)
+000032c6 bra 0x340e
+000032c8 nop 
+000032ca mov.l @(0x34b4,pc),r2
+000032cc jsr/n @r2
+000032ce extu.b r0,r0
+000032d0 cmp/eq 0x1,r0
+000032d2 bf 0x32ea
+000032d4 mov.b @r13,r2
+000032d6 tst r2,r2
+000032d8 bt 0x32de
+000032da bra 0x340e
+000032dc nop 
+000032de mov #0x10,r2
+000032e0 mov.b r2,@r13
+000032e2 bclr.b #0x3, @(0x9, r13)
+000032e6 bra 0x340e
+000032e8 nop 
+000032ea mov.l @(0x34b8,pc),r2
+000032ec mov.l @r2,r1
+000032ee mov.b @(0x1,r1),r0
+000032f0 mov r0,r4
+000032f2 mov.b @(0xc,gbr),r0
+000032f4 cmp/eq r0,r4
+000032f6 bt 0x3320
+000032f8 mov.l @r2,r5
+000032fa mov.b @(0x1,r5),r0
+000032fc mov r0,r7
+000032fe mov.b @(0xd,gbr),r0
+00003300 cmp/eq r0,r7
+00003302 bf 0x3314
+00003304 movt r4
+00003306 add 0x10,r15
+00003308 ldc.l @r15+,gbr
+0000330a lds.l @r15+,pr
+0000330c mov.l @r15+,r14
+0000330e mov.l @(0x34a8,pc),r3
+00003310 jmp @r3
+00003312 mov.l @r15+,r13
+00003314 mov #0x73,r2
+00003316 mov.b r2,@r13
+00003318 bclr.b #0x3, @(0x9, r13)
+0000331c bra 0x340e
+0000331e nop 
+00003320 mov.l @(0x34bc,pc),r2
+00003322 movu.w @(0x0, r2), r6
+00003326 mov.l @(0x4,gbr),r0
+00003328 cmp/eq r6,r0
+0000332a bf 0x3338
+0000332c mov #0x24,r2
+0000332e mov.b r2,@r13
+00003330 bclr.b #0x3, @(0x9, r13)
+00003334 bra 0x340e
+00003336 nop 
+00003338 mov.b @(0xc,gbr),r0
+0000333a mov #0x1,r4
+0000333c mov.b r0,@(0xd,gbr)
+0000333e add 0x1,r0
+00003340 mov.l @(0x34c0,pc),r3
+00003342 jsr @r3
+00003344 mov.b r0,@(0xc,gbr)
+00003346 mov #0x2,r2
+00003348 extu.w r14,r1
+0000334a cmp/pl r1
+0000334c bf/s 0x33ec
+0000334e mov.w r2,@r15
+00003350 mov.l @(0x34c4,pc),r1
+00003352 jsr/n @r1
+00003354 mov.l @(0x34b8,pc),r4
+00003356 mov.l @r4,r0
+00003358 movu.w @(0x0, r15), r5
+0000335c mov.l @(0x34c8,pc),r4
+0000335e add r5,r0
+00003360 mov.l r0,@(0x13c,gbr)
+00003362 mov r14,r0
+00003364 mov.w r0,@(0x140,gbr)
+00003366 mov.l @(0x138,gbr),r0
+00003368 mov.l r0,@(0x144,gbr)
+0000336a mov #0x0,r0
+0000336c mov.w r0,@(0x148,gbr)
+0000336e mov #0x1,r0
+00003370 shll8 r0
+00003372 mov.l @(0x34cc,pc),r6
+00003374 jsr @r6
+00003376 mov.w r0,@(0x14a,gbr)
+00003378 extu.b r0,r7
+0000337a tst r7,r7
+0000337c bf 0x33e0
+0000337e mov.w @(0x140,gbr),r0
+00003380 mov r0,r2
+00003382 mov.w r0,@(0x4,r15)
+00003384 mov.w @(0x148,gbr),r0
+00003386 extu.w r2,r2
+00003388 tst r2,r2
+0000338a mov r0,r1
+0000338c mov.w r0,@(0x8,r15)
+0000338e mov.l @(0x144,gbr),r0
+00003390 bf/s 0x33a6
+00003392 mov.l r0,@(0xc,r15)
+00003394 extu.w r1,r1
+00003396 tst r1,r1
+00003398 bf 0x33a6
+0000339a mov #0x72,r2
+0000339c mov.b r2,@r13
+0000339e bclr.b #0x3, @(0x9, r13)
+000033a2 bra 0x340e
+000033a4 nop 
+000033a6 mov.l @(0x34c4,pc),r2
+000033a8 jsr/n @r2
+000033aa movu.w @(0x8, r15), r5
+000033ae mov.l @(0xc,r15),r6
+000033b0 mov.l @(0x0,gbr),r0
+000033b2 mov.l @(0x34d0,pc),r3
+000033b4 jsr @r3
+000033b6 mov r0,r4
+000033b8 extu.b r0,r2
+000033ba tst r2,r2
+000033bc bf 0x33d8
+000033be movu.w @(0x8, r15), r1
+000033c2 mov.l @(0x0,gbr),r0
+000033c4 mov.w @r15,r2
+000033c6 add r1,r0
+000033c8 mov.l r0,@(0x0,gbr)
+000033ca mov.l @(0x4,gbr),r0
+000033cc sub r1,r0
+000033ce mov.l r0,@(0x4,gbr)
+000033d0 mov.w @(0x4,r15),r0
+000033d2 add r0,r2
+000033d4 bra 0x3348
+000033d6 sub r0,r14
+000033d8 bclr.b #0x3, @(0x9, r13)
+000033dc bra 0x340e
+000033de nop 
+000033e0 mov #0x72,r2
+000033e2 mov.b r2,@r13
+000033e4 bclr.b #0x3, @(0x9, r13)
+000033e8 bra 0x340e
+000033ea nop 
+000033ec mov.l @(0x4,gbr),r0
+000033ee tst r0,r0
+000033f0 bf 0x33fe
+000033f2 mov.w @(0x8,r13),r0
+000033f4 mov #0x40,r5
+000033f6 shll8 r5
+000033f8 bclr #0x3, r0
+000033fa or r5,r0
+000033fc mov.w r0,@(0x8,r13)
+000033fe mov #0x1,r4
+00003400 add 0x10,r15
+00003402 ldc.l @r15+,gbr
+00003404 lds.l @r15+,pr
+00003406 mov.l @r15+,r14
+00003408 mov.l @(0x34a8,pc),r3
+0000340a jmp @r3
+0000340c mov.l @r15+,r13
+0000340e add 0x10,r15
+
+REGION 0x4f2e
+00004f2e mov.l r14,@-r15
+00004f30 sts.l pr,@-r15
+00004f32 mov.l @(0x4fd4,pc),r1
+00004f34 mov r4,r14
+00004f36 mov.l @r4,r4
+00004f38 bsr 0x4ef4
+00004f3a mov.l @r1,r5
+00004f3c add 0x1,r0
+00004f3e mov.l r0,@r14
+00004f40 mov.l @(0x4fd4,pc),r2
+00004f42 mov.l @(0x4,r14),r4
+00004f44 bsr 0x4ef4
+00004f46 mov.l @r2,r5
+00004f48 add 0x1,r0
+00004f4a mov.l r0,@(0x4,r14)
+00004f4c mov.l @(0x4fd8,pc),r6
+00004f4e mov.l @r14,r1
+00004f50 mov.l r0,@(0x4,r6)
+00004f52 mov.l r1,@r6
+00004f54 mov.l @r14,r7
+00004f56 tst r7,r7
+00004f58 bf 0x4f62
+00004f5a mov.l @r14,r2
+00004f5c add 0x1,r2
+00004f5e mov.l r2,@r14
+00004f60 mov.l r2,@r6
+00004f62 mov #0x0,r0
+00004f64 lds.l @r15+,pr
+00004f66 rts 
+00004f68 mov.l @r15+,r14
+00004f6a mov.l @r15,r2
+00004f6c mov r5,r7
+00004f6e mov.l @(0x4fdc,pc),r1
+00004f70 mov.w @r1,r6
+00004f72 extu.w r2,r5
+00004f74 mov.w @(0x2,r1),r0
+00004f76 add r5,r6
+00004f78 extu.w r6,r4
+00004f7a mov r0,r2
+00004f7c extu.w r2,r6
+00004f7e mov r5,r0
+00004f80 mulr r0, r6
+00004f82 movu.w @(0x4, r1), r5
+00004f86 mov r5,r0
+00004f88 mov r6,r1
+00004f8a divs r0, r1
+00004f8c mulr r0, r1
+00004f8e mov #0x0,r0
+00004f90 sub r1,r6
+00004f92 xor r6,r4
+00004f94 rts 
+00004f96 mov.l r4,@r7
+00004f98 mov.l r14,@-r15
+00004f9a sts.l pr,@-r15
+00004f9c add -0x4,r15
+00004f9e mov r4,r14
+00004fa0 add -0x8,r15
+00004fa2 mov.l @(0x4fd8,pc),r2
+00004fa4 mov.l @r2,r1
+00004fa6 mov r15,r5
+00004fa8 mov.l @(0x4,r2),r6
+00004faa add 0x8,r5
+00004fac mov.l r1,@r15
+00004fae mov #0x0,r4
+00004fb0 bsr 0x4f6a

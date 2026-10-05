@@ -1,0 +1,41 @@
+{
+  "algorithm": "CRC-32/BZIP2: poly 04C11DB7, init FFFFFFFF, refin=false, refout=false, xorout FFFFFFFF; stored big endian. Reproduces both stock values. Runtime caller not newly traced.",
+  "results": [
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "sha256": "09604ecb9132666261bb966a8cefc5f8b7f7ec628fcd350a652cbcf947abfa14",
+      "range": "40000\u20134FF5F",
+      "slot": "0x4ff7c",
+      "stored": "134AE5B1",
+      "computed": "134AE5B1",
+      "match": true
+    },
+    {
+      "file": "stock_39990-THR-A020.rwd",
+      "sha256": "09604ecb9132666261bb966a8cefc5f8b7f7ec628fcd350a652cbcf947abfa14",
+      "range": "60000\u20136FF5F",
+      "slot": "0x6ff7c",
+      "stored": "9A305122",
+      "computed": "9A305122",
+      "match": true
+    },
+    {
+      "file": "mod25xv2-39990-THR,A020.rwd",
+      "sha256": "8cd9aea75bff1e1b66ba0f7f8e5b794c9f77fa3329571adc2d1c34f802985dc1",
+      "range": "40000\u20134FF5F",
+      "slot": "0x4ff7c",
+      "stored": "134AE5B1",
+      "computed": "134AE5B1",
+      "match": true
+    },
+    {
+      "file": "mod25xv2-39990-THR,A020.rwd",
+      "sha256": "8cd9aea75bff1e1b66ba0f7f8e5b794c9f77fa3329571adc2d1c34f802985dc1",
+      "range": "60000\u20136FF5F",
+      "slot": "0x6ff7c",
+      "stored": "9A305122",
+      "computed": "6956DAFD",
+      "match": false
+    }
+  ]
+}

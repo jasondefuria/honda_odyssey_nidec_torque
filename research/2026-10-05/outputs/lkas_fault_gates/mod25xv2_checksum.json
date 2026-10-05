@@ -1,0 +1,15 @@
+{
+  "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/work/eps_rwd_publish/eps_tools/mod25xv2-39990-THR,A020.rwd",
+  "bytes": 475237,
+  "sha256": "8cd9aea75bff1e1b66ba0f7f8e5b794c9f77fa3329571adc2d1c34f802985dc1",
+  "payload_bytes": 475136,
+  "container_stored": "0x455567b",
+  "container_computed": "0x455567b",
+  "A_stored": "0x685c",
+  "A_computed": "0x685c",
+  "C_stored": "0x77bc",
+  "C_computed": "0x77bc",
+  "whole_payload_word_sum": "0x0",
+  "pass": true,
+  "repository_copies_identical": true
+}

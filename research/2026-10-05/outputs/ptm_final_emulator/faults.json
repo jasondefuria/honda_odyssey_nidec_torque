@@ -1,0 +1,1990 @@
+[
+  {
+    "bank": 1,
+    "kind": "sum",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10410
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14998
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19588
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24178
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28768
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33358
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37948
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42538
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 1,
+    "kind": "P",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19585
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24174
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28763
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33352
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37941
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42530
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 1,
+    "kind": "target",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19591
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24186
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28781
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33376
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37971
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42566
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 1,
+    "kind": "output",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19583
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24170
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28757
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33344
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37931
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42518
+      }
+    ],
+    "detected": false
+  },
+  {
+    "bank": 2,
+    "kind": "sum",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10410
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14998
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19588
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24178
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28768
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33358
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37948
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42538
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 2,
+    "kind": "P",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19585
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24174
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28763
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33352
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37941
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42530
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 2,
+    "kind": "target",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19591
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24186
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28781
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33376
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37971
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42566
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 2,
+    "kind": "output",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19583
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24170
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28757
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33344
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37931
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42518
+      }
+    ],
+    "detected": false
+  },
+  {
+    "bank": 3,
+    "kind": "sum",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10410
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14998
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19588
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24178
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28768
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33358
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37948
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42538
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 3,
+    "kind": "P",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19585
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24174
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28763
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33352
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37941
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42530
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 3,
+    "kind": "target",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19591
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24186
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28781
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33376
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37971
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42566
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 3,
+    "kind": "output",
+    "ticks": [
+      {
+        "out": 1533,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10409
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19583
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24170
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28757
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33344
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37931
+      },
+      {
+        "out": 1021,
+        "target": 10064,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42518
+      }
+    ],
+    "detected": false
+  },
+  {
+    "bank": 4,
+    "kind": "sum",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19609
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24209
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28809
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33409
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42609
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 4,
+    "kind": "P",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10412
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15011
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19618
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24225
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28832
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33439
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38046
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42653
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 4,
+    "kind": "target",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10410
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15007
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19612
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24217
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33427
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38032
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42637
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 4,
+    "kind": "output",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10398
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19596
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24196
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28796
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33396
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42596
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 5,
+    "kind": "sum",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19609
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24209
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28809
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33409
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42609
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 5,
+    "kind": "P",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10412
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15011
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19618
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24225
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28832
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33439
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38046
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42653
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 5,
+    "kind": "target",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10410
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15007
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19612
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24217
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33427
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38032
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42637
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 5,
+    "kind": "output",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10398
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19596
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24196
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28796
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33396
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42596
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 6,
+    "kind": "sum",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19609
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24209
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28809
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33409
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42609
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 6,
+    "kind": "P",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10412
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15011
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19618
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24225
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28832
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33439
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38046
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42653
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 6,
+    "kind": "target",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10410
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15007
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19612
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24217
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33427
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38032
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42637
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 6,
+    "kind": "output",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10398
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19596
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24196
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28796
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33396
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42596
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 7,
+    "kind": "sum",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10411
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19609
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24209
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28809
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33409
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38009
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 4,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42609
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 7,
+    "kind": "P",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10412
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15011
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19618
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24225
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28832
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33439
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38046
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 6,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42653
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 7,
+    "kind": "target",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10410
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 15007
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19612
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24217
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28822
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33427
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 38032
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 33554436,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42637
+      }
+    ],
+    "detected": true
+  },
+  {
+    "bank": 7,
+    "kind": "output",
+    "ticks": [
+      {
+        "out": 1024,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 10398
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 0,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 14996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 19596
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 24196
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 28796
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 33396
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 37996
+      },
+      {
+        "out": 388,
+        "target": 2622,
+        "pd_flags": 16,
+        "curve_flags": 0,
+        "within_limit": true,
+        "steps": 42596
+      }
+    ],
+    "detected": true
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "scope": "Original v4 instructions, synthetic RAM, no peripheral or physical timing model",
+  "sample_delta_cases": [
+    {
+      "a": 0,
+      "b": 0,
+      "k": 4096,
+      "delta": 0,
+      "expected": 0,
+      "actual": 0,
+      "match": true
+    },
+    {
+      "a": 100,
+      "b": 90,
+      "k": 4096,
+      "delta": 10,
+      "expected": 320,
+      "actual": 320,
+      "match": true
+    },
+    {
+      "a": 90,
+      "b": 100,
+      "k": 4096,
+      "delta": -10,
+      "expected": -320,
+      "actual": -320,
+      "match": true
+    },
+    {
+      "a": 2,
+      "b": 32766,
+      "k": 4096,
+      "delta": 4,
+      "expected": 128,
+      "actual": 128,
+      "match": true
+    },
+    {
+      "a": 32766,
+      "b": 2,
+      "k": 4096,
+      "delta": -4,
+      "expected": -128,
+      "actual": -128,
+      "match": true
+    },
+    {
+      "a": 16384,
+      "b": 0,
+      "k": 4096,
+      "delta": -16384,
+      "expected": -32767,
+      "actual": -32767,
+      "match": true
+    },
+    {
+      "a": 0,
+      "b": 16384,
+      "k": 4096,
+      "delta": 16384,
+      "expected": 32767,
+      "actual": 32767,
+      "match": true
+    },
+    {
+      "a": 1200,
+      "b": 1000,
+      "k": 1000,
+      "delta": 200,
+      "expected": 1562,
+      "actual": 1562,
+      "match": true
+    }
+  ],
+  "all_match": true
+}

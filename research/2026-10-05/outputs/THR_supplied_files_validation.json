@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "file": "/Users/jasondefuria/Downloads/firmware_mod/stock_39990-THR-A020.rwd",
+      "sha256": "90cb1d23d8a27f4c45d52fcbc0a6f08813fb2ae87a0c2f9069f552edd7715edb",
+      "size": 475213,
+      "status": "PASS_OFFLINE_VALIDATION",
+      "payload_byte_identical_to_parent": true,
+      "independent_payload_reconstruction": true,
+      "both_identities_match": true,
+      "unrelated_identity_rejected": true,
+      "encryption_key_values": 1,
+      "checksum_A": "d0ca",
+      "checksum_C": "a6e0",
+      "word_sum": 0,
+      "negative_tests_rejected": [
+        "truncated",
+        "extra_byte",
+        "payload_bitflip"
+      ]
+    },
+    {
+      "file": "/Users/jasondefuria/Downloads/firmware_mod/mod25xv1-39990-THR,A020.rwd",
+      "sha256": "7086b01cf9c78b4a094662d8f9f0c9fb915d1ea497d90d56f21c0224c986b9b8",
+      "size": 475213,
+      "status": "PASS_OFFLINE_VALIDATION",
+      "payload_byte_identical_to_parent": true,
+      "independent_payload_reconstruction": true,
+      "both_identities_match": true,
+      "unrelated_identity_rejected": true,
+      "encryption_key_values": 1,
+      "checksum_A": "685c",
+      "checksum_C": "77bc",
+      "word_sum": 0,
+      "negative_tests_rejected": [
+        "truncated",
+        "extra_byte",
+        "payload_bitflip"
+      ]
+    }
+  ],
+  "scope": "Offline parsing, exact byte reconstruction and integrity only. No new boot emulation or live ECU activity."
+}

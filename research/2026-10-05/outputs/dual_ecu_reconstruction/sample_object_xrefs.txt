@@ -1,0 +1,140 @@
+odyssey
+TARGET fff854d4 POOLS ['0x27810'] REFS ['0x275f4', '0x2768c']
+CONTEXT 275f4
+000275d0: add 0x1,r0
+000275d2: movi20s #-0xb9c000, r6
+000275d6: mov.w @(0x8,r6),r0
+000275d8: rts 
+000275da: and 0x1,r0
+000275dc: mov.l @(0x277f8,pc),r0
+000275de: rts/n 
+000275e0: mov.l @(0x277fc,pc),r0
+000275e2: rts/n 
+000275e4: mov.l @(0x27800,pc),r0
+000275e6: rts/n 
+000275e8: mov.l @(0x27804,pc),r0
+000275ea: rts/n 
+000275ec: mov.l @(0x27808,pc),r0
+000275ee: rts/n 
+000275f0: mov.l @(0x2780c,pc),r0
+000275f2: rts/n 
+000275f4: mov.l @(0x27810,pc),r0
+000275f6: rts/n 
+000275f8: mov.l @(0x27814,pc),r0
+000275fa: rts/n 
+000275fc: mov.l @(0x27818,pc),r0
+000275fe: rts/n 
+00027600: mov.l @(0x2781c,pc),r0
+00027602: rts/n 
+00027604: mov.l @(0x27820,pc),r0
+00027606: rts/n 
+00027608: mov.l @(0x27824,pc),r0
+0002760a: rts/n 
+0002760c: mov.l @(0x27828,pc),r0
+0002760e: rts/n 
+00027610: extu.w r4,r6
+00027612: mov.l @(0x2782c,pc),r2
+00027614: movi20 #0x53b1, r0
+00027618: mulr r0, r6
+0002761a: add r2,r6
+0002761c: cmp/pz r6
+0002761e: bt 0x27628
+00027620: neg r6,r5
+00027622: shlr16 r5
+00027624: bra 0x2762c
+00027626: neg r5,r5
+00027628: shlr16 r6
+0002762a: mov r6,r5
+0002762c: rts 
+0002762e: neg r5,r0
+00027630: mov.l r13,@-r15
+00027632: mov.l r14,@-r15
+00027634: sts.l pr,@-r15
+00027636: mov.l @(0x27830,pc),r1
+00027638: jsr/n @r1
+0002763a: mov.l @(0x27834,pc),r13
+0002763c: mov.l r0,@r13
+0002763e: mov.l @(0x27838,pc),r7
+00027640: jsr @r7
+00027642: mov r0,r4
+00027644: mov.l @(0x27808,pc),r14
+00027646: mov.w r0,@r14
+00027648: mov #0x10,r6
+0002764a: mov.l @(0x2783c,pc),r5
+0002764c: mov.l @(0x27840,pc),r2
+0002764e: jsr @r2
+00027650: mov r0,r4
+00027652: mov.w r0,@(0x6,r14)
+00027654: mov.l @(0x27844,pc),r5
+00027656: movi20 #0x0, r6
+CONTEXT 2768c
+00027668: cmp/gt r11,r11
+0002766a: jsr/n @r13
+0002766c: mov.w @r14,r4
+0002766e: mov.w r0,@(0x10,r14)
+00027670: mov.l @(0x27850,pc),r5
+00027672: movi20 #0x7fff, r6
+00027676: jsr/n @r13
+00027678: mov.w r0,@(0x12,r14)
+0002767a: lds.l @r15+,pr
+0002767c: mov.l @r15+,r14
+0002767e: rts 
+00027680: mov.l @r15+,r13
+00027682: mov.l r13,@-r15
+00027684: mov.l r14,@-r15
+00027686: sts.l pr,@-r15
+00027688: sts.l macl,@-r15
+0002768a: stc.l gbr,@-r15
+0002768c: mov.l @(0x27810,pc),r0
+0002768e: ldc r0,gbr
+00027690: mov.w @(0x30,gbr),r0
+00027692: mov #0x5,r2
+00027694: shll8 r2
+00027696: extu.w r0,r1
+00027698: mov r2,r0
+0002769a: mulr r0, r1
+0002769c: mov r4,r7
+0002769e: mov r5,r13
+000276a0: shlr16 r1
+000276a2: mov r1,r0
+000276a4: mov.w r0,@(0x0,gbr)
+000276a6: mov.w @(0x34,gbr),r0
+000276a8: extu.w r0,r4
+000276aa: mov r2,r0
+000276ac: mulr r0, r4
+000276ae: shlr16 r4
+000276b0: mov r4,r0
+000276b2: mov.w r0,@(0x2,gbr)
+000276b4: mov.w @(0x32,gbr),r0
+000276b6: sub r4,r1
+000276b8: exts.w r1,r1
+000276ba: extu.w r0,r6
+000276bc: cmp/pz r1
+000276be: mov r2,r0
+000276c0: mulr r0, r6
+000276c2: shlr16 r6
+000276c4: mov r6,r0
+000276c6: mov.w r0,@(0x4,gbr)
+000276c8: mov.w @(0x36,gbr),r0
+000276ca: extu.w r0,r14
+000276cc: mov r2,r0
+000276ce: mulr r0, r14
+000276d0: shlr16 r14
+000276d2: mov r14,r0
+000276d4: mov.w r0,@(0x6,gbr)
+000276d6: mov r1,r0
+000276d8: bt/s 0x276e4
+000276da: mov.w r0,@(0x14,gbr)
+000276dc: mov.w @(0x14,gbr),r0
+000276de: neg r0,r0
+000276e0: bra 0x276e8
+000276e2: mov.w r0,@(0x28,gbr)
+000276e4: mov.w @(0x14,gbr),r0
+000276e6: mov.w r0,@(0x28,gbr)
+000276e8: mov.w @r7,r2
+000276ea: movi20 #-0x7fff, r5
+000276ee: sub r2,r1
+clarity
+TARGET 00035b5c POOLS [] REFS []
+TARGET 00035b5e POOLS [] REFS []
+TARGET 00035b60 POOLS [] REFS []

@@ -1,0 +1,379 @@
+{
+  "status": "BENCH STUDY ONLY: not ROM-executed, not vehicle-tested, no flashable RWD generated",
+  "assumption": "2.5x positive steady controller output at the top of the command range, zero feedback, full authority, no driver fade. NOT 2.5x physical torque or uniform output gain.",
+  "stock_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "candidate_sha256": "04b48282b8350c2f987af2efe5c59bc73d62fe6bc3ddfbf01eed06b5d27f5189",
+  "source_of_semantics": "THR_A020_FINDINGS_20260925.md; table bytes independently read",
+  "axis": [
+    0,
+    128,
+    256,
+    384,
+    512,
+    640,
+    768,
+    896,
+    1024
+  ],
+  "stock_curve": [
+    0,
+    2019,
+    3230,
+    3980,
+    4345,
+    4577,
+    4721,
+    4864,
+    4864
+  ],
+  "naive_2p5_curve": [
+    0,
+    5048,
+    8075,
+    9950,
+    10863,
+    11443,
+    11803,
+    12160,
+    12160
+  ],
+  "slope_limited_candidate_curve": [
+    0,
+    3968,
+    7936,
+    9950,
+    10863,
+    11443,
+    11803,
+    12160,
+    12160
+  ],
+  "naive_first_two_slopes": [
+    39.4375,
+    23.6484375
+  ],
+  "candidate_peak_curve": 12160,
+  "stock_peak_curve": 4864,
+  "positive_peak_p_at_ref_zero": {
+    "stock": 836,
+    "candidate": 2090
+  },
+  "negative_peak_arithmetic_shift_model": {
+    "stock": -836,
+    "candidate": -2090
+  },
+  "clamps": {
+    "stock": {
+      "D": 640,
+      "P": 1024,
+      "u": 1024
+    },
+    "candidate": {
+      "D": 640,
+      "P": 2560,
+      "u": 2560
+    }
+  },
+  "changed_byte_count": 58,
+  "patch_words": [
+    {
+      "address": "0x57BC2",
+      "old": 2019,
+      "new": 3968,
+      "old_hex": "07E3",
+      "new_hex": "0F80",
+      "role": "command_curve[1]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BC4",
+      "old": 3230,
+      "new": 7936,
+      "old_hex": "0C9E",
+      "new_hex": "1F00",
+      "role": "command_curve[2]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BC6",
+      "old": 3980,
+      "new": 9950,
+      "old_hex": "0F8C",
+      "new_hex": "26DE",
+      "role": "command_curve[3]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BC8",
+      "old": 4345,
+      "new": 10863,
+      "old_hex": "10F9",
+      "new_hex": "2A6F",
+      "role": "command_curve[4]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BCA",
+      "old": 4577,
+      "new": 11443,
+      "old_hex": "11E1",
+      "new_hex": "2CB3",
+      "role": "command_curve[5]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BCC",
+      "old": 4721,
+      "new": 11803,
+      "old_hex": "1271",
+      "new_hex": "2E1B",
+      "role": "command_curve[6]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BCE",
+      "old": 4864,
+      "new": 12160,
+      "old_hex": "1300",
+      "new_hex": "2F80",
+      "role": "command_curve[7]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BD0",
+      "old": 4864,
+      "new": 12160,
+      "old_hex": "1300",
+      "new_hex": "2F80",
+      "role": "command_curve[8]",
+      "bank": 1
+    },
+    {
+      "address": "0x57BD8",
+      "old": 1024,
+      "new": 2560,
+      "old_hex": "0400",
+      "new_hex": "0A00",
+      "role": "P ceiling",
+      "bank": 1
+    },
+    {
+      "address": "0x57BDA",
+      "old": 1024,
+      "new": 2560,
+      "old_hex": "0400",
+      "new_hex": "0A00",
+      "role": "controller output ceiling",
+      "bank": 1
+    },
+    {
+      "address": "0x57EC2",
+      "old": 2019,
+      "new": 3968,
+      "old_hex": "07E3",
+      "new_hex": "0F80",
+      "role": "command_curve[1]",
+      "bank": 2
+    },
+    {
+      "address": "0x57EC4",
+      "old": 3230,
+      "new": 7936,
+      "old_hex": "0C9E",
+      "new_hex": "1F00",
+      "role": "command_curve[2]",
+      "bank": 2
+    },
+    {
+      "address": "0x57EC6",
+      "old": 3980,
+      "new": 9950,
+      "old_hex": "0F8C",
+      "new_hex": "26DE",
+      "role": "command_curve[3]",
+      "bank": 2
+    },
+    {
+      "address": "0x57EC8",
+      "old": 4345,
+      "new": 10863,
+      "old_hex": "10F9",
+      "new_hex": "2A6F",
+      "role": "command_curve[4]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ECA",
+      "old": 4577,
+      "new": 11443,
+      "old_hex": "11E1",
+      "new_hex": "2CB3",
+      "role": "command_curve[5]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ECC",
+      "old": 4721,
+      "new": 11803,
+      "old_hex": "1271",
+      "new_hex": "2E1B",
+      "role": "command_curve[6]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ECE",
+      "old": 4864,
+      "new": 12160,
+      "old_hex": "1300",
+      "new_hex": "2F80",
+      "role": "command_curve[7]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ED0",
+      "old": 4864,
+      "new": 12160,
+      "old_hex": "1300",
+      "new_hex": "2F80",
+      "role": "command_curve[8]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ED8",
+      "old": 1024,
+      "new": 2560,
+      "old_hex": "0400",
+      "new_hex": "0A00",
+      "role": "P ceiling",
+      "bank": 2
+    },
+    {
+      "address": "0x57EDA",
+      "old": 1024,
+      "new": 2560,
+      "old_hex": "0400",
+      "new_hex": "0A00",
+      "role": "controller output ceiling",
+      "bank": 2
+    },
+    {
+      "address": "0x581C2",
+      "old": 2019,
+      "new": 3968,
+      "old_hex": "07E3",
+      "new_hex": "0F80",
+      "role": "command_curve[1]",
+      "bank": 3
+    },
+    {
+      "address": "0x581C4",
+      "old": 3230,
+      "new": 7936,
+      "old_hex": "0C9E",
+      "new_hex": "1F00",
+      "role": "command_curve[2]",
+      "bank": 3
+    },
+    {
+      "address": "0x581C6",
+      "old": 3980,
+      "new": 9950,
+      "old_hex": "0F8C",
+      "new_hex": "26DE",
+      "role": "command_curve[3]",
+      "bank": 3
+    },
+    {
+      "address": "0x581C8",
+      "old": 4345,
+      "new": 10863,
+      "old_hex": "10F9",
+      "new_hex": "2A6F",
+      "role": "command_curve[4]",
+      "bank": 3
+    },
+    {
+      "address": "0x581CA",
+      "old": 4577,
+      "new": 11443,
+      "old_hex": "11E1",
+      "new_hex": "2CB3",
+      "role": "command_curve[5]",
+      "bank": 3
+    },
+    {
+      "address": "0x581CC",
+      "old": 4721,
+      "new": 11803,
+      "old_hex": "1271",
+      "new_hex": "2E1B",
+      "role": "command_curve[6]",
+      "bank": 3
+    },
+    {
+      "address": "0x581CE",
+      "old": 4864,
+      "new": 12160,
+      "old_hex": "1300",
+      "new_hex": "2F80",
+      "role": "command_curve[7]",
+      "bank": 3
+    },
+    {
+      "address": "0x581D0",
+      "old": 4864,
+      "new": 12160,
+      "old_hex": "1300",
+      "new_hex": "2F80",
+      "role": "command_curve[8]",
+      "bank": 3
+    },
+    {
+      "address": "0x581D8",
+      "old": 1024,
+      "new": 2560,
+      "old_hex": "0400",
+      "new_hex": "0A00",
+      "role": "P ceiling",
+      "bank": 3
+    },
+    {
+      "address": "0x581DA",
+      "old": 1024,
+      "new": 2560,
+      "old_hex": "0400",
+      "new_hex": "0A00",
+      "role": "controller output ceiling",
+      "bank": 3
+    },
+    {
+      "address": "0x7FF80",
+      "old": 53450,
+      "new": 9107,
+      "old_hex": "D0CA",
+      "new_hex": "2393",
+      "role": "checksum A",
+      "bank": null
+    },
+    {
+      "address": "0x7FFFE",
+      "old": 42720,
+      "new": 334,
+      "old_hex": "A6E0",
+      "new_hex": "014E",
+      "role": "checksum C",
+      "bank": null
+    }
+  ],
+  "static_checks": "source hash, size, expected tables, slope cap, signed table range, bank consistency, byte whitelist, checksum reproduction, identity and unselected banks unchanged",
+  "not_verified": [
+    "exact Q26 interpolation",
+    "signed intermediate widths and overflow",
+    "controller ROM execution",
+    "transient D response",
+    "monitor/state machine interactions",
+    "motor-side response and physical torque",
+    "THR resident decryption and final programming dependency check"
+  ],
+  "model_warning": "Sweep uses ideal rational interpolation; cannot substitute for the missing ROM emulator. Peaks use integer shifts with constant Kp=11."
+}

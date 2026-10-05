@@ -1,0 +1,32 @@
+[
+  {
+    "label": "E4 receive supervision",
+    "start": "0x14618",
+    "end_exclusive": "0x14c24",
+    "different_bytes": 0
+  },
+  {
+    "label": "LKAS cycle, monitors and state machine",
+    "start": "0x72032",
+    "end_exclusive": "0x73a28",
+    "different_bytes": 0
+  },
+  {
+    "label": "command and driver monitors, status",
+    "start": "0x750e8",
+    "end_exclusive": "0x7561c",
+    "different_bytes": 0
+  },
+  {
+    "label": "target and PD consistency monitors",
+    "start": "0x6acc4",
+    "end_exclusive": "0x6be98",
+    "different_bytes": 0
+  },
+  {
+    "label": "diagnostic aggregation",
+    "start": "0x4d358",
+    "end_exclusive": "0x4d400",
+    "different_bytes": 0
+  }
+]

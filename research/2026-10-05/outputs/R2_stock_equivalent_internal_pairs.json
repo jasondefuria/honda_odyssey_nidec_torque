@@ -1,0 +1,1089 @@
+{
+  "scope": "Offline synthetic state: full weights, zero driver input and feedback/base assist, speed 60 internal counts, fresh initialized state per command, five calls. Commands injected at FFF8500C; not verified CAN-to-input conversion or physical torque. Bisection with coarse monotonicity check; not exhaustive global nearest-pair proof.",
+  "rwd_sha256": {
+    "stock": "90cb1d23d8a27f4c45d52fcbc0a6f08813fb2ae87a0c2f9069f552edd7715edb",
+    "r2": "7086b01cf9c78b4a094662d8f9f0c9fb915d1ea497d90d56f21c0224c986b9b8"
+  },
+  "pairs": [
+    {
+      "bank": 1,
+      "stock_command": 0,
+      "r2_command": 0,
+      "stock_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 256,
+      "r2_command": 176,
+      "stock_ticks": [
+        567,
+        63,
+        63,
+        63,
+        63
+      ],
+      "r2_ticks": [
+        703,
+        63,
+        63,
+        63,
+        63
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -703,
+        -63,
+        -63,
+        -63,
+        -63
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 512,
+      "r2_command": 327,
+      "stock_ticks": [
+        797,
+        157,
+        157,
+        157,
+        157
+      ],
+      "r2_ticks": [
+        796,
+        156,
+        156,
+        156,
+        156
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -796,
+        -156,
+        -156,
+        -156,
+        -156
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 1024,
+      "r2_command": 584,
+      "stock_ticks": [
+        993,
+        353,
+        353,
+        353,
+        353
+      ],
+      "r2_ticks": [
+        993,
+        353,
+        353,
+        353,
+        353
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -993,
+        -353,
+        -353,
+        -353,
+        -353
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 1536,
+      "r2_command": 687,
+      "stock_ticks": [
+        1024,
+        497,
+        497,
+        497,
+        497
+      ],
+      "r2_ticks": [
+        1136,
+        496,
+        496,
+        496,
+        496
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -1136,
+        -496,
+        -496,
+        -496,
+        -496
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 2048,
+      "r2_command": 843,
+      "stock_ticks": [
+        1024,
+        611,
+        611,
+        611,
+        611
+      ],
+      "r2_ticks": [
+        1250,
+        610,
+        610,
+        610,
+        610
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -1250,
+        -610,
+        -610,
+        -610,
+        -610
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 2560,
+      "r2_command": 979,
+      "stock_ticks": [
+        1024,
+        715,
+        715,
+        715,
+        715
+      ],
+      "r2_ticks": [
+        1349,
+        709,
+        709,
+        709,
+        709
+      ],
+      "residual": -6,
+      "negative_r2_ticks": [
+        -1349,
+        -709,
+        -709,
+        -709,
+        -709
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 3072,
+      "r2_command": 979,
+      "stock_ticks": [
+        1024,
+        737,
+        737,
+        737,
+        737
+      ],
+      "r2_ticks": [
+        1349,
+        709,
+        709,
+        709,
+        709
+      ],
+      "residual": -28,
+      "negative_r2_ticks": [
+        -1349,
+        -709,
+        -709,
+        -709,
+        -709
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 3584,
+      "r2_command": 988,
+      "stock_ticks": [
+        1024,
+        836,
+        836,
+        836,
+        836
+      ],
+      "r2_ticks": [
+        1477,
+        837,
+        837,
+        837,
+        837
+      ],
+      "residual": 1,
+      "negative_r2_ticks": [
+        -1477,
+        -837,
+        -837,
+        -837,
+        -837
+      ]
+    },
+    {
+      "bank": 1,
+      "stock_command": 4096,
+      "r2_command": 988,
+      "stock_ticks": [
+        1024,
+        836,
+        836,
+        836,
+        836
+      ],
+      "r2_ticks": [
+        1477,
+        837,
+        837,
+        837,
+        837
+      ],
+      "residual": 1,
+      "negative_r2_ticks": [
+        -1477,
+        -837,
+        -837,
+        -837,
+        -837
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 0,
+      "r2_command": 0,
+      "stock_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 256,
+      "r2_command": 176,
+      "stock_ticks": [
+        567,
+        63,
+        63,
+        63,
+        63
+      ],
+      "r2_ticks": [
+        703,
+        63,
+        63,
+        63,
+        63
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -703,
+        -63,
+        -63,
+        -63,
+        -63
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 512,
+      "r2_command": 327,
+      "stock_ticks": [
+        797,
+        157,
+        157,
+        157,
+        157
+      ],
+      "r2_ticks": [
+        796,
+        156,
+        156,
+        156,
+        156
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -796,
+        -156,
+        -156,
+        -156,
+        -156
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 1024,
+      "r2_command": 584,
+      "stock_ticks": [
+        993,
+        353,
+        353,
+        353,
+        353
+      ],
+      "r2_ticks": [
+        993,
+        353,
+        353,
+        353,
+        353
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -993,
+        -353,
+        -353,
+        -353,
+        -353
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 1536,
+      "r2_command": 687,
+      "stock_ticks": [
+        1024,
+        497,
+        497,
+        497,
+        497
+      ],
+      "r2_ticks": [
+        1136,
+        496,
+        496,
+        496,
+        496
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -1136,
+        -496,
+        -496,
+        -496,
+        -496
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 2048,
+      "r2_command": 843,
+      "stock_ticks": [
+        1024,
+        611,
+        611,
+        611,
+        611
+      ],
+      "r2_ticks": [
+        1250,
+        610,
+        610,
+        610,
+        610
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -1250,
+        -610,
+        -610,
+        -610,
+        -610
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 2560,
+      "r2_command": 979,
+      "stock_ticks": [
+        1024,
+        715,
+        715,
+        715,
+        715
+      ],
+      "r2_ticks": [
+        1349,
+        709,
+        709,
+        709,
+        709
+      ],
+      "residual": -6,
+      "negative_r2_ticks": [
+        -1349,
+        -709,
+        -709,
+        -709,
+        -709
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 3072,
+      "r2_command": 979,
+      "stock_ticks": [
+        1024,
+        737,
+        737,
+        737,
+        737
+      ],
+      "r2_ticks": [
+        1349,
+        709,
+        709,
+        709,
+        709
+      ],
+      "residual": -28,
+      "negative_r2_ticks": [
+        -1349,
+        -709,
+        -709,
+        -709,
+        -709
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 3584,
+      "r2_command": 988,
+      "stock_ticks": [
+        1024,
+        836,
+        836,
+        836,
+        836
+      ],
+      "r2_ticks": [
+        1477,
+        837,
+        837,
+        837,
+        837
+      ],
+      "residual": 1,
+      "negative_r2_ticks": [
+        -1477,
+        -837,
+        -837,
+        -837,
+        -837
+      ]
+    },
+    {
+      "bank": 2,
+      "stock_command": 4096,
+      "r2_command": 988,
+      "stock_ticks": [
+        1024,
+        836,
+        836,
+        836,
+        836
+      ],
+      "r2_ticks": [
+        1477,
+        837,
+        837,
+        837,
+        837
+      ],
+      "residual": 1,
+      "negative_r2_ticks": [
+        -1477,
+        -837,
+        -837,
+        -837,
+        -837
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 0,
+      "r2_command": 0,
+      "stock_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 256,
+      "r2_command": 176,
+      "stock_ticks": [
+        567,
+        63,
+        63,
+        63,
+        63
+      ],
+      "r2_ticks": [
+        703,
+        63,
+        63,
+        63,
+        63
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -703,
+        -63,
+        -63,
+        -63,
+        -63
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 512,
+      "r2_command": 327,
+      "stock_ticks": [
+        797,
+        157,
+        157,
+        157,
+        157
+      ],
+      "r2_ticks": [
+        796,
+        156,
+        156,
+        156,
+        156
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -796,
+        -156,
+        -156,
+        -156,
+        -156
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 1024,
+      "r2_command": 584,
+      "stock_ticks": [
+        993,
+        353,
+        353,
+        353,
+        353
+      ],
+      "r2_ticks": [
+        993,
+        353,
+        353,
+        353,
+        353
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -993,
+        -353,
+        -353,
+        -353,
+        -353
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 1536,
+      "r2_command": 687,
+      "stock_ticks": [
+        1024,
+        497,
+        497,
+        497,
+        497
+      ],
+      "r2_ticks": [
+        1136,
+        496,
+        496,
+        496,
+        496
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -1136,
+        -496,
+        -496,
+        -496,
+        -496
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 2048,
+      "r2_command": 843,
+      "stock_ticks": [
+        1024,
+        611,
+        611,
+        611,
+        611
+      ],
+      "r2_ticks": [
+        1250,
+        610,
+        610,
+        610,
+        610
+      ],
+      "residual": -1,
+      "negative_r2_ticks": [
+        -1250,
+        -610,
+        -610,
+        -610,
+        -610
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 2560,
+      "r2_command": 979,
+      "stock_ticks": [
+        1024,
+        715,
+        715,
+        715,
+        715
+      ],
+      "r2_ticks": [
+        1349,
+        709,
+        709,
+        709,
+        709
+      ],
+      "residual": -6,
+      "negative_r2_ticks": [
+        -1349,
+        -709,
+        -709,
+        -709,
+        -709
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 3072,
+      "r2_command": 979,
+      "stock_ticks": [
+        1024,
+        737,
+        737,
+        737,
+        737
+      ],
+      "r2_ticks": [
+        1349,
+        709,
+        709,
+        709,
+        709
+      ],
+      "residual": -28,
+      "negative_r2_ticks": [
+        -1349,
+        -709,
+        -709,
+        -709,
+        -709
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 3584,
+      "r2_command": 988,
+      "stock_ticks": [
+        1024,
+        836,
+        836,
+        836,
+        836
+      ],
+      "r2_ticks": [
+        1477,
+        837,
+        837,
+        837,
+        837
+      ],
+      "residual": 1,
+      "negative_r2_ticks": [
+        -1477,
+        -837,
+        -837,
+        -837,
+        -837
+      ]
+    },
+    {
+      "bank": 3,
+      "stock_command": 4096,
+      "r2_command": 988,
+      "stock_ticks": [
+        1024,
+        836,
+        836,
+        836,
+        836
+      ],
+      "r2_ticks": [
+        1477,
+        837,
+        837,
+        837,
+        837
+      ],
+      "residual": 1,
+      "negative_r2_ticks": [
+        -1477,
+        -837,
+        -837,
+        -837,
+        -837
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 0,
+      "r2_command": 0,
+      "stock_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 256,
+      "r2_command": 256,
+      "stock_ticks": [
+        130,
+        30,
+        30,
+        30,
+        30
+      ],
+      "r2_ticks": [
+        130,
+        30,
+        30,
+        30,
+        30
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -130,
+        -30,
+        -30,
+        -30,
+        -30
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 512,
+      "r2_command": 512,
+      "stock_ticks": [
+        339,
+        92,
+        92,
+        92,
+        92
+      ],
+      "r2_ticks": [
+        339,
+        92,
+        92,
+        92,
+        92
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -339,
+        -92,
+        -92,
+        -92,
+        -92
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 1024,
+      "r2_command": 1024,
+      "stock_ticks": [
+        708,
+        236,
+        236,
+        236,
+        236
+      ],
+      "r2_ticks": [
+        708,
+        236,
+        236,
+        236,
+        236
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -708,
+        -236,
+        -236,
+        -236,
+        -236
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 1536,
+      "r2_command": 1536,
+      "stock_ticks": [
+        992,
+        357,
+        357,
+        357,
+        357
+      ],
+      "r2_ticks": [
+        992,
+        357,
+        357,
+        357,
+        357
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -992,
+        -357,
+        -357,
+        -357,
+        -357
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 2048,
+      "r2_command": 2040,
+      "stock_ticks": [
+        1024,
+        418,
+        418,
+        418,
+        418
+      ],
+      "r2_ticks": [
+        1024,
+        418,
+        418,
+        418,
+        418
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -1024,
+        -418,
+        -418,
+        -418,
+        -418
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 2560,
+      "r2_command": 2548,
+      "stock_ticks": [
+        1024,
+        453,
+        453,
+        453,
+        453
+      ],
+      "r2_ticks": [
+        1024,
+        453,
+        453,
+        453,
+        453
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -1024,
+        -453,
+        -453,
+        -453,
+        -453
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 3072,
+      "r2_command": 3064,
+      "stock_ticks": [
+        1024,
+        490,
+        490,
+        490,
+        490
+      ],
+      "r2_ticks": [
+        1024,
+        490,
+        490,
+        490,
+        490
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -1024,
+        -490,
+        -490,
+        -490,
+        -490
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 3584,
+      "r2_command": 3584,
+      "stock_ticks": [
+        1024,
+        528,
+        528,
+        528,
+        528
+      ],
+      "r2_ticks": [
+        1024,
+        528,
+        528,
+        528,
+        528
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -1024,
+        -528,
+        -528,
+        -528,
+        -528
+      ]
+    },
+    {
+      "bank": 7,
+      "stock_command": 4096,
+      "r2_command": 4092,
+      "stock_ticks": [
+        1024,
+        563,
+        563,
+        563,
+        563
+      ],
+      "r2_ticks": [
+        1024,
+        563,
+        563,
+        563,
+        563
+      ],
+      "residual": 0,
+      "negative_r2_ticks": [
+        -1024,
+        -563,
+        -563,
+        -563,
+        -563
+      ]
+    }
+  ]
+}

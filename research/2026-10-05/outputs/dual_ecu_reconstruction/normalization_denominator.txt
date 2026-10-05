@@ -1,0 +1,83 @@
+RANGE 0x20d20 0x20dd0
+00020d20: mov #0x2,r5
+00020d22: shll r2
+00020d24: mov.l r5,@-r15
+00020d26: mov.l @(0x20e8c,pc),r5 ; literal=000506c2
+00020d28: mov.l @(0x20e90,pc),r4 ; literal=00050692
+00020d2a: add r2,r5
+00020d2c: add r2,r4
+00020d2e: mov.l @(0x20e94,pc),r6 ; literal=fff806fc
+00020d30: mov.l @(0x20e98,pc),r1 ; literal=000307b2
+00020d32: jsr @r1
+00020d34: mov #0xc,r7
+00020d36: add 0x4,r15
+00020d38: lds.l @r15+,pr
+00020d3a: rts/n 
+00020d3c: sts.l pr,@-r15
+00020d3e: mov.l @(0x20de8,pc),r4 ; literal=fff85390
+00020d40: mov.l @r4,r2
+00020d42: mov #0x2,r5
+00020d44: shll r2
+00020d46: mov.l r5,@-r15
+00020d48: mov.l @(0x20e9c,pc),r5 ; literal=00050330
+00020d4a: mov.l @(0x20ea0,pc),r4 ; literal=00050300
+00020d4c: add r2,r5
+00020d4e: add r2,r4
+00020d50: mov.l @(0x20ea4,pc),r6 ; literal=fff804dc
+00020d52: mov.l @(0x20e98,pc),r1 ; literal=000307b2
+00020d54: jsr @r1
+00020d56: mov #0xc,r7
+00020d58: add 0x4,r15
+00020d5a: lds.l @r15+,pr
+00020d5c: rts/n 
+00020d5e: mov.l r14,@-r15
+00020d60: sts.l pr,@-r15
+00020d62: sts.l macl,@-r15
+00020d64: sts.l mach,@-r15
+00020d66: mov.l @(0x20ea8,pc),r1 ; literal=fff80bad
+00020d68: mov.b @r1,r0
+00020d6a: cmp/eq 0x1,r0
+00020d6c: bf/s 0x20dd8
+00020d6e: mov #0x0,r14
+00020d70: mov.l @(0x20eac,pc),r4 ; literal=0005f604
+00020d72: movi20 #0x8a9, r5
+00020d76: mov.l @r4,r0
+00020d78: shll16 r5
+00020d7a: mov.l @(0x20eb0,pc),r2 ; literal=6372990f
+00020d7c: mov #-0x9,r1
+00020d7e: divs r0, r5
+00020d80: shll8 r5
+00020d82: dmuls.l r5,r2
+00020d84: sts mach,r2
+00020d86: shad r1, r2
+00020d88: mov r2,r0
+00020d8a: rotl r0
+00020d8c: and 0x1,r0
+00020d8e: add r0,r2
+00020d90: cmp/pz r2
+00020d92: bt 0x20d98
+00020d94: bra 0x20da4
+00020d96: mov #0x0,r2
+00020d98: movi20 #0x7fff, r5
+00020d9c: cmp/gt r5,r2
+00020d9e: bf 0x20da4
+00020da0: movi20 #0x7fff, r2
+00020da4: mov r2,r6
+00020da6: mov.l @r4,r0
+00020da8: movi20 #0x2bf2, r2
+00020dac: shll16 r2
+00020dae: divs r0, r2
+00020db0: mov.l @(0x20eb4,pc),r1 ; literal=fff80bb0
+00020db2: cmp/pz r2
+00020db4: bt/s 0x20dbc
+00020db6: mov.w r6,@r1
+00020db8: bra 0x20dc8
+00020dba: mov #0x0,r2
+00020dbc: movi20 #0x7fff, r5
+00020dc0: cmp/gt r5,r2
+00020dc2: bf 0x20dc8
+00020dc4: movi20 #0x7fff, r2
+00020dc8: mov.l @(0x20eb8,pc),r6 ; literal=fff80bb2
+00020dca: mov.l @(0x20ebc,pc),r3 ; literal=00022464
+00020dcc: jsr @r3
+00020dce: mov.w r2,@r6

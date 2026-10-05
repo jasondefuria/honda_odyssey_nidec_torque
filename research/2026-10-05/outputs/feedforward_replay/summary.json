@@ -1,0 +1,54 @@
+{
+  "method": "Formula replay using causal latest published modelV2, vehicleParameters, carState and torque estimator messages; exact source revision 580e0fe and opendbc 1fe4521. Not bit-exact process scheduling replay.",
+  "all_active": {
+    "samples": 67989,
+    "residual_mae": 0.00018089570265242104,
+    "residual_p95": 1.1594029727390875e-07,
+    "residual_max": 0.14521058091744868,
+    "jerk_nonzero_pct": 12.619688479018665,
+    "friction_saturated_pct": 12.241686155113326,
+    "accel_friction_factor_unique": [
+      1.0
+    ]
+  },
+  "target_window": {
+    "samples": 996,
+    "residual_mae": 0.00011625183315412772,
+    "residual_p95": 1.178853137648317e-06,
+    "residual_max": 0.01079072446237922,
+    "jerk_nonzero_pct": 1.0040160642570282,
+    "friction_saturated_pct": 0.0,
+    "accel_friction_factor_unique": [
+      1.0
+    ]
+  },
+  "window_components": {
+    "nominal": {
+      "band_rms": 0.020549857859683607,
+      "min": -0.37929107614423213,
+      "max": -0.20226115385034354
+    },
+    "friction_without_jerk": {
+      "band_rms": 0.018242911928092628,
+      "min": -0.07238869599258457,
+      "max": 0.048863387583830686
+    },
+    "jerk_increment": {
+      "band_rms": 7.168180445607513e-05,
+      "min": -0.0012971280310125621,
+      "max": 0.0
+    },
+    "logged": {
+      "band_rms": 0.02984482902109833,
+      "min": -0.4066568911075592,
+      "max": -0.19670140743255615
+    },
+    "replayed": {
+      "band_rms": 0.02986300973880857,
+      "min": -0.4066568926622494,
+      "max": -0.19670140685715232
+    }
+  },
+  "no_jerk_command_delta_max": 0.0012971280310125621,
+  "window_fraction_residual_below_1e_4": 0.9568273092369478
+}

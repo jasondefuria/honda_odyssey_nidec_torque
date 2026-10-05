@@ -1,0 +1,71 @@
+RANGE 0x6b080 0x6b122
+0006b080: mov.l r1,@(0x4,r15)
+0006b082: mov.w @(0x3c, r4), r1
+0006b086: mov.l r7,@(0x28,r15)
+0006b088: mov.l @(0x34,r4),r7
+0006b08a: mov.w r0, @(0x34, r15)
+0006b08e: mov #0x44,r0
+0006b090: mov.l r7,@(0x2c,r15)
+0006b092: mov.w r1, @(0x38, r15)
+0006b096: mov.w r1, @(0x3c, r15)
+0006b09a: mov.l @(r0,r4),r1
+0006b09c: mov.l r7,@r15
+0006b09e: mov.w @(0x3e, r4), r7
+0006b0a2: mov.l r1,@(r0,r15)
+0006b0a4: mov #0x48,r0
+0006b0a6: mov.w r7, @(0x40, r15)
+0006b0aa: mov.l @(r0,r4),r7
+0006b0ac: mov.l @(0x60, r4), r2
+0006b0b0: mov.l r7,@(r0,r15)
+0006b0b2: mov #0x4c,r0
+0006b0b4: mov.w @(r0,r4),r1
+0006b0b6: mov.w @(0x40, r4), r7
+0006b0ba: mov.w r1,@(r0,r15)
+0006b0bc: mov #0x54,r0
+0006b0be: mov.l @(r0,r4),r1
+0006b0c0: mov.w r7, @(0x50, r15)
+0006b0c4: mov.l r1,@(r0,r15)
+0006b0c6: mov #0x58,r0
+0006b0c8: mov.l @(r0,r4),r7
+0006b0ca: mov.w @r4,r5
+0006b0cc: mov.l r7,@(r0,r15)
+0006b0ce: mov #0x5c,r0
+0006b0d0: mov.l r2,@(r0,r15)
+0006b0d2: mov.w @(r0,r4),r2
+0006b0d4: mov #0x64,r0
+0006b0d6: mov.w r2,@r3
+0006b0d8: mov.l @(r0,r4),r2
+0006b0da: mov.l r2,@(r0,r15)
+0006b0dc: mov #0x68,r0
+0006b0de: mov.l @(r0,r4),r2
+0006b0e0: mov.l r2,@(r0,r15)
+0006b0e2: mov #0x6c,r0
+0006b0e4: mov.l @(r0,r4),r2
+0006b0e6: mov.l r2,@(r0,r15)
+0006b0e8: mov #0x70,r0
+0006b0ea: mov.w @(r0,r4),r2
+0006b0ec: mov.w r2,@(r0,r15)
+0006b0ee: mov.w @(0x6,r4),r0
+0006b0f0: mov.w r0,@(0x14,r3)
+0006b0f2: mov.w @(0x4e, r4), r0
+0006b0f6: mov.w r0,@(0x18,r3)
+0006b0f8: stc sr,r4
+0006b0fa: and r6,r4
+0006b0fc: ldc r4,sr
+0006b0fe: mov #-0x60,r2
+0006b100: extu.b r2,r2
+0006b102: mov #0x0,r6
+0006b104: movi20 #-0x7fff, r4
+0006b108: add r15,r2
+0006b10a: cmp/ge r4,r5
+0006b10c: mov.l r6,@(0x1c,r3)
+0006b10e: mov.l r6,@(0x20,r3)
+0006b110: mov.l r6,@(0x24,r3)
+0006b112: mov.l r6,@(0x28,r3)
+0006b114: mov.l r6,@(0x2c,r3)
+0006b116: mov.l r6,@(0x30,r3)
+0006b118: mov.l r6,@(0x34,r3)
+0006b11a: mov.l r6,@(0x38,r3)
+0006b11c: mov.l r6,@(0x3c,r3)
+0006b11e: mov.l r6,@r2
+0006b120: mov.l r6,@(0x4,r2)

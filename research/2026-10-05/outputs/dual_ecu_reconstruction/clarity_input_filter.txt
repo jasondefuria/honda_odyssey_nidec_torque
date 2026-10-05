@@ -1,0 +1,94 @@
+RANGE 0x35688 0x35750
+00035688: extu.w r4,r6
+0003568a: mov.l @(0x356f8,pc),r2 ; literal=ec668000
+0003568c: movi20 #0x2733, r0
+00035690: mulr r0, r6
+00035692: add r2,r6
+00035694: cmp/pz r6
+00035696: bt 0x356a0
+00035698: neg r6,r2
+0003569a: shlr16 r2
+0003569c: bra 0x356a4
+0003569e: neg r2,r2
+000356a0: shlr16 r6
+000356a2: mov r6,r2
+000356a4: movi20 #-0xfae, r5
+000356a8: cmp/ge r5,r2
+000356aa: bt/s 0x356fc
+000356ac: mov r2,r6
+000356ae: movi20 #-0xfae, r6
+000356b2: rtv/n r6
+000356b4: fmov.s @r15, fr15
+000356b6: bclr #0x4, r0
+000356b8: fmov.s @r15, fr15
+000356ba: cmp/eq 0x5e,r0
+000356bc: fmov.s @r15, fr15
+000356be: cmp/eq 0x62,r0
+000356c0: fmov.s @r15, fr15
+000356c2: cmp/eq 0x66,r0
+000356c4: fmov.s @r15, fr15
+000356c6: cmp/eq 0x60,r0
+000356c8: fmov.s @r15, fr15
+000356ca: cmp/eq 0x64,r0
+000356cc: fmov.s @r15, fr15
+000356ce: mov.w @(0x18,r3),r0
+000356d0: bsrf r0
+000356d2: mov.l @(0x20,r9),r12
+000356d4: fmov.s @r15, fr15
+000356d6: mov.w @(0x10,r15),r0
+000356d8: fmov.s @r15, fr15
+000356da: bclr #0x0, r13
+000356dc: fmov.s @r15, fr15
+000356de: mov.w @(0x8,r4),r0
+000356e0: fmov.s @r15, fr15
+000356e2: mov.w @(0x1c,r15),r0
+000356e4: fmov.s @r15, fr15
+000356e6: mov.w @(0x4,r4),r0
+000356e8: fmov.s @r15, fr15
+000356ea: mov.w @(0xc,r4),r0
+000356ec: bsrf r0
+000356ee: shad r15, r3
+000356f0: fmov.s @r15, fr15
+000356f2: mov.w @(0x10,r4),r0
+000356f4: bsrf r0
+000356f6: lds.l @r6+, fpul
+000356f8: mov #0x66,r12
+000356fa: mov.b r0,@(0x0,r0)
+000356fc: movi20 #0xfae, r2
+00035700: cmp/gt r2,r6
+00035702: bf 0x35708
+00035704: movi20 #0xfae, r6
+00035708: rtv/n r6
+0003570a: mov.l r14,@-r15
+0003570c: sts.l pr,@-r15
+0003570e: mov.l @(0x35968,pc),r14 ; literal=fff8855c
+00035710: mov.w @r14,r4
+00035712: mov.l @(0x3596c,pc),r5 ; literal=fff89862
+00035714: mov.l @(0x35970,pc),r1 ; literal=0003aa68
+00035716: jsr @r1
+00035718: mov #0x10,r6
+0003571a: mov.w r0,@(0x6,r14)
+0003571c: mov.l @(0x35974,pc),r5 ; literal=fff89884
+0003571e: movi20 #0x646, r6
+00035722: mov.l @(0x35978,pc),r2 ; literal=0003aa0e
+00035724: jsr @r2
+00035726: mov r0,r4
+00035728: mov.w r0,@(0x8,r14)
+0003572a: mov #0x20,r6
+0003572c: mov.l @(0x3597c,pc),r5 ; literal=fff89888
+0003572e: mov.l @(0x35978,pc),r7 ; literal=0003aa0e
+00035730: jsr @r7
+00035732: mov r0,r4
+00035734: exts.w r0,r2
+00035736: mov.w @(0x8,r14),r0
+00035738: sub r2,r0
+0003573a: mov.w r0,@(0xa,r14)
+0003573c: lds.l @r15+,pr
+0003573e: rts 
+00035740: mov.l @r15+,r14
+00035742: mov.l @(0x35980,pc),r1 ; literal=fff8861e
+00035744: mov.w @r1,r5
+00035746: mov r4,r2
+00035748: movi20 #0x42ab, r0
+0003574c: sub r5,r2
+0003574e: exts.w r2,r6

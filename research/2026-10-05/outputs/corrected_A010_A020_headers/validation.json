@@ -1,0 +1,28 @@
+[
+  {
+    "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/corrected_A010_A020_headers/stock_39990-THR-A020.rwd",
+    "sha256": "b734c504baa389763520940df41fdd64fe3ed2aad1f2c187891818880987e53e",
+    "header_matches_reference": true,
+    "payload_unchanged": true,
+    "outer_checksum_valid": true,
+    "payload_word_sum": 0,
+    "payload_identity_counts": {
+      "39990-THR-A010": 0,
+      "39990-THR-A020": 14,
+      "39990-THR,A020": 0
+    }
+  },
+  {
+    "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/corrected_A010_A020_headers/mod25xv1-39990-THR,A020.rwd",
+    "sha256": "39f9e89f9deae1f798650925537e59803f2a095655e972114bb061c48e01fbc6",
+    "header_matches_reference": true,
+    "payload_unchanged": true,
+    "outer_checksum_valid": true,
+    "payload_word_sum": 0,
+    "payload_identity_counts": {
+      "39990-THR-A010": 0,
+      "39990-THR-A020": 0,
+      "39990-THR,A020": 14
+    }
+  }
+]

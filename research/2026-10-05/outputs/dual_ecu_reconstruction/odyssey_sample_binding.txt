@@ -1,0 +1,20 @@
+RANGE 0x275ec 0x27612
+000275ec: mov.l @(0x27808,pc),r0 ; literal=fff85518
+000275ee: rts/n 
+000275f0: mov.l @(0x2780c,pc),r0 ; literal=fff85504
+000275f2: rts/n 
+000275f4: mov.l @(0x27810,pc),r0 ; literal=fff854d4
+000275f6: rts/n 
+000275f8: mov.l @(0x27814,pc),r0 ; literal=fff85544
+000275fa: rts/n 
+000275fc: mov.l @(0x27818,pc),r0 ; literal=fff85550
+000275fe: rts/n 
+00027600: mov.l @(0x2781c,pc),r0 ; literal=fff85578
+00027602: rts/n 
+00027604: mov.l @(0x27820,pc),r0 ; literal=fff8557c
+00027606: rts/n 
+00027608: mov.l @(0x27824,pc),r0 ; literal=fff85554
+0002760a: rts/n 
+0002760c: mov.l @(0x27828,pc),r0 ; literal=fff85512
+0002760e: rts/n 
+00027610: extu.w r4,r6

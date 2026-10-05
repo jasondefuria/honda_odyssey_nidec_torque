@@ -1,0 +1,242 @@
+{
+  "files": [
+    {
+      "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/work/eps_rwd_publish/eps_tools/stock_39990-THR-A020.rwd",
+      "sha256": "09604ecb9132666261bb966a8cefc5f8b7f7ec628fcd350a652cbcf947abfa14",
+      "bytes": 475237,
+      "blocks": [
+        {
+          "start": 49152,
+          "length": 475136
+        }
+      ],
+      "headers_hex": [
+        [
+          "00"
+        ],
+        [],
+        [
+          "30"
+        ],
+        [
+          "33393939302d5448522d413032300000",
+          "33393939302d5448522d413031300000",
+          "33393939302d5448522c413032300000"
+        ],
+        [
+          "011101121120",
+          "011101121120",
+          "011101121120"
+        ],
+        [
+          "010203"
+        ]
+      ],
+      "checks": [
+        {
+          "check": "CRC at 4FF7C",
+          "stored": "134AE5B1",
+          "computed": "134AE5B1",
+          "pass": true
+        },
+        {
+          "check": "CRC at 6FF7C",
+          "stored": "9A305122",
+          "computed": "9A305122",
+          "pass": true
+        },
+        {
+          "check": "A",
+          "stored": "0xd0ca",
+          "computed": "0xd0ca",
+          "pass": true
+        },
+        {
+          "check": "C",
+          "stored": "0xa6e0",
+          "computed": "0xa6e0",
+          "pass": true
+        },
+        {
+          "check": "container",
+          "stored": "0x45553b8",
+          "computed": "0x45553b8",
+          "pass": true
+        }
+      ],
+      "payload_sum": 0,
+      "marker_pair": [
+        "4837",
+        "B7C8"
+      ],
+      "cipher_roundtrip": true,
+      "identities": {
+        "39990-THR-A010": 0,
+        "39990-THR-A020": 14,
+        "39990-THR,A020": 0
+      }
+    },
+    {
+      "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/mod25xv2_crc_fixed/mod25xv3-39990-THR,A020.rwd",
+      "sha256": "1b1da8bd79114c87f77f98bb69d1574777df0fe709d40fea7863fd9c52ac6ac9",
+      "bytes": 475237,
+      "blocks": [
+        {
+          "start": 49152,
+          "length": 475136
+        }
+      ],
+      "headers_hex": [
+        [
+          "00"
+        ],
+        [],
+        [
+          "30"
+        ],
+        [
+          "33393939302d5448522d413032300000",
+          "33393939302d5448522d413031300000",
+          "33393939302d5448522c413032300000"
+        ],
+        [
+          "011101121120",
+          "011101121120",
+          "011101121120"
+        ],
+        [
+          "010203"
+        ]
+      ],
+      "checks": [
+        {
+          "check": "CRC at 4FF7C",
+          "stored": "134AE5B1",
+          "computed": "134AE5B1",
+          "pass": true
+        },
+        {
+          "check": "CRC at 6FF7C",
+          "stored": "6956DAFD",
+          "computed": "6956DAFD",
+          "pass": true
+        },
+        {
+          "check": "A",
+          "stored": "0xc15d",
+          "computed": "0xc15d",
+          "pass": true
+        },
+        {
+          "check": "C",
+          "stored": "0xc5ba",
+          "computed": "0xc5ba",
+          "pass": true
+        },
+        {
+          "check": "container",
+          "stored": "0x455557e",
+          "computed": "0x455557e",
+          "pass": true
+        }
+      ],
+      "payload_sum": 0,
+      "marker_pair": [
+        "4837",
+        "B7C8"
+      ],
+      "cipher_roundtrip": true,
+      "identities": {
+        "39990-THR-A010": 0,
+        "39990-THR-A020": 0,
+        "39990-THR,A020": 14
+      }
+    }
+  ],
+  "header_bytes_identical": true,
+  "changed_payload_bytes": 130,
+  "all_changes_accounted_for": true,
+  "identity_addresses": [
+    "0x5eb37",
+    "0x5eb7d",
+    "0x5ebc3",
+    "0x5ec09",
+    "0x5ec4f",
+    "0x5ec95",
+    "0x5ecdb",
+    "0x5ed21",
+    "0x5ed67",
+    "0x5edad",
+    "0x5edf3",
+    "0x5ee39",
+    "0x5ee7f",
+    "0x5eec5"
+  ],
+  "calibration_patch_words": 60,
+  "banks": [
+    {
+      "bank": 1,
+      "main_different_bytes": 18,
+      "reference_different_bytes": 18,
+      "minimum_speed": [
+        10,
+        10
+      ]
+    },
+    {
+      "bank": 2,
+      "main_different_bytes": 18,
+      "reference_different_bytes": 18,
+      "minimum_speed": [
+        10,
+        10
+      ]
+    },
+    {
+      "bank": 3,
+      "main_different_bytes": 18,
+      "reference_different_bytes": 18,
+      "minimum_speed": [
+        10,
+        10
+      ]
+    },
+    {
+      "bank": 4,
+      "main_different_bytes": 0,
+      "reference_different_bytes": 0,
+      "minimum_speed": [
+        70,
+        70
+      ]
+    },
+    {
+      "bank": 5,
+      "main_different_bytes": 0,
+      "reference_different_bytes": 0,
+      "minimum_speed": [
+        70,
+        70
+      ]
+    },
+    {
+      "bank": 6,
+      "main_different_bytes": 0,
+      "reference_different_bytes": 0,
+      "minimum_speed": [
+        70,
+        70
+      ]
+    },
+    {
+      "bank": 7,
+      "main_different_bytes": 0,
+      "reference_different_bytes": 0,
+      "minimum_speed": [
+        70,
+        70
+      ]
+    }
+  ],
+  "scope": "Offline verification of both identified runtime CRCs, A/C, word sum, markers, container, format, roundtrip and complete byte diff; not full ECU runtime or physical steering validation."
+}

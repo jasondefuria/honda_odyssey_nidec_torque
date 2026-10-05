@@ -1,0 +1,444 @@
+{
+  "revision": 2,
+  "status": "EXPERIMENTAL: passed scoped SH-2A execution and offline container checks; physical torque and ECU acceptance unvalidated",
+  "stock_sha256": "e2c3c5bb3746f417e70776967f8e1758bb3073fa551f553942a04e822c73ecf2",
+  "candidate_sha256": "688f36d6fb0c3b0ae1a3c8d620c509f7279f015b5d74eb05fd98e2abf9b5847c",
+  "changed_bytes": 112,
+  "patch_words": [
+    {
+      "address": "0x57bc2",
+      "old": 2019,
+      "new": 3968,
+      "role": "main curve[1]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bc4",
+      "old": 3230,
+      "new": 7936,
+      "role": "main curve[2]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bc6",
+      "old": 3980,
+      "new": 9950,
+      "role": "main curve[3]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bc8",
+      "old": 4345,
+      "new": 10863,
+      "role": "main curve[4]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bca",
+      "old": 4577,
+      "new": 11443,
+      "role": "main curve[5]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bcc",
+      "old": 4721,
+      "new": 11803,
+      "role": "main curve[6]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bce",
+      "old": 4864,
+      "new": 12160,
+      "role": "main curve[7]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bd0",
+      "old": 4864,
+      "new": 12160,
+      "role": "main curve[8]",
+      "bank": 1
+    },
+    {
+      "address": "0x67bd8",
+      "old": 2019,
+      "new": 3968,
+      "role": "independent curve reference[1]",
+      "bank": 1
+    },
+    {
+      "address": "0x67bda",
+      "old": 3230,
+      "new": 7936,
+      "role": "independent curve reference[2]",
+      "bank": 1
+    },
+    {
+      "address": "0x67bdc",
+      "old": 3980,
+      "new": 9950,
+      "role": "independent curve reference[3]",
+      "bank": 1
+    },
+    {
+      "address": "0x67bde",
+      "old": 4345,
+      "new": 10863,
+      "role": "independent curve reference[4]",
+      "bank": 1
+    },
+    {
+      "address": "0x67be0",
+      "old": 4577,
+      "new": 11443,
+      "role": "independent curve reference[5]",
+      "bank": 1
+    },
+    {
+      "address": "0x67be2",
+      "old": 4721,
+      "new": 11803,
+      "role": "independent curve reference[6]",
+      "bank": 1
+    },
+    {
+      "address": "0x67be4",
+      "old": 4864,
+      "new": 12160,
+      "role": "independent curve reference[7]",
+      "bank": 1
+    },
+    {
+      "address": "0x67be6",
+      "old": 4864,
+      "new": 12160,
+      "role": "independent curve reference[8]",
+      "bank": 1
+    },
+    {
+      "address": "0x57bd8",
+      "old": 1024,
+      "new": 2560,
+      "role": "P limit",
+      "bank": 1
+    },
+    {
+      "address": "0x57bda",
+      "old": 1024,
+      "new": 2560,
+      "role": "u limit",
+      "bank": 1
+    },
+    {
+      "address": "0x67bee",
+      "old": 1024,
+      "new": 2560,
+      "role": "independent P limit",
+      "bank": 1
+    },
+    {
+      "address": "0x67bf0",
+      "old": 1024,
+      "new": 2560,
+      "role": "independent u limit",
+      "bank": 1
+    },
+    {
+      "address": "0x57ec2",
+      "old": 2019,
+      "new": 3968,
+      "role": "main curve[1]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ec4",
+      "old": 3230,
+      "new": 7936,
+      "role": "main curve[2]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ec6",
+      "old": 3980,
+      "new": 9950,
+      "role": "main curve[3]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ec8",
+      "old": 4345,
+      "new": 10863,
+      "role": "main curve[4]",
+      "bank": 2
+    },
+    {
+      "address": "0x57eca",
+      "old": 4577,
+      "new": 11443,
+      "role": "main curve[5]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ecc",
+      "old": 4721,
+      "new": 11803,
+      "role": "main curve[6]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ece",
+      "old": 4864,
+      "new": 12160,
+      "role": "main curve[7]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ed0",
+      "old": 4864,
+      "new": 12160,
+      "role": "main curve[8]",
+      "bank": 2
+    },
+    {
+      "address": "0x67ed8",
+      "old": 2019,
+      "new": 3968,
+      "role": "independent curve reference[1]",
+      "bank": 2
+    },
+    {
+      "address": "0x67eda",
+      "old": 3230,
+      "new": 7936,
+      "role": "independent curve reference[2]",
+      "bank": 2
+    },
+    {
+      "address": "0x67edc",
+      "old": 3980,
+      "new": 9950,
+      "role": "independent curve reference[3]",
+      "bank": 2
+    },
+    {
+      "address": "0x67ede",
+      "old": 4345,
+      "new": 10863,
+      "role": "independent curve reference[4]",
+      "bank": 2
+    },
+    {
+      "address": "0x67ee0",
+      "old": 4577,
+      "new": 11443,
+      "role": "independent curve reference[5]",
+      "bank": 2
+    },
+    {
+      "address": "0x67ee2",
+      "old": 4721,
+      "new": 11803,
+      "role": "independent curve reference[6]",
+      "bank": 2
+    },
+    {
+      "address": "0x67ee4",
+      "old": 4864,
+      "new": 12160,
+      "role": "independent curve reference[7]",
+      "bank": 2
+    },
+    {
+      "address": "0x67ee6",
+      "old": 4864,
+      "new": 12160,
+      "role": "independent curve reference[8]",
+      "bank": 2
+    },
+    {
+      "address": "0x57ed8",
+      "old": 1024,
+      "new": 2560,
+      "role": "P limit",
+      "bank": 2
+    },
+    {
+      "address": "0x57eda",
+      "old": 1024,
+      "new": 2560,
+      "role": "u limit",
+      "bank": 2
+    },
+    {
+      "address": "0x67eee",
+      "old": 1024,
+      "new": 2560,
+      "role": "independent P limit",
+      "bank": 2
+    },
+    {
+      "address": "0x67ef0",
+      "old": 1024,
+      "new": 2560,
+      "role": "independent u limit",
+      "bank": 2
+    },
+    {
+      "address": "0x581c2",
+      "old": 2019,
+      "new": 3968,
+      "role": "main curve[1]",
+      "bank": 3
+    },
+    {
+      "address": "0x581c4",
+      "old": 3230,
+      "new": 7936,
+      "role": "main curve[2]",
+      "bank": 3
+    },
+    {
+      "address": "0x581c6",
+      "old": 3980,
+      "new": 9950,
+      "role": "main curve[3]",
+      "bank": 3
+    },
+    {
+      "address": "0x581c8",
+      "old": 4345,
+      "new": 10863,
+      "role": "main curve[4]",
+      "bank": 3
+    },
+    {
+      "address": "0x581ca",
+      "old": 4577,
+      "new": 11443,
+      "role": "main curve[5]",
+      "bank": 3
+    },
+    {
+      "address": "0x581cc",
+      "old": 4721,
+      "new": 11803,
+      "role": "main curve[6]",
+      "bank": 3
+    },
+    {
+      "address": "0x581ce",
+      "old": 4864,
+      "new": 12160,
+      "role": "main curve[7]",
+      "bank": 3
+    },
+    {
+      "address": "0x581d0",
+      "old": 4864,
+      "new": 12160,
+      "role": "main curve[8]",
+      "bank": 3
+    },
+    {
+      "address": "0x681d8",
+      "old": 2019,
+      "new": 3968,
+      "role": "independent curve reference[1]",
+      "bank": 3
+    },
+    {
+      "address": "0x681da",
+      "old": 3230,
+      "new": 7936,
+      "role": "independent curve reference[2]",
+      "bank": 3
+    },
+    {
+      "address": "0x681dc",
+      "old": 3980,
+      "new": 9950,
+      "role": "independent curve reference[3]",
+      "bank": 3
+    },
+    {
+      "address": "0x681de",
+      "old": 4345,
+      "new": 10863,
+      "role": "independent curve reference[4]",
+      "bank": 3
+    },
+    {
+      "address": "0x681e0",
+      "old": 4577,
+      "new": 11443,
+      "role": "independent curve reference[5]",
+      "bank": 3
+    },
+    {
+      "address": "0x681e2",
+      "old": 4721,
+      "new": 11803,
+      "role": "independent curve reference[6]",
+      "bank": 3
+    },
+    {
+      "address": "0x681e4",
+      "old": 4864,
+      "new": 12160,
+      "role": "independent curve reference[7]",
+      "bank": 3
+    },
+    {
+      "address": "0x681e6",
+      "old": 4864,
+      "new": 12160,
+      "role": "independent curve reference[8]",
+      "bank": 3
+    },
+    {
+      "address": "0x581d8",
+      "old": 1024,
+      "new": 2560,
+      "role": "P limit",
+      "bank": 3
+    },
+    {
+      "address": "0x581da",
+      "old": 1024,
+      "new": 2560,
+      "role": "u limit",
+      "bank": 3
+    },
+    {
+      "address": "0x681ee",
+      "old": 1024,
+      "new": 2560,
+      "role": "independent P limit",
+      "bank": 3
+    },
+    {
+      "address": "0x681f0",
+      "old": 1024,
+      "new": 2560,
+      "role": "independent u limit",
+      "bank": 3
+    },
+    {
+      "address": "0x7ff80",
+      "old": 53450,
+      "new": 30300,
+      "role": "checksum A",
+      "bank": null
+    },
+    {
+      "address": "0x7fffe",
+      "old": 42720,
+      "new": 23484,
+      "role": "checksum C",
+      "bank": null
+    }
+  ],
+  "rwd_sha256": "dbfe61804b35c6ff8855c0c02115c72c5fdd26d6f82e5e2209cf72bbae120311"
+}

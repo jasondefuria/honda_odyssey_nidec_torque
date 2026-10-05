@@ -1,0 +1,58 @@
+REF 34f26
+00034ef6: mov #-0x8,r2
+00034ef8: shad r2, r6
+00034efa: mov r6,r0
+00034efc: mov.l r0,@(0x34,gbr)
+00034efe: mov.w @(0x3c,gbr),r0
+00034f00: movi20 #0x1555, r5
+00034f04: extu.w r0,r0
+00034f06: add r5,r0
+00034f08: mov.w r0,@(0x0,gbr)
+00034f0a: mov r0,r4
+00034f0c: mov.w @(0x4,r10),r0
+00034f0e: bld.b #0x0, @(0x7, r9)
+00034f12: sub r0,r4
+00034f14: mov r4,r0
+00034f16: bt/s 0x34f20
+00034f18: mov.w r0,@(0x2,gbr)
+00034f1a: bld.b #0x0, @(0x9, r9)
+00034f1e: bf 0x34f24
+00034f20: mov.w @(0x4,gbr),r0
+00034f22: mov r0,r4
+00034f24: mov r4,r0
+00034f26: mov.l @(0x35118,pc),r2
+00034f28: jsr @r2
+00034f2a: mov.w r0,@(0x4,gbr)
+00034f2c: mov.w @(0x4,gbr),r0
+00034f2e: sub r14,r0
+00034f30: exts.w r0,r6
+00034f32: mov #0x74,r0
+00034f34: shll2 r0
+00034f36: mulr r0, r6
+00034f38: cmp/pz r6
+00034f3a: bt 0x34f44
+00034f3c: neg r6,r2
+00034f3e: shlr8 r2
+00034f40: bra 0x34f48
+00034f42: neg r2,r2
+00034f44: shlr8 r6
+POOL 350e0: 24218562
+POOL 350e4: 81418563
+POOL 350e8: 81428564
+POOL 350ec: 81438566
+POOL 350f0: 81448569
+POOL 350f4: 8145856a
+POOL 350f8: 8146856d
+POOL 350fc: 000b8147
+POOL 35100: fff89815
+POOL 35104: fff89890
+POOL 35108: fff89816
+POOL 3510c: fff88875
+POOL 35110: fff8887e
+POOL 35114: 00034888
+POOL 35118: 0003432c
+POOL 3511c: fff889b0
+POOL 35120: fff885a6
+POOL 35124: fff8982e
+POOL 35128: fff89828
+POOL 3512c: fff89822

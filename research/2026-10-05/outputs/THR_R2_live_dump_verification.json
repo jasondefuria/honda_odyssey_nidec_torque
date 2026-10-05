@@ -1,0 +1,56 @@
+{
+  "status": "PASS_SCOPED_CAPTURE_COMPARISON_NOT_FLASH_ACCEPTANCE",
+  "mapped_capture_sha256": "fd4939ac6ca2f6d1216dba89a16d34bfb502413373809809e33f7caff671ff54",
+  "rwd_sha256": "dbfe61804b35c6ff8855c0c02115c72c5fdd26d6f82e5e2209cf72bbae120311",
+  "request_aware_stock_comparison_bytes": 515657,
+  "unexpected_mismatches": [],
+  "excluded_boot_and_RAM_view_bytes": 8631,
+  "directly_observed_application_bytes": 278092,
+  "application_bytes_not_directly_observed": 197044,
+  "direct_ranges": [
+    [
+      "0xc000",
+      "0x10000"
+    ],
+    [
+      "0x40000",
+      "0x5fc00"
+    ],
+    [
+      "0x5fdb4",
+      "0x80000"
+    ]
+  ],
+  "r2_differences_from_captured_stock": 112,
+  "all_r2_patch_bytes_observed_in_stock_state": true,
+  "cross_alias_requests": [
+    {
+      "request": "0x1ffff",
+      "length": 5,
+      "resolved_start": "0x5ffff",
+      "captured": "ff000b00cd",
+      "expected": "ff000b00cd"
+    },
+    {
+      "request": "0x2fffe",
+      "length": 5,
+      "resolved_start": "0x5fffe",
+      "captured": "ffff000b00",
+      "expected": "ffff000b00"
+    }
+  ],
+  "unobserved_application_ranges": [
+    [
+      "0x10000",
+      "0x40000"
+    ],
+    [
+      "0x5fc00",
+      "0x5fdb4"
+    ]
+  ],
+  "boot_region_in_RWD": false,
+  "boot_decrypt_check_routines_executed": false,
+  "physical_torque_validated": false,
+  "flash_acceptance_validated": false
+}

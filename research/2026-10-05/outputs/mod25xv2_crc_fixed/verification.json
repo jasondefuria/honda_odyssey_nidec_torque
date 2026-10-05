@@ -1,0 +1,39 @@
+{
+  "file": "/Users/jasondefuria/Documents/Codex/2026-09-26/tor/outputs/mod25xv2_crc_fixed/mod25xv2-crc-fixed-39990-THR,A020.rwd",
+  "sha256": "1b1da8bd79114c87f77f98bb69d1574777df0fe709d40fea7863fd9c52ac6ac9",
+  "source_sha256": "8cd9aea75bff1e1b66ba0f7f8e5b794c9f77fa3329571adc2d1c34f802985dc1",
+  "bytes": 475237,
+  "runtime_crc_algorithm": "CRC-32/BZIP2",
+  "runtime_crc_checks": [
+    {
+      "slot": "0x4ff7c",
+      "stored": "134AE5B1",
+      "computed": "134AE5B1",
+      "pass": true
+    },
+    {
+      "slot": "0x6ff7c",
+      "stored": "6956DAFD",
+      "computed": "6956DAFD",
+      "pass": true
+    }
+  ],
+  "checksum_A": "c15d",
+  "checksum_C": "c5ba",
+  "container_checksum": "0x455557e",
+  "payload_word_sum": 0,
+  "changed_payload_addresses": [
+    "0x6ff7c",
+    "0x6ff7d",
+    "0x6ff7e",
+    "0x6ff7f",
+    "0x7ff80",
+    "0x7ff81",
+    "0x7fffe",
+    "0x7ffff"
+  ],
+  "header_unchanged": true,
+  "all_non_checksum_payload_bytes_unchanged": true,
+  "source_unchanged": true,
+  "scope": "Offline checksum repair and byte verification only; no ECU flash or runtime acceptance test."
+}

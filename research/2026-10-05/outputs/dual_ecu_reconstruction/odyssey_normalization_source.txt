@@ -1,0 +1,84 @@
+RANGE 0x20d90 0x20e20
+00020d90: cmp/pz r2
+00020d92: bt 0x20d98
+00020d94: bra 0x20da4
+00020d96: mov #0x0,r2
+00020d98: movi20 #0x7fff, r5
+00020d9c: cmp/gt r5,r2
+00020d9e: bf 0x20da4
+00020da0: movi20 #0x7fff, r2
+00020da4: mov r2,r6
+00020da6: mov.l @r4,r0
+00020da8: movi20 #0x2bf2, r2
+00020dac: shll16 r2
+00020dae: divs r0, r2
+00020db0: mov.l @(0x20eb4,pc),r1 ; literal=fff80bb0
+00020db2: cmp/pz r2
+00020db4: bt/s 0x20dbc
+00020db6: mov.w r6,@r1
+00020db8: bra 0x20dc8
+00020dba: mov #0x0,r2
+00020dbc: movi20 #0x7fff, r5
+00020dc0: cmp/gt r5,r2
+00020dc2: bf 0x20dc8
+00020dc4: movi20 #0x7fff, r2
+00020dc8: mov.l @(0x20eb8,pc),r6 ; literal=fff80bb2
+00020dca: mov.l @(0x20ebc,pc),r3 ; literal=00022464
+00020dcc: jsr @r3
+00020dce: mov.w r2,@r6
+00020dd0: bsr 0x211c2
+00020dd2: nop 
+00020dd4: bra 0x21024
+00020dd6: nop 
+00020dd8: mov.b @r1,r0
+00020dda: cmp/eq 0x2,r0
+00020ddc: bf 0x20ec0
+00020dde: bsr 0x208dc
+00020de0: nop 
+00020de2: bra 0x21024
+00020de4: mov r0,r14
+00020de6: movi20 #0xfff8, r0
+00020dea: mov.l @(0x0,r9),r3
+00020dec: mov.w r0,@(r0,r0)
+00020dee: mov.l r0,@(r0,r8)
+00020df0: mov.w r0,@(r0,r0)
+00020df2: mov.l @(r0,r14),r7
+00020df4: fmov.s @r15, fr15
+00020df6: mov.b @(r0,r12),r8
+00020df8: bsrf r0
+RANGE 0x18ed0 0x18f16
+00018ed0: stc sr,r0
+00018ed2: bsr 0x184d2
+00018ed4: stc sr,r0
+00018ed6: bsr 0x18516
+00018ed8: stc sr,r0
+00018eda: bsr 0x1852e
+00018edc: fmov.s @r15, fr15
+00018ede: mov.l r13,@(0x0,r9)
+00018ee0: bsrf r0
+00018ee2: mov.w @(0x18fa6,pc),r8
+00018ee4: fmov.s @r15, fr15
+00018ee6: mov.l r13,@(0x8,r9)
+00018ee8: mov.l r14,@-r15
+00018eea: sts.l pr,@-r15
+00018eec: mov.l @(0x18f48,pc),r1 ; literal=000275f4
+00018eee: jsr/n @r1
+00018ef0: mov.l @(0x18f4c,pc),r14 ; literal=fff85368
+00018ef2: mov.l @(0x18f50,pc),r4 ; literal=000275f8
+00018ef4: jsr @r4
+00018ef6: mov.l r0,@r14
+00018ef8: mov.l @(0x18f54,pc),r5 ; literal=00027600
+00018efa: jsr @r5
+00018efc: mov.l r0,@(0x4,r14)
+00018efe: mov.l @(0x18f58,pc),r6 ; literal=000275ec
+00018f00: jsr @r6
+00018f02: mov.l r0,@(0x8,r14)
+00018f04: mov.l @(0x18f5c,pc),r7 ; literal=000108f0
+00018f06: jsr @r7
+00018f08: mov.l r0,@(0xc,r14)
+00018f0a: mov.l @(0x18f60,pc),r1 ; literal=00015c4a
+00018f0c: jsr @r1
+00018f0e: mov.l r0,@(0x10,r14)
+00018f10: mov.l @(0x18f64,pc),r2 ; literal=00010938
+00018f12: jsr @r2
+00018f14: mov.l r0,@(0x14,r14)
